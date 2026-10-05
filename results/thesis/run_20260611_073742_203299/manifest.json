@@ -1,0 +1,184 @@
+{
+  "artifacts": [],
+  "command": [
+    "C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+    "D:\\BOTH\\scripts\\multi_seed_sweep.py",
+    "--seeds",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "--profile",
+    "full",
+    "--log-dir",
+    "runs/thesis",
+    "--fresh-csv",
+    "--force-regen",
+    "--force-classical"
+  ],
+  "completed_at": null,
+  "config": {
+    "path": "D:\\BOTH\\thesis\\config\\thesis.yaml",
+    "resolved": {
+      "cipher": "simon",
+      "ciphers": [
+        "simon",
+        "speck"
+      ],
+      "classical": {
+        "monte_carlo_repetitions": 3,
+        "n_samples_simon": 250000,
+        "n_samples_speck": 1000000,
+        "top_k_dp": 32
+      },
+      "data_dir": "thesis/data/cache",
+      "input_delta": [
+        1,
+        0
+      ],
+      "model_dir": "models/thesis",
+      "n_samples_per_round": 100000,
+      "results_dir": "results/thesis",
+      "rounds": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "seed": 1,
+      "train_ratio": 0.7,
+      "training": {
+        "batch_size": 512,
+        "device": "auto",
+        "epochs": 80,
+        "lr": 0.001,
+        "patience": 12,
+        "weight_decay": 0.0001
+      },
+      "val_ratio": 0.15
+    },
+    "sha256": "85ece11d19bc9756e50209ac30709118d8c64df85fc9db15222364672afb7f2b"
+  },
+  "created_at": "2026-06-11T04:37:42.203594+00:00",
+  "environment": {
+    "dependencies": {
+      "PyYAML": "6.0.3",
+      "matplotlib": "3.10.9",
+      "numpy": "2.4.4",
+      "scikit-learn": "1.9.0",
+      "scipy": "1.17.1",
+      "seaborn": "0.13.2",
+      "tensorboard": "2.20.0",
+      "torch": "2.12.0+cpu"
+    },
+    "machine": "AMD64",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 151 Stepping 5, GenuineIntel",
+    "python": "3.13.9 (tags/v3.13.9:8183fa5, Oct 14 2025, 14:09:13) [MSC v.1944 64 bit (AMD64)]",
+    "python_executable": "C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+    "torch": {
+      "available": true,
+      "cuda_available": false,
+      "cuda_version": null,
+      "cudnn_version": null,
+      "deterministic_algorithms_at_manifest_creation": false,
+      "requested_determinism_policy": "strict"
+    }
+  },
+  "git": {
+    "branch": "main",
+    "commit": "ffdb7c8b3e7927ce0aa33cc334b7c9fa6ad26ad4",
+    "dirty": false
+  },
+  "parameters": {
+    "ciphers": [
+      "simon",
+      "speck"
+    ],
+    "force_classical": true,
+    "force_regen": true,
+    "fresh_csv_first_seed": true,
+    "input_delta": [
+      1,
+      0
+    ],
+    "n_samples_per_round": 100000,
+    "profile": "full",
+    "rounds": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "seeds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "test_gate": true,
+    "train_ratio": 0.7,
+    "training": {
+      "batch_size": 512,
+      "device": "auto",
+      "epochs": 80,
+      "lr": 0.001,
+      "patience": 12,
+      "weight_decay": 0.0001
+    },
+    "val_ratio": 0.15
+  },
+  "paths": {
+    "data_dir": "thesis/data/cache",
+    "log_dir": "runs\\thesis",
+    "model_dir": "models/thesis",
+    "results_dir": "D:\\BOTH\\results\\thesis\\run_20260611_073742_203299"
+  },
+  "postprocessing": [],
+  "progress": {
+    "completed_seeds": [],
+    "failed_seeds": []
+  },
+  "run_type": "multi_seed_sweep",
+  "schema_version": 6,
+  "source": {
+    "execution_scope": "runtime Python modules and experiment YAML configs",
+    "execution_sha256": "7c0591c0e05a3e8f54abb5ca95f7f796183aa64f3477d16b9cfd9d81bfd3b788",
+    "scope": "maintained source, tests, configs, root reviews, CI workflow, README, requirements, and pyproject",
+    "sha256": "b2fe38eef5e3a9b878356981e4ffb2ae2735a7fc9d5d47386b39bd5c91839b83"
+  },
+  "statistics": {
+    "dispersion": "sample standard deviation (ddof=1; zero for one seed)",
+    "error_bars": "95% Student-t confidence interval across seeds; clipped to the mathematical range of bounded metrics",
+    "grouping": [
+      "cipher",
+      "rounds",
+      "split"
+    ],
+    "null_significance": "exact per-seed conditional random-label p-values retained in log10 form and combined with Fisher's method in log space"
+  },
+  "status": "running",
+  "training_completed_at": null,
+  "updated_at": "2026-06-11T04:37:45.111681+00:00",
+  "working_directory": "D:\\BOTH"
+}

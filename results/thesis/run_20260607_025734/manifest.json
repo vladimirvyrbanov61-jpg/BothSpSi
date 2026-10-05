@@ -1,0 +1,328 @@
+{
+  "artifacts": [
+    {
+      "bytes": 71115,
+      "path": "simon_accuracy.png",
+      "sha256": "8cdac1e366affed3527b024378d51841b4f5854dafd51a18f93aed1208493d65",
+      "type": "png"
+    },
+    {
+      "bytes": 73762,
+      "path": "simon_advantage_abs.png",
+      "sha256": "f8727e9eea584b5bfec5769718b70b1fba486b1e87996df53d67d2e8c84c7da6",
+      "type": "png"
+    },
+    {
+      "bytes": 74654,
+      "path": "simon_advantage_edge.png",
+      "sha256": "6af5b72be5cf5a68e0daeb9be58cf3f3c6d26330d0841acb1275c28059b6888f",
+      "type": "png"
+    },
+    {
+      "bytes": 8496,
+      "path": "simon_aggregate.csv",
+      "sha256": "90e5ee5b06dea06ec746283db5e0575b04e6a66a96c74577b258a3bdecdc6c7c",
+      "type": "csv"
+    },
+    {
+      "bytes": 67104,
+      "path": "simon_auc_roc.png",
+      "sha256": "5bb847f080a558b78d0570db1a247b4cedbb6a68cb5b74a17bcc3358cfa74610",
+      "type": "png"
+    },
+    {
+      "bytes": 318,
+      "path": "simon_classical_bounds.csv",
+      "sha256": "3126a75a13fe571fb9f09e4c0850cf94457f5f7743f21e33c6ecd471d1e4adfa",
+      "type": "csv"
+    },
+    {
+      "bytes": 124344,
+      "path": "simon_classical_ddt.png",
+      "sha256": "6d10e20cd56f670db5b0b48c69c339e9c34ba435edae274038097a610705c817",
+      "type": "png"
+    },
+    {
+      "bytes": 11611,
+      "path": "simon_multi_seed_raw.csv",
+      "sha256": "75897551781b94d539d51b13039013cf5fcdb0f7576a21cb7c2b102a7b6b2b57",
+      "type": "csv"
+    },
+    {
+      "bytes": 11611,
+      "path": "simon_round_sweep.csv",
+      "sha256": "75897551781b94d539d51b13039013cf5fcdb0f7576a21cb7c2b102a7b6b2b57",
+      "type": "csv"
+    },
+    {
+      "bytes": 66847,
+      "path": "simon_tnr.png",
+      "sha256": "d738354b0d7e7584fa8146bd2c9121f27fcb482bcc1d86ce1a1bd1b51417cce7",
+      "type": "png"
+    },
+    {
+      "bytes": 68126,
+      "path": "simon_tpr.png",
+      "sha256": "650cda577d4d180fdaf4c4bc379f420359f38e21da67abc10f0d3a1ea66aed84",
+      "type": "png"
+    },
+    {
+      "bytes": 119782,
+      "path": "simon_vs_classical.png",
+      "sha256": "6c6367aa11a9b66b1393e9692c962b26624ec8a0716394fa644b93a632185125",
+      "type": "png"
+    },
+    {
+      "bytes": 69222,
+      "path": "simon_youden_j.png",
+      "sha256": "e5c3f339ed53a913b416051586d43fa8d7e0960dea13b0fe04df6fdf7bc065ab",
+      "type": "png"
+    },
+    {
+      "bytes": 66517,
+      "path": "speck_accuracy.png",
+      "sha256": "20c6cbef197b3da9ea6e70cc4e24da8aaacafefc4d9b20287a87b7ccc4ab6f0b",
+      "type": "png"
+    },
+    {
+      "bytes": 69140,
+      "path": "speck_advantage_abs.png",
+      "sha256": "31dfcbfda41852e64f5264856b13187144eb9aea26be7ccf4921d62dbc461b39",
+      "type": "png"
+    },
+    {
+      "bytes": 70612,
+      "path": "speck_advantage_edge.png",
+      "sha256": "09b07f4caa18dd9b667f5dc5664ef592c5eb99b09c81764d5a025cbb234e6a8c",
+      "type": "png"
+    },
+    {
+      "bytes": 8825,
+      "path": "speck_aggregate.csv",
+      "sha256": "0f08f38d780c0f93b63768c223538a89b3dd8d31b091f51e70f9a06df35e519e",
+      "type": "csv"
+    },
+    {
+      "bytes": 65450,
+      "path": "speck_auc_roc.png",
+      "sha256": "0b7b037a00c32be0d0c6711112d01cea075bfb21e1e141cc815845bc89bf1e26",
+      "type": "png"
+    },
+    {
+      "bytes": 344,
+      "path": "speck_classical_bounds.csv",
+      "sha256": "d599972a99d4b6bbe293441ad10490e33bed9b8e2fa2521352518a74a6515c31",
+      "type": "csv"
+    },
+    {
+      "bytes": 125794,
+      "path": "speck_classical_ddt.png",
+      "sha256": "ff2d5969856684ecf83692b4b89a3b2ebc5fcc333f0be796a6d6d6123c2b9d95",
+      "type": "png"
+    },
+    {
+      "bytes": 12014,
+      "path": "speck_multi_seed_raw.csv",
+      "sha256": "8619ce095bd94466731c27499d6ab405e2d11c61dd1ced7a18774a3a35df7524",
+      "type": "csv"
+    },
+    {
+      "bytes": 12014,
+      "path": "speck_round_sweep.csv",
+      "sha256": "8619ce095bd94466731c27499d6ab405e2d11c61dd1ced7a18774a3a35df7524",
+      "type": "csv"
+    },
+    {
+      "bytes": 73146,
+      "path": "speck_tnr.png",
+      "sha256": "c0a72c2dbecfab6aaf22821bcb9a7ba2fa9ac3d2f2807e6b9f1e15514bfecd60",
+      "type": "png"
+    },
+    {
+      "bytes": 79034,
+      "path": "speck_tpr.png",
+      "sha256": "1cccb1951e3d2b7954dd7b8d72ab4ffa860ff5b7cd8164b5668ed69e1946c0c9",
+      "type": "png"
+    },
+    {
+      "bytes": 113849,
+      "path": "speck_vs_classical.png",
+      "sha256": "cb4d4c0a4a5f5bb7270e096635b327f688c1a7ad97e734bce61d419308db5b9e",
+      "type": "png"
+    },
+    {
+      "bytes": 64694,
+      "path": "speck_youden_j.png",
+      "sha256": "556a459fd4a41e34263b6e7842175b06082a2ab365e67176bda74145fc7df057",
+      "type": "png"
+    }
+  ],
+  "command": [
+    "C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+    "D:\\BOTH\\scripts\\multi_seed_sweep.py",
+    "--seeds",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "--profile",
+    "full",
+    "--log-dir",
+    "runs/thesis",
+    "--fresh-csv",
+    "--force-regen"
+  ],
+  "completed_at": "2026-06-10T13:45:13.231514+00:00",
+  "config": {
+    "path": "D:\\BOTH\\thesis\\config\\thesis.yaml",
+    "resolved": {
+      "cipher": "simon",
+      "ciphers": [
+        "simon",
+        "speck"
+      ],
+      "classical": {
+        "n_samples_simon": 250000,
+        "n_samples_speck": 1000000,
+        "top_k_dp": 32
+      },
+      "data_dir": "thesis/data/cache",
+      "input_delta": [
+        1,
+        0
+      ],
+      "model_dir": "models/thesis",
+      "n_samples_per_round": 100000,
+      "results_dir": "results/thesis",
+      "rounds": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "seed": 1,
+      "train_ratio": 0.7,
+      "training": {
+        "batch_size": 512,
+        "device": "auto",
+        "epochs": 80,
+        "lr": 0.001,
+        "patience": 12,
+        "weight_decay": 0.0001
+      },
+      "val_ratio": 0.15
+    },
+    "sha256": "b73eeb4556f7de9587ba4efef2f8790505b745b110f2002b80809369c482983c"
+  },
+  "created_at": "2026-06-06T23:57:34.232121+00:00",
+  "environment": {
+    "dependencies": {
+      "PyYAML": "6.0.3",
+      "matplotlib": "3.10.9",
+      "numpy": "2.4.4",
+      "scikit-learn": "1.9.0",
+      "seaborn": "0.13.2",
+      "torch": "2.12.0+cpu"
+    },
+    "machine": "AMD64",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 151 Stepping 5, GenuineIntel",
+    "python": "3.13.9 (tags/v3.13.9:8183fa5, Oct 14 2025, 14:09:13) [MSC v.1944 64 bit (AMD64)]",
+    "python_executable": "C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python313\\python.exe"
+  },
+  "git": {
+    "branch": "main",
+    "commit": "f271ec881c06dc6633f426437c7480b89312a726",
+    "dirty": true
+  },
+  "parameters": {
+    "ciphers": [
+      "simon",
+      "speck"
+    ],
+    "force_regen": true,
+    "fresh_csv_first_seed": true,
+    "input_delta": [
+      1,
+      0
+    ],
+    "n_samples_per_round": 100000,
+    "profile": "full",
+    "rounds": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "seeds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "test_gate": true,
+    "training": {
+      "batch_size": 512,
+      "device": "auto",
+      "epochs": 80,
+      "lr": 0.001,
+      "patience": 12,
+      "weight_decay": 0.0001
+    }
+  },
+  "paths": {
+    "data_dir": "thesis/data/cache",
+    "log_dir": "runs\\thesis",
+    "model_dir": "models/thesis",
+    "results_dir": "D:\\BOTH\\results\\thesis\\run_20260607_025734"
+  },
+  "progress": {
+    "completed_seeds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "failed_seeds": []
+  },
+  "run_type": "multi_seed_sweep",
+  "schema_version": 3,
+  "statistics": {
+    "dispersion": "sample standard deviation (ddof=1; zero for one seed)",
+    "error_bars": "95% Student-t confidence interval across seeds; clipped to the mathematical range of bounded metrics",
+    "grouping": [
+      "cipher",
+      "rounds",
+      "split"
+    ]
+  },
+  "status": "completed",
+  "updated_at": "2026-06-10T13:45:13.231527+00:00",
+  "working_directory": "D:\\BOTH"
+}

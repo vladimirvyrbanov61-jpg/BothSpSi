@@ -1,0 +1,129 @@
+{
+  "baseline_manifest": {
+    "config_sha256": "85ece11d19bc9756e50209ac30709118d8c64df85fc9db15222364672afb7f2b",
+    "execution_source_sha256": "7c0591c0e05a3e8f54abb5ca95f7f796183aa64f3477d16b9cfd9d81bfd3b788",
+    "input_delta": [
+      1,
+      0
+    ],
+    "source_sha256": "b2fe38eef5e3a9b878356981e4ffb2ae2735a7fc9d5d47386b39bd5c91839b83"
+  },
+  "baseline_results_dir": "D:\\BOTH\\results\\thesis\\run_20260611_075811_734215",
+  "candidate_manifest": {
+    "config_sha256": "6d0563b2dba769b1066bc48ca8ca9a45e38f736eaca4cc32f916db0ddc679a08",
+    "execution_source_sha256": "7c0591c0e05a3e8f54abb5ca95f7f796183aa64f3477d16b9cfd9d81bfd3b788",
+    "input_delta": [
+      64,
+      0
+    ],
+    "source_sha256": "b2fe38eef5e3a9b878356981e4ffb2ae2735a7fc9d5d47386b39bd5c91839b83"
+  },
+  "candidate_results_dir": "D:\\BOTH\\results\\thesis_delta_0040\\run_20260611_115956_994859",
+  "controlled_manifest_view": {
+    "config": {
+      "cipher": "simon",
+      "ciphers": [
+        "simon",
+        "speck"
+      ],
+      "classical": {
+        "monte_carlo_repetitions": 3,
+        "n_samples_simon": 250000,
+        "n_samples_speck": 1000000,
+        "top_k_dp": 32
+      },
+      "data_dir": "thesis/data/cache",
+      "n_samples_per_round": 100000,
+      "rounds": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "seed": 1,
+      "train_ratio": 0.7,
+      "training": {
+        "batch_size": 512,
+        "device": "auto",
+        "epochs": 80,
+        "lr": 0.001,
+        "patience": 12,
+        "weight_decay": 0.0001
+      },
+      "val_ratio": 0.15
+    },
+    "dependencies": {
+      "PyYAML": "6.0.3",
+      "matplotlib": "3.10.9",
+      "numpy": "2.4.4",
+      "scikit-learn": "1.9.0",
+      "scipy": "1.17.1",
+      "seaborn": "0.13.2",
+      "tensorboard": "2.20.0",
+      "torch": "2.12.0+cpu"
+    },
+    "parameters": {
+      "ciphers": [
+        "simon",
+        "speck"
+      ],
+      "force_classical": true,
+      "n_samples_per_round": 100000,
+      "profile": "full",
+      "rounds": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "seeds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "test_gate": true,
+      "train_ratio": 0.7,
+      "training": {
+        "batch_size": 512,
+        "device": "auto",
+        "epochs": 80,
+        "lr": 0.001,
+        "patience": 12,
+        "weight_decay": 0.0001
+      },
+      "val_ratio": 0.15
+    },
+    "python": "3.13.9 (tags/v3.13.9:8183fa5, Oct 14 2025, 14:09:13) [MSC v.1944 64 bit (AMD64)]",
+    "source_scope": "execution",
+    "source_sha256": "7c0591c0e05a3e8f54abb5ca95f7f796183aa64f3477d16b9cfd9d81bfd3b788"
+  },
+  "generated_at": "2026-06-12T19:24:25.507676+00:00",
+  "metrics": [
+    "auc_roc",
+    "advantage_edge"
+  ],
+  "multiple_testing_correction": "Holm",
+  "outputs": [
+    "D:\\BOTH\\results\\thesis_delta_0040\\run_20260611_115956_994859\\baseline_comparison\\input_delta_comparison.csv",
+    "D:\\BOTH\\results\\thesis_delta_0040\\run_20260611_115956_994859\\baseline_comparison\\simon_auc_roc_input_delta_comparison.png",
+    "D:\\BOTH\\results\\thesis_delta_0040\\run_20260611_115956_994859\\baseline_comparison\\simon_advantage_edge_input_delta_comparison.png",
+    "D:\\BOTH\\results\\thesis_delta_0040\\run_20260611_115956_994859\\baseline_comparison\\speck_auc_roc_input_delta_comparison.png",
+    "D:\\BOTH\\results\\thesis_delta_0040\\run_20260611_115956_994859\\baseline_comparison\\speck_advantage_edge_input_delta_comparison.png"
+  ],
+  "schema_version": 1
+}

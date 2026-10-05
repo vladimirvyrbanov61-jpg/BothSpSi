@@ -1,0 +1,5189 @@
+{
+  "artifacts": [
+    {
+      "bytes": 157765,
+      "path": "external_artifacts.json",
+      "sha256": "5fdc636d2f308b6e4ffea6a82d8efda85e4435a14f0b6529cb7ff04be488d75c",
+      "type": "json"
+    },
+    {
+      "bytes": 75653,
+      "path": "simon_accuracy.png",
+      "sha256": "d58765fe2c3e2ec1ccffd0efc579f9e37e2e0ff8e6ebb807af1868fe96688826",
+      "type": "png"
+    },
+    {
+      "bytes": 83127,
+      "path": "simon_accuracy_advantage.png",
+      "sha256": "cdaf786deae198a5742aa7d2f50f3a0b2a5237dc56c6bb0a18b17594c5d62fc8",
+      "type": "png"
+    },
+    {
+      "bytes": 80393,
+      "path": "simon_advantage_edge.png",
+      "sha256": "3a1d07380e7f27fec33d034d676755ed8d1103931bc8ebd7e0f7155e047b89ad",
+      "type": "png"
+    },
+    {
+      "bytes": 10090,
+      "path": "simon_aggregate.csv",
+      "sha256": "1d1c932a3444938dfee2b2275de0be0e69a32638cab40ed0779ab5813ac20b7c",
+      "type": "csv"
+    },
+    {
+      "bytes": 76262,
+      "path": "simon_auc_advantage.png",
+      "sha256": "d3e559b91e5d97eb0a6564e9427c797799b332c3cc24d45bd3ff00637e9b5257",
+      "type": "png"
+    },
+    {
+      "bytes": 69592,
+      "path": "simon_auc_roc.png",
+      "sha256": "db449230610ee267b6a1cda0512852892790ab194073470b38de56b25b8da2d7",
+      "type": "png"
+    },
+    {
+      "bytes": 1154,
+      "path": "simon_classical_bounds.csv",
+      "sha256": "ec07385bfd86e58ef820a90a3bc1128db69345e075ba48e03847ecc6cd118654",
+      "type": "csv"
+    },
+    {
+      "bytes": 139041,
+      "path": "simon_classical_ddt.png",
+      "sha256": "c7d2f3c614c04746e8375677601653cf92cfa1477f947886c4f001c01ab60a53",
+      "type": "png"
+    },
+    {
+      "bytes": 13934,
+      "path": "simon_multi_seed_raw.csv",
+      "sha256": "5b5542f8b294f4a9a76d0eb3c5348e7af706072734c84c9522f6bc31647371cc",
+      "type": "csv"
+    },
+    {
+      "bytes": 13934,
+      "path": "simon_round_sweep.csv",
+      "sha256": "5b5542f8b294f4a9a76d0eb3c5348e7af706072734c84c9522f6bc31647371cc",
+      "type": "csv"
+    },
+    {
+      "bytes": 75722,
+      "path": "simon_tnr.png",
+      "sha256": "154a2de30436b2c0a7069a0c5573cd4edb66686ccc51ab1269ed85cc09792bd8",
+      "type": "png"
+    },
+    {
+      "bytes": 75243,
+      "path": "simon_tpr.png",
+      "sha256": "b46d723b94593a1aaa890539a055e0252343df22de3727189a2da527cb090ae1",
+      "type": "png"
+    },
+    {
+      "bytes": 149531,
+      "path": "simon_vs_classical.png",
+      "sha256": "1b720cc0673d5832607f91a83661319546ea7f23106a77b2574be10c9662bb1c",
+      "type": "png"
+    },
+    {
+      "bytes": 74033,
+      "path": "simon_youden_j.png",
+      "sha256": "d706ea698b8c33041ae36dd87f3e109ed9459fbf8ba23991365181ba45f04678",
+      "type": "png"
+    },
+    {
+      "bytes": 70770,
+      "path": "speck_accuracy.png",
+      "sha256": "007d1de4839eb37145142437247c26388334a895c0c4652277a0a743b7bbc3fb",
+      "type": "png"
+    },
+    {
+      "bytes": 77673,
+      "path": "speck_accuracy_advantage.png",
+      "sha256": "152a0059c37c332a283426b0b29239aa479b31f451439608ec189971d2559e33",
+      "type": "png"
+    },
+    {
+      "bytes": 75579,
+      "path": "speck_advantage_edge.png",
+      "sha256": "cea4bdec8cb6ea4da278c4003705e3625bbceb71003aae519698f47bec4c180f",
+      "type": "png"
+    },
+    {
+      "bytes": 10398,
+      "path": "speck_aggregate.csv",
+      "sha256": "c37e30f955cff75a2053ddf0513e9ffa11aeaa6c41c8c544ccf8627447a25c96",
+      "type": "csv"
+    },
+    {
+      "bytes": 77004,
+      "path": "speck_auc_advantage.png",
+      "sha256": "bc8e21cdd424552eacdaced4668d5a35d2e370e308302c844c3a90eaa7dbb2d6",
+      "type": "png"
+    },
+    {
+      "bytes": 71312,
+      "path": "speck_auc_roc.png",
+      "sha256": "98bb47a378fc9a349acd745ef6235d5b485d842e5850e3a2871f22941a2a2782",
+      "type": "png"
+    },
+    {
+      "bytes": 1383,
+      "path": "speck_classical_bounds.csv",
+      "sha256": "4a9f08edd016aed90220cff019b3dfa504c9c3f40407e9cc472cf3f498239f59",
+      "type": "csv"
+    },
+    {
+      "bytes": 136996,
+      "path": "speck_classical_ddt.png",
+      "sha256": "49fe05c92e4abe4989c7ba4e437fd3661e849bbd5cd4aa2d436832007c6b9fcc",
+      "type": "png"
+    },
+    {
+      "bytes": 14397,
+      "path": "speck_multi_seed_raw.csv",
+      "sha256": "9813103f25925150d4c6aa86e2543dc1a393ee1d904092d52a60b5f73fbdcea9",
+      "type": "csv"
+    },
+    {
+      "bytes": 14397,
+      "path": "speck_round_sweep.csv",
+      "sha256": "9813103f25925150d4c6aa86e2543dc1a393ee1d904092d52a60b5f73fbdcea9",
+      "type": "csv"
+    },
+    {
+      "bytes": 72983,
+      "path": "speck_tnr.png",
+      "sha256": "cb826eb88222c52fd6df78f5e6e617a7f04683c4aac5c416371da8e78de61fcc",
+      "type": "png"
+    },
+    {
+      "bytes": 75066,
+      "path": "speck_tpr.png",
+      "sha256": "aa8450d59872709238bed6e38e276b20aabb2aecabe77620a176a4b48ab37213",
+      "type": "png"
+    },
+    {
+      "bytes": 146731,
+      "path": "speck_vs_classical.png",
+      "sha256": "9b70005a6c6bd027043be2d7342b89aad30f4aa879fa327ac9495f1fb7abee45",
+      "type": "png"
+    },
+    {
+      "bytes": 69095,
+      "path": "speck_youden_j.png",
+      "sha256": "2c87120fb23e29feb8797cc0bbdb1e0b9ea92dccb267ae3bb48c7f3e3771dcd3",
+      "type": "png"
+    }
+  ],
+  "command": [
+    "C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+    "D:\\BOTH\\scripts\\multi_seed_sweep.py",
+    "--seeds",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "--profile",
+    "full",
+    "--log-dir",
+    "runs/thesis",
+    "--fresh-csv",
+    "--force-regen",
+    "--force-classical"
+  ],
+  "completed_at": "2026-06-11T01:45:50.368639+00:00",
+  "config": {
+    "path": "D:\\BOTH\\thesis\\config\\thesis.yaml",
+    "resolved": {
+      "cipher": "simon",
+      "ciphers": [
+        "simon",
+        "speck"
+      ],
+      "classical": {
+        "monte_carlo_repetitions": 3,
+        "n_samples_simon": 250000,
+        "n_samples_speck": 1000000,
+        "top_k_dp": 32
+      },
+      "data_dir": "thesis/data/cache",
+      "input_delta": [
+        1,
+        0
+      ],
+      "model_dir": "models/thesis",
+      "n_samples_per_round": 100000,
+      "results_dir": "results/thesis",
+      "rounds": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "seed": 1,
+      "train_ratio": 0.7,
+      "training": {
+        "batch_size": 512,
+        "device": "auto",
+        "epochs": 80,
+        "lr": 0.001,
+        "patience": 12,
+        "weight_decay": 0.0001
+      },
+      "val_ratio": 0.15
+    },
+    "sha256": "85ece11d19bc9756e50209ac30709118d8c64df85fc9db15222364672afb7f2b"
+  },
+  "created_at": "2026-06-10T22:18:37.228491+00:00",
+  "environment": {
+    "dependencies": {
+      "PyYAML": "6.0.3",
+      "matplotlib": "3.10.9",
+      "numpy": "2.4.4",
+      "scikit-learn": "1.9.0",
+      "scipy": "1.17.1",
+      "seaborn": "0.13.2",
+      "tensorboard": "2.20.0",
+      "torch": "2.12.0+cpu"
+    },
+    "machine": "AMD64",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 151 Stepping 5, GenuineIntel",
+    "python": "3.13.9 (tags/v3.13.9:8183fa5, Oct 14 2025, 14:09:13) [MSC v.1944 64 bit (AMD64)]",
+    "python_executable": "C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+    "torch": {
+      "available": true,
+      "cuda_available": false,
+      "cuda_version": null,
+      "cudnn_version": null,
+      "deterministic_algorithms_at_manifest_creation": false,
+      "requested_determinism_policy": "strict"
+    }
+  },
+  "external_artifacts": [
+    {
+      "bytes": 1587342,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r3_62ec3d44485f.npz",
+      "role": "dataset_cache",
+      "rounds": 3,
+      "seed": 1,
+      "sha256": "82d1cb184962fcc08cd5b7b1ca7dea962575977dc3300ebeb53dcf272db007fb",
+      "type": "npz"
+    },
+    {
+      "bytes": 139905,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_1/simon/R3.pt",
+      "role": "model_checkpoint",
+      "rounds": 3,
+      "seed": 1,
+      "sha256": "b754b083b58d1c9262d296c6ccccd31190162f4206839f8ae767a28dc553753b",
+      "type": "pt"
+    },
+    {
+      "bytes": 11030,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_1/simon_R3/events.out.tfevents.1781130052.Vlado.12412.0",
+      "role": "tensorboard_event",
+      "rounds": 3,
+      "seed": 1,
+      "sha256": "d17acd0c7fa34907ee12b4dace3fabbf2323d8bcdf069477d6c1d19820b04a9d",
+      "type": "0"
+    },
+    {
+      "bytes": 1598715,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r4_4beb17a3d061.npz",
+      "role": "dataset_cache",
+      "rounds": 4,
+      "seed": 1,
+      "sha256": "a423097b4ee6d2debc583d2806ea55ed08a3d32266c8b2b84511abeb246cb136",
+      "type": "npz"
+    },
+    {
+      "bytes": 139201,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_1/simon/R4.pt",
+      "role": "model_checkpoint",
+      "rounds": 4,
+      "seed": 1,
+      "sha256": "1a43ec7264d74ebdcb50404ddc5b5b70628d9e88e16ba53c149bec06a9fb003c",
+      "type": "pt"
+    },
+    {
+      "bytes": 8621,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_1/simon_R4/events.out.tfevents.1781130168.Vlado.12412.1",
+      "role": "tensorboard_event",
+      "rounds": 4,
+      "seed": 1,
+      "sha256": "a7c3aa9b40fed805423ac2bfcd91efcf7ca613762b096d19ddb31789f6fdc312",
+      "type": "1"
+    },
+    {
+      "bytes": 1598700,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r5_656b5c186777.npz",
+      "role": "dataset_cache",
+      "rounds": 5,
+      "seed": 1,
+      "sha256": "ff8af01f3f87ceb4b87503bf0b32396d62ad9c85e100aa85b2a9c30093ab6723",
+      "type": "npz"
+    },
+    {
+      "bytes": 139969,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_1/simon/R5.pt",
+      "role": "model_checkpoint",
+      "rounds": 5,
+      "seed": 1,
+      "sha256": "1cef91a085b5428fd6b49c96ffdfbf9bfab05442f7da9bf35dd8f8d6a2aa81e6",
+      "type": "pt"
+    },
+    {
+      "bytes": 11249,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_1/simon_R5/events.out.tfevents.1781130246.Vlado.12412.2",
+      "role": "tensorboard_event",
+      "rounds": 5,
+      "seed": 1,
+      "sha256": "4dd8a6a472e5dee7d8e7ebf2f2ba1f92b396929f01aeb972cb1e975c1af01c5f",
+      "type": "2"
+    },
+    {
+      "bytes": 1599276,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r6_b5abfadab05d.npz",
+      "role": "dataset_cache",
+      "rounds": 6,
+      "seed": 1,
+      "sha256": "7582e87c8b6d86b3d2253bc6b14c72350a2d7bf2f3c8689e2f02e9203b142881",
+      "type": "npz"
+    },
+    {
+      "bytes": 138881,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_1/simon/R6.pt",
+      "role": "model_checkpoint",
+      "rounds": 6,
+      "seed": 1,
+      "sha256": "ca072c9b70bab92b1cf81b83930c729612e269bdc858c37c3feed727408e653b",
+      "type": "pt"
+    },
+    {
+      "bytes": 7526,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_1/simon_R6/events.out.tfevents.1781130348.Vlado.12412.3",
+      "role": "tensorboard_event",
+      "rounds": 6,
+      "seed": 1,
+      "sha256": "d0cce2446398d23a507c2e3c6f9fc0437e27b9d23d5f84d7e2cc2fe35268c8b4",
+      "type": "3"
+    },
+    {
+      "bytes": 1599217,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r7_e72e4d91bb84.npz",
+      "role": "dataset_cache",
+      "rounds": 7,
+      "seed": 1,
+      "sha256": "2ca94cdfa84dd527df7e1f2a57fbfcdedd4d04748b6f288d7687abffa5093ccc",
+      "type": "npz"
+    },
+    {
+      "bytes": 138113,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_1/simon/R7.pt",
+      "role": "model_checkpoint",
+      "rounds": 7,
+      "seed": 1,
+      "sha256": "7f5e21982265abd667866230b87a566fe09ddb1b791c62698ae9e8847d70bae0",
+      "type": "pt"
+    },
+    {
+      "bytes": 4679,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_1/simon_R7/events.out.tfevents.1781130412.Vlado.12412.4",
+      "role": "tensorboard_event",
+      "rounds": 7,
+      "seed": 1,
+      "sha256": "ef48afd94946f36ad3e945cf3e27ad4567083461c9cd25391cb9eb6d1f8b7120",
+      "type": "4"
+    },
+    {
+      "bytes": 1598552,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r8_a19083994571.npz",
+      "role": "dataset_cache",
+      "rounds": 8,
+      "seed": 1,
+      "sha256": "a42f83241c8d9624066e687bbfb9b7166dce4ad8550f9db54ce0f4989b65f2db",
+      "type": "npz"
+    },
+    {
+      "bytes": 137793,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_1/simon/R8.pt",
+      "role": "model_checkpoint",
+      "rounds": 8,
+      "seed": 1,
+      "sha256": "7ab778d3417fff1b3190691a840d18f17b1113a607f023be9a9ee5dd09cbd840",
+      "type": "pt"
+    },
+    {
+      "bytes": 3584,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_1/simon_R8/events.out.tfevents.1781130453.Vlado.12412.5",
+      "role": "tensorboard_event",
+      "rounds": 8,
+      "seed": 1,
+      "sha256": "6c7767d3fda10ce8836767b72be87d10c40c23d93ce001539ae2f779b512ccf2",
+      "type": "5"
+    },
+    {
+      "bytes": 1599017,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r9_0fdb31fcf35b.npz",
+      "role": "dataset_cache",
+      "rounds": 9,
+      "seed": 1,
+      "sha256": "f391adb17dd9a73e349745f189f9ca0a86d94605aab86c769101f3b81cdc36b5",
+      "type": "npz"
+    },
+    {
+      "bytes": 137857,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_1/simon/R9.pt",
+      "role": "model_checkpoint",
+      "rounds": 9,
+      "seed": 1,
+      "sha256": "912b271b2b217403dce6db3b5a60c746b7c709467915c49a4d7d2f6320393aad",
+      "type": "pt"
+    },
+    {
+      "bytes": 3803,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_1/simon_R9/events.out.tfevents.1781130484.Vlado.12412.6",
+      "role": "tensorboard_event",
+      "rounds": 9,
+      "seed": 1,
+      "sha256": "3244d91e19b731a9727b17c28bde857e282966338ae3f5945aac2dd6b988a28c",
+      "type": "6"
+    },
+    {
+      "bytes": 1599521,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r10_ae03232bbad0.npz",
+      "role": "dataset_cache",
+      "rounds": 10,
+      "seed": 1,
+      "sha256": "f7b3de87255e2e425dc24f737f5d4890cfc25b204e5c48583673de21dca90266",
+      "type": "npz"
+    },
+    {
+      "bytes": 138654,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_1/simon/R10.pt",
+      "role": "model_checkpoint",
+      "rounds": 10,
+      "seed": 1,
+      "sha256": "b94fe498aec3a00bb18d72af186ae894e4fec750de82d115ea6141860554bbba",
+      "type": "pt"
+    },
+    {
+      "bytes": 4022,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_1/simon_R10/events.out.tfevents.1781130517.Vlado.12412.7",
+      "role": "tensorboard_event",
+      "rounds": 10,
+      "seed": 1,
+      "sha256": "da9002d5d1ae0279a02de6d5f6f8c742fe6458543968e7a700562d6c03f0dc26",
+      "type": "7"
+    },
+    {
+      "bytes": 1596601,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r3_e6ea30ea0d92.npz",
+      "role": "dataset_cache",
+      "rounds": 3,
+      "seed": 1,
+      "sha256": "5e3e6199d4b09e2d650a2ec180bf96e340fed1f232c91db7ed2b30fd634e27bf",
+      "type": "npz"
+    },
+    {
+      "bytes": 139073,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_1/speck/R3.pt",
+      "role": "model_checkpoint",
+      "rounds": 3,
+      "seed": 1,
+      "sha256": "3d6b6245bfdea0e28789df2430c6134f850712975798e51fbf9b6d0ca7f493bb",
+      "type": "pt"
+    },
+    {
+      "bytes": 8183,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_1/speck_R3/events.out.tfevents.1781130552.Vlado.12412.8",
+      "role": "tensorboard_event",
+      "rounds": 3,
+      "seed": 1,
+      "sha256": "92cf713be74a7cf6179f1bab7a756df53c6361695c4ab374043eaae02df300df",
+      "type": "8"
+    },
+    {
+      "bytes": 1599499,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r4_4883b84c9afa.npz",
+      "role": "dataset_cache",
+      "rounds": 4,
+      "seed": 1,
+      "sha256": "e39d501767c8597ef556dbef5b821b82b5f1d65d1f2fa5ccf5433c4efca1b99a",
+      "type": "npz"
+    },
+    {
+      "bytes": 138817,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_1/speck/R4.pt",
+      "role": "model_checkpoint",
+      "rounds": 4,
+      "seed": 1,
+      "sha256": "c4fb2b82a41a9fbad1437bcda4248f56d5338dcba0097b9ee700dc03889ea85b",
+      "type": "pt"
+    },
+    {
+      "bytes": 7307,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_1/speck_R4/events.out.tfevents.1781130622.Vlado.12412.9",
+      "role": "tensorboard_event",
+      "rounds": 4,
+      "seed": 1,
+      "sha256": "c58d941c5d6fc8f3123d0f7a1358e80ae7b7209864a463c5d47ab1c41f8a5ea4",
+      "type": "9"
+    },
+    {
+      "bytes": 1598617,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r5_5f1de68aacb4.npz",
+      "role": "dataset_cache",
+      "rounds": 5,
+      "seed": 1,
+      "sha256": "9fe8d260822aabdaeb5307b50592e747b93c8bad8916a424499cc4db7ef4cb3c",
+      "type": "npz"
+    },
+    {
+      "bytes": 138369,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_1/speck/R5.pt",
+      "role": "model_checkpoint",
+      "rounds": 5,
+      "seed": 1,
+      "sha256": "58d651ffed7e3d83763b232fe1ff029d8fc8005be26d0aedc01bd4938d0d1d36",
+      "type": "pt"
+    },
+    {
+      "bytes": 5555,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_1/speck_R5/events.out.tfevents.1781130701.Vlado.12412.10",
+      "role": "tensorboard_event",
+      "rounds": 5,
+      "seed": 1,
+      "sha256": "137191b63e44a50aad4c0e52f25a9bb8a93dbad1e847f4deb581c03988e29f8a",
+      "type": "10"
+    },
+    {
+      "bytes": 1598532,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r6_fd30434c932e.npz",
+      "role": "dataset_cache",
+      "rounds": 6,
+      "seed": 1,
+      "sha256": "21f1af5f9ee1962531c3a6deedcc14bb05a3aa392885b90180de2247185ada37",
+      "type": "npz"
+    },
+    {
+      "bytes": 137665,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_1/speck/R6.pt",
+      "role": "model_checkpoint",
+      "rounds": 6,
+      "seed": 1,
+      "sha256": "46380a04d1e0c3da5f353edf1a7805cb09e536d827ab0ccb888eaadc0489243a",
+      "type": "pt"
+    },
+    {
+      "bytes": 3146,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_1/speck_R6/events.out.tfevents.1781130761.Vlado.12412.11",
+      "role": "tensorboard_event",
+      "rounds": 6,
+      "seed": 1,
+      "sha256": "75ff3189122710a7c2489f20735f2f5d13ff871632c177a186be450637e11c94",
+      "type": "11"
+    },
+    {
+      "bytes": 1599108,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r7_a431f07f5a7a.npz",
+      "role": "dataset_cache",
+      "rounds": 7,
+      "seed": 1,
+      "sha256": "4fc81b5d5e42e0b91ff7ef55dc1b1086dc159b7b392c380043fddd927e3064bb",
+      "type": "npz"
+    },
+    {
+      "bytes": 137601,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_1/speck/R7.pt",
+      "role": "model_checkpoint",
+      "rounds": 7,
+      "seed": 1,
+      "sha256": "00df39eebaf1e901b05732a77cf2da9f38e643a15553b019b52ecd21cef72660",
+      "type": "pt"
+    },
+    {
+      "bytes": 2927,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_1/speck_R7/events.out.tfevents.1781130795.Vlado.12412.12",
+      "role": "tensorboard_event",
+      "rounds": 7,
+      "seed": 1,
+      "sha256": "99c404fab679a5710758b958f0aa73d0f3b485f3bbd4bf0576667f857e6fe318",
+      "type": "12"
+    },
+    {
+      "bytes": 1598652,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r8_4f2645d46174.npz",
+      "role": "dataset_cache",
+      "rounds": 8,
+      "seed": 1,
+      "sha256": "ad0f2f27f233f542151a079b3d800e368c5b519355e1e31e45851d57f39f3d8f",
+      "type": "npz"
+    },
+    {
+      "bytes": 137665,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_1/speck/R8.pt",
+      "role": "model_checkpoint",
+      "rounds": 8,
+      "seed": 1,
+      "sha256": "82dd729852b448636a70e765483811ca90944bd61a4f7012e9613c5d3d46ccf4",
+      "type": "pt"
+    },
+    {
+      "bytes": 3146,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_1/speck_R8/events.out.tfevents.1781130828.Vlado.12412.13",
+      "role": "tensorboard_event",
+      "rounds": 8,
+      "seed": 1,
+      "sha256": "fc7d00c81f92b58c926e201d2c45098b7783c117f9d497cacd154918bbb0250c",
+      "type": "13"
+    },
+    {
+      "bytes": 1598768,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r9_b65ad561ca66.npz",
+      "role": "dataset_cache",
+      "rounds": 9,
+      "seed": 1,
+      "sha256": "0e125ed138eb55f5ffadaa0fc17123ea209b95f19d756bdf4233efcb64cdfd9b",
+      "type": "npz"
+    },
+    {
+      "bytes": 137729,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_1/speck/R9.pt",
+      "role": "model_checkpoint",
+      "rounds": 9,
+      "seed": 1,
+      "sha256": "adc8e6c0ad4f1802e018e0ca1bb473f64d489ff4682d1ccb5d79e277a248c1e3",
+      "type": "pt"
+    },
+    {
+      "bytes": 3365,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_1/speck_R9/events.out.tfevents.1781130862.Vlado.12412.14",
+      "role": "tensorboard_event",
+      "rounds": 9,
+      "seed": 1,
+      "sha256": "847584d52320ade8e723c44680e5ad3093404e7c104c48c92614ed516f8f8384",
+      "type": "14"
+    },
+    {
+      "bytes": 1598517,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r10_f04492d45c14.npz",
+      "role": "dataset_cache",
+      "rounds": 10,
+      "seed": 1,
+      "sha256": "ed2789328de4adcb52ff5960eb070f731e74c32752614a0871c6ff103964db6c",
+      "type": "npz"
+    },
+    {
+      "bytes": 139230,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_1/speck/R10.pt",
+      "role": "model_checkpoint",
+      "rounds": 10,
+      "seed": 1,
+      "sha256": "ace1f323a8469edb81b4ff8fe859d6b57acf42b2e03280ad90e0499018b66bcb",
+      "type": "pt"
+    },
+    {
+      "bytes": 5993,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_1/speck_R10/events.out.tfevents.1781130899.Vlado.12412.15",
+      "role": "tensorboard_event",
+      "rounds": 10,
+      "seed": 1,
+      "sha256": "9167639eae2cfb3a6b429150eed04cfc925118c111c0be971843cabcfa064b70",
+      "type": "15"
+    },
+    {
+      "bytes": 1587741,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r3_d046b4b3bd38.npz",
+      "role": "dataset_cache",
+      "rounds": 3,
+      "seed": 2,
+      "sha256": "312f9adaf2ab687922bc1cd500c3c1cfa4c7228c5238dfbc577ae2836678849f",
+      "type": "npz"
+    },
+    {
+      "bytes": 140353,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_2/simon/R3.pt",
+      "role": "model_checkpoint",
+      "rounds": 3,
+      "seed": 2,
+      "sha256": "7c2e1ba81f4b020e46accd7f459587e6134de80bef7ca80bd9ef22e42df35dbe",
+      "type": "pt"
+    },
+    {
+      "bytes": 12563,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_2/simon_R3/events.out.tfevents.1781130970.Vlado.32188.0",
+      "role": "tensorboard_event",
+      "rounds": 3,
+      "seed": 2,
+      "sha256": "a706d617140ad97a6a6a634a0fd5c4a42ffbe37ba0cacd0cfac9074992032c9a",
+      "type": "0"
+    },
+    {
+      "bytes": 1597367,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r4_d89f1be12c5e.npz",
+      "role": "dataset_cache",
+      "rounds": 4,
+      "seed": 2,
+      "sha256": "7b018e860ecb284b3b72ed64fd4c64f36578687544ce687a804beef18cd14322",
+      "type": "npz"
+    },
+    {
+      "bytes": 139009,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_2/simon/R4.pt",
+      "role": "model_checkpoint",
+      "rounds": 4,
+      "seed": 2,
+      "sha256": "95227f43c77fbfbb09f1e1c34349dbeb827177c7bce043d093cc1f6df3e4a66c",
+      "type": "pt"
+    },
+    {
+      "bytes": 7964,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_2/simon_R4/events.out.tfevents.1781131104.Vlado.32188.1",
+      "role": "tensorboard_event",
+      "rounds": 4,
+      "seed": 2,
+      "sha256": "b3ea1127fe5cc8de3806e11a1f4af546840d39878b1097a0d7ede386bc64ae77",
+      "type": "1"
+    },
+    {
+      "bytes": 1598978,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r5_0a3ba906236a.npz",
+      "role": "dataset_cache",
+      "rounds": 5,
+      "seed": 2,
+      "sha256": "b7fc2abb3db4d176162ad85383c02a9d893ef09eaca0d8caca2c2e493ae4feec",
+      "type": "npz"
+    },
+    {
+      "bytes": 139329,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_2/simon/R5.pt",
+      "role": "model_checkpoint",
+      "rounds": 5,
+      "seed": 2,
+      "sha256": "ce1669c51580b7cda73b74d339badc7fb486ba46f8f4e5dc89b7188eda7d045b",
+      "type": "pt"
+    },
+    {
+      "bytes": 9059,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_2/simon_R5/events.out.tfevents.1781131188.Vlado.32188.2",
+      "role": "tensorboard_event",
+      "rounds": 5,
+      "seed": 2,
+      "sha256": "b12d1769483aad8a32ef8f3a54b6b1e680c37898e157747cc5fc55d3396b1cab",
+      "type": "2"
+    },
+    {
+      "bytes": 1599084,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r6_b9b11c946dca.npz",
+      "role": "dataset_cache",
+      "rounds": 6,
+      "seed": 2,
+      "sha256": "f20e2b041686b1c6bf55539912d3f24cf76d0326143fab7ebe05cb44e56ccf98",
+      "type": "npz"
+    },
+    {
+      "bytes": 138689,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_2/simon/R6.pt",
+      "role": "model_checkpoint",
+      "rounds": 6,
+      "seed": 2,
+      "sha256": "346b85ff4d7d296c17f321cfd88b2b279ab21a64ab841ba64cde1ede3ba272e8",
+      "type": "pt"
+    },
+    {
+      "bytes": 6650,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_2/simon_R6/events.out.tfevents.1781131284.Vlado.32188.3",
+      "role": "tensorboard_event",
+      "rounds": 6,
+      "seed": 2,
+      "sha256": "c29a48187a69b275e0ab89dc645af63558ed363b005e73778812d0b064302474",
+      "type": "3"
+    },
+    {
+      "bytes": 1598601,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r7_c1f03afd2f41.npz",
+      "role": "dataset_cache",
+      "rounds": 7,
+      "seed": 2,
+      "sha256": "f9b52545612940243e34e529edfdc4c6665335884064eb5c1d95b86ad41d74a2",
+      "type": "npz"
+    },
+    {
+      "bytes": 137921,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_2/simon/R7.pt",
+      "role": "model_checkpoint",
+      "rounds": 7,
+      "seed": 2,
+      "sha256": "1f03b59470ca5e681dd3f9c9b5977126d5dd999be23e67a56f85bb7e640f3627",
+      "type": "pt"
+    },
+    {
+      "bytes": 4022,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_2/simon_R7/events.out.tfevents.1781131355.Vlado.32188.4",
+      "role": "tensorboard_event",
+      "rounds": 7,
+      "seed": 2,
+      "sha256": "b94344fbc9cf04f60e1a09d8ba1f14f3dda9c2bbad890482fa240b9aa44da349",
+      "type": "4"
+    },
+    {
+      "bytes": 1599412,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r8_21794fca72b6.npz",
+      "role": "dataset_cache",
+      "rounds": 8,
+      "seed": 2,
+      "sha256": "2bac1ac932853cb0a938cfcb6d860e61056a9dcbddcc7e6179576ccf36efb95e",
+      "type": "npz"
+    },
+    {
+      "bytes": 137857,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_2/simon/R8.pt",
+      "role": "model_checkpoint",
+      "rounds": 8,
+      "seed": 2,
+      "sha256": "0d6e19ea57736d00a44388dac6974e50ad1fa688134680ac0e79c3d07d6645ca",
+      "type": "pt"
+    },
+    {
+      "bytes": 3803,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_2/simon_R8/events.out.tfevents.1781131398.Vlado.32188.5",
+      "role": "tensorboard_event",
+      "rounds": 8,
+      "seed": 2,
+      "sha256": "ebe32829847a13c5c1dbc7bf8e3c61e44f3b0a911cd771f63b53ee836e4ce703",
+      "type": "5"
+    },
+    {
+      "bytes": 1598975,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r9_648e772f36db.npz",
+      "role": "dataset_cache",
+      "rounds": 9,
+      "seed": 2,
+      "sha256": "156cfd75ad9fce679a8d78b9c1cc3fe2bc401d5d0904e916e0fa99012ecd5672",
+      "type": "npz"
+    },
+    {
+      "bytes": 138689,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_2/simon/R9.pt",
+      "role": "model_checkpoint",
+      "rounds": 9,
+      "seed": 2,
+      "sha256": "3f14353209ec3b019f0d6cb69eb9e5f4544cb4be3552a341d4f352f76bf783c9",
+      "type": "pt"
+    },
+    {
+      "bytes": 6650,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_2/simon_R9/events.out.tfevents.1781131439.Vlado.32188.6",
+      "role": "tensorboard_event",
+      "rounds": 9,
+      "seed": 2,
+      "sha256": "016458e67a4458929ef393f25afcf4d3525e6cfeb5bed8e9e2f35468c64fbc41",
+      "type": "6"
+    },
+    {
+      "bytes": 1599203,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r10_8ee809e87a4c.npz",
+      "role": "dataset_cache",
+      "rounds": 10,
+      "seed": 2,
+      "sha256": "adb6c524ac2aaf60b36d0123276b4bbba5b4b82a9f7f9668aea58c215f9932c3",
+      "type": "npz"
+    },
+    {
+      "bytes": 139486,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_2/simon/R10.pt",
+      "role": "model_checkpoint",
+      "rounds": 10,
+      "seed": 2,
+      "sha256": "e14d052cc063d06851d530c43c4edfc43b1baa9b26450cdaeb33529b8ea873b8",
+      "type": "pt"
+    },
+    {
+      "bytes": 6869,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_2/simon_R10/events.out.tfevents.1781131511.Vlado.32188.7",
+      "role": "tensorboard_event",
+      "rounds": 10,
+      "seed": 2,
+      "sha256": "00bc91a7db93649957da0af9d250cb7cd07e54f03caa414df693e96136525e03",
+      "type": "7"
+    },
+    {
+      "bytes": 1596905,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r3_b17ce8cb15c6.npz",
+      "role": "dataset_cache",
+      "rounds": 3,
+      "seed": 2,
+      "sha256": "0ae56110bb345ad534d98cd2ead850864e428c8e373148c2222cc956965a211c",
+      "type": "npz"
+    },
+    {
+      "bytes": 139137,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_2/speck/R3.pt",
+      "role": "model_checkpoint",
+      "rounds": 3,
+      "seed": 2,
+      "sha256": "9b0a2b58eed3f436093afb9443875c2ef5eef120b8a3e4fc236b3e9e972f6a12",
+      "type": "pt"
+    },
+    {
+      "bytes": 8402,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_2/speck_R3/events.out.tfevents.1781131586.Vlado.32188.8",
+      "role": "tensorboard_event",
+      "rounds": 3,
+      "seed": 2,
+      "sha256": "e8defbd69e62f76e665bb6a6371ca7f3b9ad45880290852ab0c5172ec0303093",
+      "type": "8"
+    },
+    {
+      "bytes": 1599935,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r4_58f180460b20.npz",
+      "role": "dataset_cache",
+      "rounds": 4,
+      "seed": 2,
+      "sha256": "690407329b13524af46f6c21054849815aa524cbd004e76756cdd051ec388081",
+      "type": "npz"
+    },
+    {
+      "bytes": 138881,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_2/speck/R4.pt",
+      "role": "model_checkpoint",
+      "rounds": 4,
+      "seed": 2,
+      "sha256": "50e7cdae84717ecb1066c0cea73ae6a687c16a5c04fb5070fba8095473014cf2",
+      "type": "pt"
+    },
+    {
+      "bytes": 7526,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_2/speck_R4/events.out.tfevents.1781131674.Vlado.32188.9",
+      "role": "tensorboard_event",
+      "rounds": 4,
+      "seed": 2,
+      "sha256": "f570b812ca4cd50ef777d6d002b206790979deb7a9267ce7fdbf38c90d253bad",
+      "type": "9"
+    },
+    {
+      "bytes": 1598767,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r5_7e932fb45df7.npz",
+      "role": "dataset_cache",
+      "rounds": 5,
+      "seed": 2,
+      "sha256": "0a743c6b1be67a0c3dbac7a764be89c096c195dac619e7f4f13924c1ad1c9796",
+      "type": "npz"
+    },
+    {
+      "bytes": 138369,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_2/speck/R5.pt",
+      "role": "model_checkpoint",
+      "rounds": 5,
+      "seed": 2,
+      "sha256": "0208e93def1da8e2e1dffaf7f8540c2a2820a6a32d1296f30e21f1670fd72d35",
+      "type": "pt"
+    },
+    {
+      "bytes": 5555,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_2/speck_R5/events.out.tfevents.1781131754.Vlado.32188.10",
+      "role": "tensorboard_event",
+      "rounds": 5,
+      "seed": 2,
+      "sha256": "ec9a47d85a0ffa2fc33ff2ac886214eaeaf29c426a004c6e2c0d67a05f9d2950",
+      "type": "10"
+    },
+    {
+      "bytes": 1598987,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r6_07c59cb30dba.npz",
+      "role": "dataset_cache",
+      "rounds": 6,
+      "seed": 2,
+      "sha256": "b95d56b7dca1f82e851008e2db2ba1f7733a99d06eed29d4b7f182b01331cf43",
+      "type": "npz"
+    },
+    {
+      "bytes": 138689,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_2/speck/R6.pt",
+      "role": "model_checkpoint",
+      "rounds": 6,
+      "seed": 2,
+      "sha256": "4840dc169d0de99a54b921749daaf1a036fb92804752c67836f4c28870c3296e",
+      "type": "pt"
+    },
+    {
+      "bytes": 6650,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_2/speck_R6/events.out.tfevents.1781131818.Vlado.32188.11",
+      "role": "tensorboard_event",
+      "rounds": 6,
+      "seed": 2,
+      "sha256": "0bcd1b64de75504ee14e8a4d0088242cbaabde69fd08fb51b9731e46e513a1f9",
+      "type": "11"
+    },
+    {
+      "bytes": 1599354,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r7_cc0d8f0d2076.npz",
+      "role": "dataset_cache",
+      "rounds": 7,
+      "seed": 2,
+      "sha256": "5b9e3ef5aa85928a27b19d93799ea2e777d22ceae1fe0de02c76af3f3871c74d",
+      "type": "npz"
+    },
+    {
+      "bytes": 138305,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_2/speck/R7.pt",
+      "role": "model_checkpoint",
+      "rounds": 7,
+      "seed": 2,
+      "sha256": "297a592123b4990f5a39a38fa6da8e25398718d87b99353bcdd535708f85ddd2",
+      "type": "pt"
+    },
+    {
+      "bytes": 5336,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_2/speck_R7/events.out.tfevents.1781131893.Vlado.32188.12",
+      "role": "tensorboard_event",
+      "rounds": 7,
+      "seed": 2,
+      "sha256": "14e311d6f028633ba7ff060d3e5be175d78a8bcfa560e0061357dea323d32658",
+      "type": "12"
+    },
+    {
+      "bytes": 1598563,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r8_a888ebb4e891.npz",
+      "role": "dataset_cache",
+      "rounds": 8,
+      "seed": 2,
+      "sha256": "5f6ae40c38a2aec91f4851e8e323a1c9a60c4cb1400dbda19d8e9cd4e36eb161",
+      "type": "npz"
+    },
+    {
+      "bytes": 139329,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_2/speck/R8.pt",
+      "role": "model_checkpoint",
+      "rounds": 8,
+      "seed": 2,
+      "sha256": "ba9538f82db964c39fdd6f5935b9875788966c19e6fcbcf0bc7b7ce08b086e2f",
+      "type": "pt"
+    },
+    {
+      "bytes": 9059,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_2/speck_R8/events.out.tfevents.1781131950.Vlado.32188.13",
+      "role": "tensorboard_event",
+      "rounds": 8,
+      "seed": 2,
+      "sha256": "d91c35dcab89806feac4fa6ad401eff4ab0b7718307b5c9bcbe916b9e639748c",
+      "type": "13"
+    },
+    {
+      "bytes": 1598571,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r9_5fa89178e978.npz",
+      "role": "dataset_cache",
+      "rounds": 9,
+      "seed": 2,
+      "sha256": "6fc24578aee01d77c3a158422e4b336ed6b67a47880e4ed5d82890dcfbced02b",
+      "type": "npz"
+    },
+    {
+      "bytes": 137793,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_2/speck/R9.pt",
+      "role": "model_checkpoint",
+      "rounds": 9,
+      "seed": 2,
+      "sha256": "46d43b08e5f6c2a194831b71b9d15e3346ea1e727d782806103968c147ea3a8f",
+      "type": "pt"
+    },
+    {
+      "bytes": 3584,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_2/speck_R9/events.out.tfevents.1781132055.Vlado.32188.14",
+      "role": "tensorboard_event",
+      "rounds": 9,
+      "seed": 2,
+      "sha256": "6c3fc95959bc2d1e1e103dc53963a096144aa1bd60448ed5d89cb841d7a9f90a",
+      "type": "14"
+    },
+    {
+      "bytes": 1599188,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r10_131b58d95fea.npz",
+      "role": "dataset_cache",
+      "rounds": 10,
+      "seed": 2,
+      "sha256": "f4fdf4de90b3170521fbb21a147d0075e64e80111b704a5ece7be4bb9716e0cd",
+      "type": "npz"
+    },
+    {
+      "bytes": 138974,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_2/speck/R10.pt",
+      "role": "model_checkpoint",
+      "rounds": 10,
+      "seed": 2,
+      "sha256": "c7978afc3ec4f3ce8336c86c734c5b9caf6068eb5290087563e076476c6bf723",
+      "type": "pt"
+    },
+    {
+      "bytes": 5117,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_2/speck_R10/events.out.tfevents.1781132094.Vlado.32188.15",
+      "role": "tensorboard_event",
+      "rounds": 10,
+      "seed": 2,
+      "sha256": "663b1dfb8656c2a26afffe1dd69426f48fba025c2b7c961e62c145b139c805c3",
+      "type": "15"
+    },
+    {
+      "bytes": 1588229,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r3_4a0ab635dfaa.npz",
+      "role": "dataset_cache",
+      "rounds": 3,
+      "seed": 3,
+      "sha256": "2b74a3902a76145f7e9dd31fa13d38a84bbdc54f24118cfe431ab1ce85d3b394",
+      "type": "npz"
+    },
+    {
+      "bytes": 138817,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_3/simon/R3.pt",
+      "role": "model_checkpoint",
+      "rounds": 3,
+      "seed": 3,
+      "sha256": "63878340759362e5a5612bae49604c0cb8aef801144ba3f3fa76ca7a78a54f05",
+      "type": "pt"
+    },
+    {
+      "bytes": 7307,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_3/simon_R3/events.out.tfevents.1781132157.Vlado.21964.0",
+      "role": "tensorboard_event",
+      "rounds": 3,
+      "seed": 3,
+      "sha256": "9422e1e95a985fcccdc39e87fc5eabdc89da99ff407b3752ce05c037e9d91eb4",
+      "type": "0"
+    },
+    {
+      "bytes": 1597990,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r4_323c58e62b3e.npz",
+      "role": "dataset_cache",
+      "rounds": 4,
+      "seed": 3,
+      "sha256": "91fa185b129736c95d5eeb6ec88acf8a4541fd62773024122b818a12bfaca2c2",
+      "type": "npz"
+    },
+    {
+      "bytes": 139329,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_3/simon/R4.pt",
+      "role": "model_checkpoint",
+      "rounds": 4,
+      "seed": 3,
+      "sha256": "dbc385360e6e02b8c76b2c18554dcdac13119c5c76715aa551a6d79dc88d29ee",
+      "type": "pt"
+    },
+    {
+      "bytes": 9059,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_3/simon_R4/events.out.tfevents.1781132234.Vlado.21964.1",
+      "role": "tensorboard_event",
+      "rounds": 4,
+      "seed": 3,
+      "sha256": "4f1fccea98d0ea757c946a1b256b6e08eebdb388128fb8ea321b35db15585b0a",
+      "type": "1"
+    },
+    {
+      "bytes": 1599357,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r5_725e00a7917a.npz",
+      "role": "dataset_cache",
+      "rounds": 5,
+      "seed": 3,
+      "sha256": "d076e89bf79a9c3eded3120546676721e97424799e26e7a8cec2988b55e21aae",
+      "type": "npz"
+    },
+    {
+      "bytes": 139649,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_3/simon/R5.pt",
+      "role": "model_checkpoint",
+      "rounds": 5,
+      "seed": 3,
+      "sha256": "461de52e194ad39701acaa2fb7cdb2c5b34653bebec3af2ad264b1765b2eba9a",
+      "type": "pt"
+    },
+    {
+      "bytes": 10154,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_3/simon_R5/events.out.tfevents.1781132331.Vlado.21964.2",
+      "role": "tensorboard_event",
+      "rounds": 5,
+      "seed": 3,
+      "sha256": "d17f0234e50ac44f35a8c0d0dd2d5ecf13616ffdc8cd698b3d886ddb88a82f34",
+      "type": "2"
+    },
+    {
+      "bytes": 1598997,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r6_4ebc3b3e8ad4.npz",
+      "role": "dataset_cache",
+      "rounds": 6,
+      "seed": 3,
+      "sha256": "ea169efdc349c4727f6c8357f89175a3c0e1ea23c938054b24a89c3ebe5d3420",
+      "type": "npz"
+    },
+    {
+      "bytes": 138689,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_3/simon/R6.pt",
+      "role": "model_checkpoint",
+      "rounds": 6,
+      "seed": 3,
+      "sha256": "5385821b1b8faf162338dc96889790dfef5d1e00ecf1ee8d9d9bb85b69c7cd6e",
+      "type": "pt"
+    },
+    {
+      "bytes": 6650,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_3/simon_R6/events.out.tfevents.1781132440.Vlado.21964.3",
+      "role": "tensorboard_event",
+      "rounds": 6,
+      "seed": 3,
+      "sha256": "c6efe5cf6d8c4436be187370470fec5e04de126c809794e2b9ea97f4fe2eaeb1",
+      "type": "3"
+    },
+    {
+      "bytes": 1599081,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r7_131dea08e56b.npz",
+      "role": "dataset_cache",
+      "rounds": 7,
+      "seed": 3,
+      "sha256": "d544a35053b103062ea6b3e9fef358e4e664b05be6eab6bd81491fe4dd5308de",
+      "type": "npz"
+    },
+    {
+      "bytes": 137985,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_3/simon/R7.pt",
+      "role": "model_checkpoint",
+      "rounds": 7,
+      "seed": 3,
+      "sha256": "e7ff45271b359aece475085eb17f33b464db1806f21f491095c2b3bd94da928e",
+      "type": "pt"
+    },
+    {
+      "bytes": 4241,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_3/simon_R7/events.out.tfevents.1781132512.Vlado.21964.4",
+      "role": "tensorboard_event",
+      "rounds": 7,
+      "seed": 3,
+      "sha256": "45620985cf18b3b763021aa043feb08f16abcb55039e29d8eb26d7cc2f22e14a",
+      "type": "4"
+    },
+    {
+      "bytes": 1599097,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r8_2452247277c9.npz",
+      "role": "dataset_cache",
+      "rounds": 8,
+      "seed": 3,
+      "sha256": "1a0a0bf303ff346d08f717c5849695d762dc4684318caeaa2d43a96bcd36b224",
+      "type": "npz"
+    },
+    {
+      "bytes": 138753,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_3/simon/R8.pt",
+      "role": "model_checkpoint",
+      "rounds": 8,
+      "seed": 3,
+      "sha256": "533a61eae57591275fbb4405326032d7d02101293ecea3e6ef9a6d9d23f42e43",
+      "type": "pt"
+    },
+    {
+      "bytes": 7088,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_3/simon_R8/events.out.tfevents.1781132558.Vlado.21964.5",
+      "role": "tensorboard_event",
+      "rounds": 8,
+      "seed": 3,
+      "sha256": "a5e06eb82a091129265a49db086ebcc8d02e021614a3ac18d50a219ca0350837",
+      "type": "5"
+    },
+    {
+      "bytes": 1599095,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r9_592086cad783.npz",
+      "role": "dataset_cache",
+      "rounds": 9,
+      "seed": 3,
+      "sha256": "48f15ee05ae6112a1bb04c4b74d74fbe2458070ace5f1eb8f8b254669622347d",
+      "type": "npz"
+    },
+    {
+      "bytes": 138241,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_3/simon/R9.pt",
+      "role": "model_checkpoint",
+      "rounds": 9,
+      "seed": 3,
+      "sha256": "cb42a517300c10c53e865bc67e40898a01cd8c0c3494652a017635109ef6002e",
+      "type": "pt"
+    },
+    {
+      "bytes": 5117,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_3/simon_R9/events.out.tfevents.1781132636.Vlado.21964.6",
+      "role": "tensorboard_event",
+      "rounds": 9,
+      "seed": 3,
+      "sha256": "7e7909207a25371b1e78da5a442bcd906d5cef7ed159e6c7c783927a5281000e",
+      "type": "6"
+    },
+    {
+      "bytes": 1598508,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r10_cbc07c31064c.npz",
+      "role": "dataset_cache",
+      "rounds": 10,
+      "seed": 3,
+      "sha256": "7abc75dc3964c39028bc3b3b8e12a205dff651e5e82cd2d6c21e18150c469856",
+      "type": "npz"
+    },
+    {
+      "bytes": 139166,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_3/simon/R10.pt",
+      "role": "model_checkpoint",
+      "rounds": 10,
+      "seed": 3,
+      "sha256": "09a5947eccbe9cbab4db051cc9e4ba086b2ab118c34ca927d6c568b5ad2ebc98",
+      "type": "pt"
+    },
+    {
+      "bytes": 5774,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_3/simon_R10/events.out.tfevents.1781132692.Vlado.21964.7",
+      "role": "tensorboard_event",
+      "rounds": 10,
+      "seed": 3,
+      "sha256": "acd7e7fd1c11ba4f97ff7c572bfbc032747d399623c83164bcc34ccf8b248a27",
+      "type": "7"
+    },
+    {
+      "bytes": 1597122,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r3_f3f107b7d5fe.npz",
+      "role": "dataset_cache",
+      "rounds": 3,
+      "seed": 3,
+      "sha256": "153509bbd3efde91436f158bdadc08fe74411648413aa743812734cc32f469ba",
+      "type": "npz"
+    },
+    {
+      "bytes": 139393,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_3/speck/R3.pt",
+      "role": "model_checkpoint",
+      "rounds": 3,
+      "seed": 3,
+      "sha256": "8ebccba4476f1f608e43b5b16a7e77fa750651255a2262d9bb67da81f4caef3e",
+      "type": "pt"
+    },
+    {
+      "bytes": 9278,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_3/speck_R3/events.out.tfevents.1781132755.Vlado.21964.8",
+      "role": "tensorboard_event",
+      "rounds": 3,
+      "seed": 3,
+      "sha256": "a91c3277347feade764efb5ff802cb83a73b8845664e22ea6c233685cada0760",
+      "type": "8"
+    },
+    {
+      "bytes": 1599394,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r4_894c35c9b437.npz",
+      "role": "dataset_cache",
+      "rounds": 4,
+      "seed": 3,
+      "sha256": "75483da0b5ab9e787d15067cd2fff8b847e9d888f589b421268d4f14dbf7024c",
+      "type": "npz"
+    },
+    {
+      "bytes": 138753,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_3/speck/R4.pt",
+      "role": "model_checkpoint",
+      "rounds": 4,
+      "seed": 3,
+      "sha256": "ca3de4087fe39b73162109760295708620b1a422d9b7c60b4137f14b65060a34",
+      "type": "pt"
+    },
+    {
+      "bytes": 7088,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_3/speck_R4/events.out.tfevents.1781132854.Vlado.21964.9",
+      "role": "tensorboard_event",
+      "rounds": 4,
+      "seed": 3,
+      "sha256": "21951925fbc86d15f7a276a2a346e65310b3aa35ec55b431320719d69fc16963",
+      "type": "9"
+    },
+    {
+      "bytes": 1598348,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r5_edb587619b81.npz",
+      "role": "dataset_cache",
+      "rounds": 5,
+      "seed": 3,
+      "sha256": "b24abbf891171437deb8258a8c800c7724754123f35ce82b80a366ead0b8b18e",
+      "type": "npz"
+    },
+    {
+      "bytes": 138305,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_3/speck/R5.pt",
+      "role": "model_checkpoint",
+      "rounds": 5,
+      "seed": 3,
+      "sha256": "2ed3cd6ac5fe59e21c85f93ac49551145fd2bf7aa24e6665da990f40b7be3837",
+      "type": "pt"
+    },
+    {
+      "bytes": 5336,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_3/speck_R5/events.out.tfevents.1781132930.Vlado.21964.10",
+      "role": "tensorboard_event",
+      "rounds": 5,
+      "seed": 3,
+      "sha256": "3e0b71d4d47961cb7026c916b12497e9d458f58ca2af35903d58643087088f14",
+      "type": "10"
+    },
+    {
+      "bytes": 1599306,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r6_912b1c681e30.npz",
+      "role": "dataset_cache",
+      "rounds": 6,
+      "seed": 3,
+      "sha256": "d43987ccf7304a2b19b3ff92c172cf184cf0929c54096ab023d731119a6f5f1d",
+      "type": "npz"
+    },
+    {
+      "bytes": 140097,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_3/speck/R6.pt",
+      "role": "model_checkpoint",
+      "rounds": 6,
+      "seed": 3,
+      "sha256": "3023e3e0486b7379b31e4da7e9ba43e9f2ecb0cd0cb050b63648a9852e8360d8",
+      "type": "pt"
+    },
+    {
+      "bytes": 11687,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_3/speck_R6/events.out.tfevents.1781132988.Vlado.21964.11",
+      "role": "tensorboard_event",
+      "rounds": 6,
+      "seed": 3,
+      "sha256": "31c91ac8bc611acff8404bda5c487c724bebccb8a83700249151bb44974afcb5",
+      "type": "11"
+    },
+    {
+      "bytes": 1599690,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r7_93c311a0d0e9.npz",
+      "role": "dataset_cache",
+      "rounds": 7,
+      "seed": 3,
+      "sha256": "cb5438cbbfa516b3dc6f915fdc7a1dbd738becf4736ab263204c4ffd3da63d85",
+      "type": "npz"
+    },
+    {
+      "bytes": 138369,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_3/speck/R7.pt",
+      "role": "model_checkpoint",
+      "rounds": 7,
+      "seed": 3,
+      "sha256": "00a969ec09fe75d5e8c199f76c6e9d466f84600fa9c429126311ee01d9f32ee5",
+      "type": "pt"
+    },
+    {
+      "bytes": 5555,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_3/speck_R7/events.out.tfevents.1781133153.Vlado.21964.12",
+      "role": "tensorboard_event",
+      "rounds": 7,
+      "seed": 3,
+      "sha256": "42d6b69b5cc1c14b673416d7005878025f9f93cec6b882c022a91beaa67b1d25",
+      "type": "12"
+    },
+    {
+      "bytes": 1599269,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r8_2927e07197d3.npz",
+      "role": "dataset_cache",
+      "rounds": 8,
+      "seed": 3,
+      "sha256": "ae7bdf50974e6fd2c33b5342728b86ffdb52258424b61cc4d27d7b30de1618f0",
+      "type": "npz"
+    },
+    {
+      "bytes": 137985,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_3/speck/R8.pt",
+      "role": "model_checkpoint",
+      "rounds": 8,
+      "seed": 3,
+      "sha256": "c4fcbdffd01d67c2a53a951dc236687bd930b3c4c8ea1d8b76c08f937d3c012b",
+      "type": "pt"
+    },
+    {
+      "bytes": 4241,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_3/speck_R8/events.out.tfevents.1781133214.Vlado.21964.13",
+      "role": "tensorboard_event",
+      "rounds": 8,
+      "seed": 3,
+      "sha256": "facd0f8746703f35da230f09509f363abcf7bf30047e32022817373d21f248eb",
+      "type": "13"
+    },
+    {
+      "bytes": 1599375,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r9_076fc75e9cfb.npz",
+      "role": "dataset_cache",
+      "rounds": 9,
+      "seed": 3,
+      "sha256": "5ba082453e1ef4f5ba09d8e0a5e304397d702f9d4e22902aac50288050b38def",
+      "type": "npz"
+    },
+    {
+      "bytes": 137601,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_3/speck/R9.pt",
+      "role": "model_checkpoint",
+      "rounds": 9,
+      "seed": 3,
+      "sha256": "78aed4eaf54c5631a5046a5614bfa132242efe755ee78d08969d1e4221a7e547",
+      "type": "pt"
+    },
+    {
+      "bytes": 2927,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_3/speck_R9/events.out.tfevents.1781133260.Vlado.21964.14",
+      "role": "tensorboard_event",
+      "rounds": 9,
+      "seed": 3,
+      "sha256": "b2ea814ea9744acc7d2c9091feb4cd026c8a7a8ae77baac4355b69f4ec62ba02",
+      "type": "14"
+    },
+    {
+      "bytes": 1599838,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r10_764518b39483.npz",
+      "role": "dataset_cache",
+      "rounds": 10,
+      "seed": 3,
+      "sha256": "f3e6f5c7910b3abd44295cb2fc123523582d34b4eb5ae38672fd2ad28001bb16",
+      "type": "npz"
+    },
+    {
+      "bytes": 138846,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_3/speck/R10.pt",
+      "role": "model_checkpoint",
+      "rounds": 10,
+      "seed": 3,
+      "sha256": "feb224d8382a9b2fb5c04bfefb7097598f3cf505090c76e890c041db96a918a4",
+      "type": "pt"
+    },
+    {
+      "bytes": 4679,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_3/speck_R10/events.out.tfevents.1781133292.Vlado.21964.15",
+      "role": "tensorboard_event",
+      "rounds": 10,
+      "seed": 3,
+      "sha256": "32c9a16fc15fc3ae7526bb999dbcf48f72f5d105f23fce551227882029c08808",
+      "type": "15"
+    },
+    {
+      "bytes": 1587754,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r3_2bd05b7ca631.npz",
+      "role": "dataset_cache",
+      "rounds": 3,
+      "seed": 4,
+      "sha256": "64c41427f46ca7cb637889f3e817e2b3bd4fa0d251f147a69562523489ab4774",
+      "type": "npz"
+    },
+    {
+      "bytes": 140097,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_4/simon/R3.pt",
+      "role": "model_checkpoint",
+      "rounds": 3,
+      "seed": 4,
+      "sha256": "343df10889369b3abda238cf991bc92ce66130feee60ff4a2166e116a3fb3206",
+      "type": "pt"
+    },
+    {
+      "bytes": 11687,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_4/simon_R3/events.out.tfevents.1781133350.Vlado.19140.0",
+      "role": "tensorboard_event",
+      "rounds": 3,
+      "seed": 4,
+      "sha256": "e74ff6dbb67158656e29aebd702a12fe8c68f331a381e9d0c4a503bd34bfcd8a",
+      "type": "0"
+    },
+    {
+      "bytes": 1597757,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r4_775458fe9469.npz",
+      "role": "dataset_cache",
+      "rounds": 4,
+      "seed": 4,
+      "sha256": "fc9ea2cb326ff2172f4ca646018e9b7a14d7477e10772bad77175e8967d51826",
+      "type": "npz"
+    },
+    {
+      "bytes": 139265,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_4/simon/R4.pt",
+      "role": "model_checkpoint",
+      "rounds": 4,
+      "seed": 4,
+      "sha256": "5cf2767feaa389d9eb00af9176821b1c8698800eb01c13816c5666879d699583",
+      "type": "pt"
+    },
+    {
+      "bytes": 8840,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_4/simon_R4/events.out.tfevents.1781133476.Vlado.19140.1",
+      "role": "tensorboard_event",
+      "rounds": 4,
+      "seed": 4,
+      "sha256": "731bfb9eb08181d77775a9055eb6878eb49796632c60ddd24d588371a76b414b",
+      "type": "1"
+    },
+    {
+      "bytes": 1598552,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r5_862f0f84310b.npz",
+      "role": "dataset_cache",
+      "rounds": 5,
+      "seed": 4,
+      "sha256": "0ac815f062ac98b0ff500bcbadc7c4799a3a245e237eac40fbcc4599041af82f",
+      "type": "npz"
+    },
+    {
+      "bytes": 138817,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_4/simon/R5.pt",
+      "role": "model_checkpoint",
+      "rounds": 5,
+      "seed": 4,
+      "sha256": "3cd4274d5c9327d1cfb18d48b8b7ef3690fa0cce6db5ef57e18e6ac81a7a528f",
+      "type": "pt"
+    },
+    {
+      "bytes": 7307,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_4/simon_R5/events.out.tfevents.1781133571.Vlado.19140.2",
+      "role": "tensorboard_event",
+      "rounds": 5,
+      "seed": 4,
+      "sha256": "55c03f8081a3409cb0c38ca4bb15d95e29bf5d978336c5bcf955ebdb4b756027",
+      "type": "2"
+    },
+    {
+      "bytes": 1598604,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r6_6c6f846611df.npz",
+      "role": "dataset_cache",
+      "rounds": 6,
+      "seed": 4,
+      "sha256": "f9e5c959b8bbdd27f84f253388457ec1f81a173674999a539124836fd7472d09",
+      "type": "npz"
+    },
+    {
+      "bytes": 138689,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_4/simon/R6.pt",
+      "role": "model_checkpoint",
+      "rounds": 6,
+      "seed": 4,
+      "sha256": "cc0a4f0ca5cfe2178de774fe003005d330dd7857c499e7d8eb4ee23651fa5c1d",
+      "type": "pt"
+    },
+    {
+      "bytes": 6650,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_4/simon_R6/events.out.tfevents.1781133649.Vlado.19140.3",
+      "role": "tensorboard_event",
+      "rounds": 6,
+      "seed": 4,
+      "sha256": "8fcb4087ccf2f69c33978e761548d54835676b9e130a9f5aac4b6a862bcfcc3b",
+      "type": "3"
+    },
+    {
+      "bytes": 1598866,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r7_ed9432c6ffbe.npz",
+      "role": "dataset_cache",
+      "rounds": 7,
+      "seed": 4,
+      "sha256": "e680a46f88f7a320fa8be6ef7a3682bb58123b559d6258ef8f8f23b5d8fb9df6",
+      "type": "npz"
+    },
+    {
+      "bytes": 138049,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_4/simon/R7.pt",
+      "role": "model_checkpoint",
+      "rounds": 7,
+      "seed": 4,
+      "sha256": "165b01ee5653d4ee879661b92330fcfe03af98be44bc4f71579266e14b9982e4",
+      "type": "pt"
+    },
+    {
+      "bytes": 4460,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_4/simon_R7/events.out.tfevents.1781133721.Vlado.19140.4",
+      "role": "tensorboard_event",
+      "rounds": 7,
+      "seed": 4,
+      "sha256": "4537bbed31426fa30c7255270fe0aba4e2ae177de7b1c423ca47849082ccdb7d",
+      "type": "4"
+    },
+    {
+      "bytes": 1599139,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r8_2d7833a257b1.npz",
+      "role": "dataset_cache",
+      "rounds": 8,
+      "seed": 4,
+      "sha256": "f171c52b7515c47d8ea84e61808ccb2bf734e8ccb463371514cc6f8515500880",
+      "type": "npz"
+    },
+    {
+      "bytes": 140097,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_4/simon/R8.pt",
+      "role": "model_checkpoint",
+      "rounds": 8,
+      "seed": 4,
+      "sha256": "5a027e7f7912c92613b13b6afc4822e8e133e7e9cb1045e5b462e38b6553511f",
+      "type": "pt"
+    },
+    {
+      "bytes": 11687,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_4/simon_R8/events.out.tfevents.1781133770.Vlado.19140.5",
+      "role": "tensorboard_event",
+      "rounds": 8,
+      "seed": 4,
+      "sha256": "333147c332158d4ad47f090bf7fc8b092f0b694e6cb46079e526b35cb3e9a69a",
+      "type": "5"
+    },
+    {
+      "bytes": 1598598,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r9_0ff70aead4ea.npz",
+      "role": "dataset_cache",
+      "rounds": 9,
+      "seed": 4,
+      "sha256": "f6da21e3e2040d2da68b385ba3c8787802d4f0906182c8af7ddd080286101cc8",
+      "type": "npz"
+    },
+    {
+      "bytes": 138305,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_4/simon/R9.pt",
+      "role": "model_checkpoint",
+      "rounds": 9,
+      "seed": 4,
+      "sha256": "765ae21d4bd3e87d1ae24244d7603df5ed93bb6112f98de1e7628b6201f188a1",
+      "type": "pt"
+    },
+    {
+      "bytes": 5336,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_4/simon_R9/events.out.tfevents.1781133952.Vlado.19140.6",
+      "role": "tensorboard_event",
+      "rounds": 9,
+      "seed": 4,
+      "sha256": "4ed92784d28ad902b97db570456556744db55f8af401ba45a81bd96af08a3bfe",
+      "type": "6"
+    },
+    {
+      "bytes": 1599357,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r10_6c6de7f4a378.npz",
+      "role": "dataset_cache",
+      "rounds": 10,
+      "seed": 4,
+      "sha256": "08856866d578ba502a0f1547aba6cf27e7d9863f922caca1f5a0d99675d213cc",
+      "type": "npz"
+    },
+    {
+      "bytes": 138398,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_4/simon/R10.pt",
+      "role": "model_checkpoint",
+      "rounds": 10,
+      "seed": 4,
+      "sha256": "cd47a0324501fae0d124237237ca87d615750da198127a3a2dbea2d7116ccf64",
+      "type": "pt"
+    },
+    {
+      "bytes": 3146,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_4/simon_R10/events.out.tfevents.1781134010.Vlado.19140.7",
+      "role": "tensorboard_event",
+      "rounds": 10,
+      "seed": 4,
+      "sha256": "7c7434b78131b3a7f8fff11b04a6f9b695712cac57b79eb90fc286c3094989c2",
+      "type": "7"
+    },
+    {
+      "bytes": 1596783,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r3_97ea5f831c48.npz",
+      "role": "dataset_cache",
+      "rounds": 3,
+      "seed": 4,
+      "sha256": "575ac119c93d14a1ab55c8ecab638f5f380e4b47294b8a35ff9ce2772a2049c3",
+      "type": "npz"
+    },
+    {
+      "bytes": 138881,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_4/speck/R3.pt",
+      "role": "model_checkpoint",
+      "rounds": 3,
+      "seed": 4,
+      "sha256": "a6447966edab1ff6fadf61e92d819226a8f3e57d7e8fa8324982e74176505755",
+      "type": "pt"
+    },
+    {
+      "bytes": 7526,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_4/speck_R3/events.out.tfevents.1781134044.Vlado.19140.8",
+      "role": "tensorboard_event",
+      "rounds": 3,
+      "seed": 4,
+      "sha256": "3c8a769f6ce75384793a17bcb91bcec193804e2cc659f3516b1873f36e9d37f7",
+      "type": "8"
+    },
+    {
+      "bytes": 1598879,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r4_04c9198e57a8.npz",
+      "role": "dataset_cache",
+      "rounds": 4,
+      "seed": 4,
+      "sha256": "add6cbac6cab224de53104c289eb5aa589c3a52bff8a974fa6daba9936c5a29d",
+      "type": "npz"
+    },
+    {
+      "bytes": 139009,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_4/speck/R4.pt",
+      "role": "model_checkpoint",
+      "rounds": 4,
+      "seed": 4,
+      "sha256": "d128df1f1b7a80466ea64b84847b446e9b43ad2ad2967d87a1bc0169577f6baa",
+      "type": "pt"
+    },
+    {
+      "bytes": 7964,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_4/speck_R4/events.out.tfevents.1781134125.Vlado.19140.9",
+      "role": "tensorboard_event",
+      "rounds": 4,
+      "seed": 4,
+      "sha256": "f994119da78de909f8402a09d9a16e57827f854fdbd8316aad8b284906481182",
+      "type": "9"
+    },
+    {
+      "bytes": 1599148,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r5_021ab03671fe.npz",
+      "role": "dataset_cache",
+      "rounds": 5,
+      "seed": 4,
+      "sha256": "8aeae4ea19e39f55bf7ebde84ff78e9b19fd03f87c38a883356dac3fa6f878a0",
+      "type": "npz"
+    },
+    {
+      "bytes": 138177,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_4/speck/R5.pt",
+      "role": "model_checkpoint",
+      "rounds": 5,
+      "seed": 4,
+      "sha256": "e820309de0df332792260818e2d984a9cdbcb4c40061756541d649fc6c6e0b19",
+      "type": "pt"
+    },
+    {
+      "bytes": 4898,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_4/speck_R5/events.out.tfevents.1781134211.Vlado.19140.10",
+      "role": "tensorboard_event",
+      "rounds": 5,
+      "seed": 4,
+      "sha256": "c1db65426ddf0ebbbb20115f5fc0ce582206fbd70767115c12dd65ec86d87e50",
+      "type": "10"
+    },
+    {
+      "bytes": 1598123,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r6_032fe14710ee.npz",
+      "role": "dataset_cache",
+      "rounds": 6,
+      "seed": 4,
+      "sha256": "8133fa587692bc87ffd7dc76f9d5f5629f34cccbb16a746006e357e2899a4a55",
+      "type": "npz"
+    },
+    {
+      "bytes": 138049,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_4/speck/R6.pt",
+      "role": "model_checkpoint",
+      "rounds": 6,
+      "seed": 4,
+      "sha256": "62eac4c7723076026771852d452c931f4fa04cabd3d46ecfe6f85af50b9e688c",
+      "type": "pt"
+    },
+    {
+      "bytes": 4460,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_4/speck_R6/events.out.tfevents.1781134264.Vlado.19140.11",
+      "role": "tensorboard_event",
+      "rounds": 6,
+      "seed": 4,
+      "sha256": "3ea494d734af93c404fb9d4733f06e85c962bf511abac8fe8b061d9e3a087e28",
+      "type": "11"
+    },
+    {
+      "bytes": 1599273,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r7_aac915f6ed6a.npz",
+      "role": "dataset_cache",
+      "rounds": 7,
+      "seed": 4,
+      "sha256": "6b70477589cd3565c568bccfcf88fb54848047a872501aeaea09d91b247ec296",
+      "type": "npz"
+    },
+    {
+      "bytes": 137793,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_4/speck/R7.pt",
+      "role": "model_checkpoint",
+      "rounds": 7,
+      "seed": 4,
+      "sha256": "40ad2fcaf6433ea8bde95d18111d306c8483f01d4fe4e4e5c8e6e01c30936bb9",
+      "type": "pt"
+    },
+    {
+      "bytes": 3584,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_4/speck_R7/events.out.tfevents.1781134313.Vlado.19140.12",
+      "role": "tensorboard_event",
+      "rounds": 7,
+      "seed": 4,
+      "sha256": "82169d94f1f340636e4cc715fed837b0bac36f8467bbd087edce9ecb14854241",
+      "type": "12"
+    },
+    {
+      "bytes": 1599092,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r8_727fc73b955d.npz",
+      "role": "dataset_cache",
+      "rounds": 8,
+      "seed": 4,
+      "sha256": "24aa7d164fe805e76008345fc00e7217330ac2fbef4196f3daf068e40caa6938",
+      "type": "npz"
+    },
+    {
+      "bytes": 137729,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_4/speck/R8.pt",
+      "role": "model_checkpoint",
+      "rounds": 8,
+      "seed": 4,
+      "sha256": "a91e9927cc0bcc142d52910c4be1e341e1ba71645b065588f31e132adf11e658",
+      "type": "pt"
+    },
+    {
+      "bytes": 3365,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_4/speck_R8/events.out.tfevents.1781134352.Vlado.19140.13",
+      "role": "tensorboard_event",
+      "rounds": 8,
+      "seed": 4,
+      "sha256": "4b63d990b094b603fae43cab25a27a8482c1b5190e13b96e96b53994a43f60d0",
+      "type": "13"
+    },
+    {
+      "bytes": 1599202,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r9_1f93b93586e5.npz",
+      "role": "dataset_cache",
+      "rounds": 9,
+      "seed": 4,
+      "sha256": "da96e4adc8a91ff7612e71f245974dc2abfb292aec651588fe7af4f884cd8c94",
+      "type": "npz"
+    },
+    {
+      "bytes": 137921,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_4/speck/R9.pt",
+      "role": "model_checkpoint",
+      "rounds": 9,
+      "seed": 4,
+      "sha256": "dedb4416a1253cf646eda167a609b20d45af6cfaee862fb4e7ca07a9cb787f54",
+      "type": "pt"
+    },
+    {
+      "bytes": 4022,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_4/speck_R9/events.out.tfevents.1781134389.Vlado.19140.14",
+      "role": "tensorboard_event",
+      "rounds": 9,
+      "seed": 4,
+      "sha256": "fd94b0ba706af97d90b9ba10bf711de361a6fb2ce60fae9fcc9099f234fc578a",
+      "type": "14"
+    },
+    {
+      "bytes": 1599016,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r10_09f9163f1940.npz",
+      "role": "dataset_cache",
+      "rounds": 10,
+      "seed": 4,
+      "sha256": "e8a0a656a2f02da722e7d0b8190f915e0329d85b143ae3cbd34e83d48eb570c8",
+      "type": "npz"
+    },
+    {
+      "bytes": 138334,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_4/speck/R10.pt",
+      "role": "model_checkpoint",
+      "rounds": 10,
+      "seed": 4,
+      "sha256": "119e92650cd533e42aecb8230313403f90ddbf6f91aa883b765a9dfc537c44c1",
+      "type": "pt"
+    },
+    {
+      "bytes": 2927,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_4/speck_R10/events.out.tfevents.1781134433.Vlado.19140.15",
+      "role": "tensorboard_event",
+      "rounds": 10,
+      "seed": 4,
+      "sha256": "a953bc9a89c6a0ec5287de87591d264a0dbb1d23efce2982ce79e9f131e36eb4",
+      "type": "15"
+    },
+    {
+      "bytes": 1588209,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r3_9d91826d5394.npz",
+      "role": "dataset_cache",
+      "rounds": 3,
+      "seed": 5,
+      "sha256": "38e09207faad94925f61c90e7ca579ddf21944805e7fc55d84822c64479ff527",
+      "type": "npz"
+    },
+    {
+      "bytes": 139201,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_5/simon/R3.pt",
+      "role": "model_checkpoint",
+      "rounds": 3,
+      "seed": 5,
+      "sha256": "07f7e0964a9bcbf75c240bf9e78645942e63d72cb5822860c42b4ac939a469f1",
+      "type": "pt"
+    },
+    {
+      "bytes": 8621,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_5/simon_R3/events.out.tfevents.1781134473.Vlado.28216.0",
+      "role": "tensorboard_event",
+      "rounds": 3,
+      "seed": 5,
+      "sha256": "5f46a1492b6346a3d61e3e505463ac5f46f7207da8fd1bf35b6f76900db5f414",
+      "type": "0"
+    },
+    {
+      "bytes": 1598227,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r4_6ecb0e032ef0.npz",
+      "role": "dataset_cache",
+      "rounds": 4,
+      "seed": 5,
+      "sha256": "f202366cadf76eec525cb66e356443b5b8e6df7bf78d93c4e064543e0717c756",
+      "type": "npz"
+    },
+    {
+      "bytes": 139585,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_5/simon/R4.pt",
+      "role": "model_checkpoint",
+      "rounds": 4,
+      "seed": 5,
+      "sha256": "c919fdbabcd1c802158dfe1550242d14e820ae7e058b1924f80347ffec4cb2c9",
+      "type": "pt"
+    },
+    {
+      "bytes": 9935,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_5/simon_R4/events.out.tfevents.1781134565.Vlado.28216.1",
+      "role": "tensorboard_event",
+      "rounds": 4,
+      "seed": 5,
+      "sha256": "62ff0f0dc83d5e43f11aa7ccf57fc0c37bd6310bebeb9d716d85f5063278b65a",
+      "type": "1"
+    },
+    {
+      "bytes": 1599403,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r5_b4de1381b3d0.npz",
+      "role": "dataset_cache",
+      "rounds": 5,
+      "seed": 5,
+      "sha256": "e003b24c71de9e62f0a3c710edf16dc47c747e1ce5addc8901135047881a7122",
+      "type": "npz"
+    },
+    {
+      "bytes": 139393,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_5/simon/R5.pt",
+      "role": "model_checkpoint",
+      "rounds": 5,
+      "seed": 5,
+      "sha256": "13a7978c2503e906e49b43772567733c843dc8f92288a96dcce6238e608e7c2d",
+      "type": "pt"
+    },
+    {
+      "bytes": 9278,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_5/simon_R5/events.out.tfevents.1781134671.Vlado.28216.2",
+      "role": "tensorboard_event",
+      "rounds": 5,
+      "seed": 5,
+      "sha256": "7848cec1d620bdd8b1514d147db4c499682fe082fd774410aebad8a5781f7b58",
+      "type": "2"
+    },
+    {
+      "bytes": 1599042,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r6_70ec2f7b5f2f.npz",
+      "role": "dataset_cache",
+      "rounds": 6,
+      "seed": 5,
+      "sha256": "711cfcd02833c59a7e2d6e4303625afb9a8d0fc68114e158c076acd9e2c80f47",
+      "type": "npz"
+    },
+    {
+      "bytes": 138689,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_5/simon/R6.pt",
+      "role": "model_checkpoint",
+      "rounds": 6,
+      "seed": 5,
+      "sha256": "733e85827a41b9f6f027a19ec452ee9bd145b740f1a8bf63cd6726135d146a6f",
+      "type": "pt"
+    },
+    {
+      "bytes": 6650,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_5/simon_R6/events.out.tfevents.1781134770.Vlado.28216.3",
+      "role": "tensorboard_event",
+      "rounds": 6,
+      "seed": 5,
+      "sha256": "78dd51526aab184843a405769f77ee83f719dc6dc3c54f0337fb6c9116817934",
+      "type": "3"
+    },
+    {
+      "bytes": 1599473,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r7_77b9de1403aa.npz",
+      "role": "dataset_cache",
+      "rounds": 7,
+      "seed": 5,
+      "sha256": "af0820a710b645a2b33168f9b925c190759fe8a78dde9718b9fafb8bee92dcc7",
+      "type": "npz"
+    },
+    {
+      "bytes": 137985,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_5/simon/R7.pt",
+      "role": "model_checkpoint",
+      "rounds": 7,
+      "seed": 5,
+      "sha256": "9a64e6874c50ab43ee285b10317ffac1466884fe69cd4369e12e273b62ecc776",
+      "type": "pt"
+    },
+    {
+      "bytes": 4241,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_5/simon_R7/events.out.tfevents.1781134842.Vlado.28216.4",
+      "role": "tensorboard_event",
+      "rounds": 7,
+      "seed": 5,
+      "sha256": "61545bf8d9c9d9cccd4cffddb0a61df0e5e62ec538624a3e3a530781fbfae69f",
+      "type": "4"
+    },
+    {
+      "bytes": 1598620,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r8_4f388f820c9f.npz",
+      "role": "dataset_cache",
+      "rounds": 8,
+      "seed": 5,
+      "sha256": "5f5996d66271c33f3b8d1ceac8856b3b9d1eb56af16084b44451a375646c9e5b",
+      "type": "npz"
+    },
+    {
+      "bytes": 137857,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_5/simon/R8.pt",
+      "role": "model_checkpoint",
+      "rounds": 8,
+      "seed": 5,
+      "sha256": "930f7b122ee691a2dce3ed25e1913c60980d8c85a52f568f26ebd74426df5d41",
+      "type": "pt"
+    },
+    {
+      "bytes": 3803,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_5/simon_R8/events.out.tfevents.1781134888.Vlado.28216.5",
+      "role": "tensorboard_event",
+      "rounds": 8,
+      "seed": 5,
+      "sha256": "aefb36f709cd4415889be672b78012c3a31c325b11690a1cfe811a18c40448e8",
+      "type": "5"
+    },
+    {
+      "bytes": 1599061,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r9_372115b409d5.npz",
+      "role": "dataset_cache",
+      "rounds": 9,
+      "seed": 5,
+      "sha256": "6c9c0455a33b770bc8c587b559a6e0592c1eafd33f568124a112f960a9e1831e",
+      "type": "npz"
+    },
+    {
+      "bytes": 137601,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_5/simon/R9.pt",
+      "role": "model_checkpoint",
+      "rounds": 9,
+      "seed": 5,
+      "sha256": "7cff39e6c2150c0e8156e98c079b73c251aba21a21aab9c6539cdc52c5abe83f",
+      "type": "pt"
+    },
+    {
+      "bytes": 2927,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_5/simon_R9/events.out.tfevents.1781134930.Vlado.28216.6",
+      "role": "tensorboard_event",
+      "rounds": 9,
+      "seed": 5,
+      "sha256": "7f5cd7bce3ed2b147f6c6d26931afab8386feaae20c3c5bfd95143175c1bcc6f",
+      "type": "6"
+    },
+    {
+      "bytes": 1599264,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r10_c58b62a873a0.npz",
+      "role": "dataset_cache",
+      "rounds": 10,
+      "seed": 5,
+      "sha256": "2234e002fa9a99ba6081581a4f08f92aca696bf0d1b0c580b80d593f3f7d7843",
+      "type": "npz"
+    },
+    {
+      "bytes": 138590,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_5/simon/R10.pt",
+      "role": "model_checkpoint",
+      "rounds": 10,
+      "seed": 5,
+      "sha256": "8befb0463a0d4b198f9ceb88aec80bc0431ba63d62af64a75083f121b2fc3440",
+      "type": "pt"
+    },
+    {
+      "bytes": 3803,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_5/simon_R10/events.out.tfevents.1781134962.Vlado.28216.7",
+      "role": "tensorboard_event",
+      "rounds": 10,
+      "seed": 5,
+      "sha256": "c361d8cbce2afbb9fb9c8d9e30f79f5865aac73b7af292eceb3a32a0051cb0d9",
+      "type": "7"
+    },
+    {
+      "bytes": 1597670,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r3_fc4b9346ee39.npz",
+      "role": "dataset_cache",
+      "rounds": 3,
+      "seed": 5,
+      "sha256": "4f7af3c5a41bb45d5303b5647e4a2ab338b4c36b1c611cb2a6aec856acc11688",
+      "type": "npz"
+    },
+    {
+      "bytes": 139585,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_5/speck/R3.pt",
+      "role": "model_checkpoint",
+      "rounds": 3,
+      "seed": 5,
+      "sha256": "248489c90ae43a24dcc819950276ce10439822d2fd3c5b63899d103c329185ac",
+      "type": "pt"
+    },
+    {
+      "bytes": 9935,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_5/speck_R3/events.out.tfevents.1781135003.Vlado.28216.8",
+      "role": "tensorboard_event",
+      "rounds": 3,
+      "seed": 5,
+      "sha256": "8dbd33c2ffd440635f0d79e51ccda6d9cbff7712082c6246e8d91d2a2f1d5e83",
+      "type": "8"
+    },
+    {
+      "bytes": 1600092,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r4_9c44ecabef99.npz",
+      "role": "dataset_cache",
+      "rounds": 4,
+      "seed": 5,
+      "sha256": "bf493cf982ebb3199fa11ea63d9bd07f9059fa39582cf4a46210198d9f57361f",
+      "type": "npz"
+    },
+    {
+      "bytes": 139073,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_5/speck/R4.pt",
+      "role": "model_checkpoint",
+      "rounds": 4,
+      "seed": 5,
+      "sha256": "a8d9037332a8f40b45c550e8bd414b7f794846fe459674a0c3a51cb25f4059c5",
+      "type": "pt"
+    },
+    {
+      "bytes": 8183,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_5/speck_R4/events.out.tfevents.1781135109.Vlado.28216.9",
+      "role": "tensorboard_event",
+      "rounds": 4,
+      "seed": 5,
+      "sha256": "7c4b07c77f524b89b4dd29ee4b006ebdc6265ad4c79b5c7a60abfcfcc5844553",
+      "type": "9"
+    },
+    {
+      "bytes": 1599569,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r5_345c4a6a0dde.npz",
+      "role": "dataset_cache",
+      "rounds": 5,
+      "seed": 5,
+      "sha256": "681cb3784ceda3824aa090f17396b8ba432c15c1c494ebdc7381c6d4584f4124",
+      "type": "npz"
+    },
+    {
+      "bytes": 138305,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_5/speck/R5.pt",
+      "role": "model_checkpoint",
+      "rounds": 5,
+      "seed": 5,
+      "sha256": "f1d162fd7c81638d4c88606900b3f1bd6b843e51c4dab56fa1191fa3f31e6473",
+      "type": "pt"
+    },
+    {
+      "bytes": 5336,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_5/speck_R5/events.out.tfevents.1781135198.Vlado.28216.10",
+      "role": "tensorboard_event",
+      "rounds": 5,
+      "seed": 5,
+      "sha256": "4d0521cd7959a77ab4f87536c7630830fcc56a84d2776455b5a16f57a8d13da7",
+      "type": "10"
+    },
+    {
+      "bytes": 1598776,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r6_0fdaf03fb55d.npz",
+      "role": "dataset_cache",
+      "rounds": 6,
+      "seed": 5,
+      "sha256": "b442ae39fec20d5255bc6d6d0a87d489e8f8e1f32f006e04436f8da2d34649cb",
+      "type": "npz"
+    },
+    {
+      "bytes": 137985,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_5/speck/R6.pt",
+      "role": "model_checkpoint",
+      "rounds": 6,
+      "seed": 5,
+      "sha256": "f5fd30531748f55bef45eac9b56695bc8b325da6380349501f19bbe8a57a4c4f",
+      "type": "pt"
+    },
+    {
+      "bytes": 4241,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_5/speck_R6/events.out.tfevents.1781135255.Vlado.28216.11",
+      "role": "tensorboard_event",
+      "rounds": 6,
+      "seed": 5,
+      "sha256": "2426bf8c5d659016139b0cb05e190000a7c9fadc31a9fd9b99ec62cfc68d1b4f",
+      "type": "11"
+    },
+    {
+      "bytes": 1599440,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r7_5bcb06d902d6.npz",
+      "role": "dataset_cache",
+      "rounds": 7,
+      "seed": 5,
+      "sha256": "d0bf31081ffa731ea6e74ed51ddc4fedb02a977e49d0104af2655f9b9376439d",
+      "type": "npz"
+    },
+    {
+      "bytes": 140033,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_5/speck/R7.pt",
+      "role": "model_checkpoint",
+      "rounds": 7,
+      "seed": 5,
+      "sha256": "922d0771b3f039281b0c14b4157b7b9a795fef33417f9c1b906f079fd74b2084",
+      "type": "pt"
+    },
+    {
+      "bytes": 11468,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_5/speck_R7/events.out.tfevents.1781135302.Vlado.28216.12",
+      "role": "tensorboard_event",
+      "rounds": 7,
+      "seed": 5,
+      "sha256": "8c19b0929d75fe37ad99f9377819adef5d9fa5d3b5332585a0f41b7888c61db1",
+      "type": "12"
+    },
+    {
+      "bytes": 1598918,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r8_7053af2676d2.npz",
+      "role": "dataset_cache",
+      "rounds": 8,
+      "seed": 5,
+      "sha256": "be994d4c98a04a3030313f598c0c4e47d12f34ac0869e4a67fff5a4be68d7a8a",
+      "type": "npz"
+    },
+    {
+      "bytes": 138561,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_5/speck/R8.pt",
+      "role": "model_checkpoint",
+      "rounds": 8,
+      "seed": 5,
+      "sha256": "8bb632fbdf7c2b079cb4797e59a082e91055acf70976bce39b2cc57b272c5da9",
+      "type": "pt"
+    },
+    {
+      "bytes": 6212,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_5/speck_R8/events.out.tfevents.1781135467.Vlado.28216.13",
+      "role": "tensorboard_event",
+      "rounds": 8,
+      "seed": 5,
+      "sha256": "d40b333fe2bbf87b4522b6a462ace6d45a2d87fc2ae86ea083dd6227990b4e44",
+      "type": "13"
+    },
+    {
+      "bytes": 1599601,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r9_5c69dae4f365.npz",
+      "role": "dataset_cache",
+      "rounds": 9,
+      "seed": 5,
+      "sha256": "e11b65babd7cec26a6b35c4504aaaf7a05ff3281df77b274bcd62b56a1a34dc9",
+      "type": "npz"
+    },
+    {
+      "bytes": 137729,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_5/speck/R9.pt",
+      "role": "model_checkpoint",
+      "rounds": 9,
+      "seed": 5,
+      "sha256": "6249b906f3d76ebbf8efe0aad9ec1d178a7db6264a81839179db9259feeda5cc",
+      "type": "pt"
+    },
+    {
+      "bytes": 3365,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_5/speck_R9/events.out.tfevents.1781135534.Vlado.28216.14",
+      "role": "tensorboard_event",
+      "rounds": 9,
+      "seed": 5,
+      "sha256": "3394c74b8172b02400c14c9ef46db078875663c8a9d4488fe86cb6852f684b16",
+      "type": "14"
+    },
+    {
+      "bytes": 1599611,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r10_4e4d5073629a.npz",
+      "role": "dataset_cache",
+      "rounds": 10,
+      "seed": 5,
+      "sha256": "7009e8a4dcfa30972d7c46027de4cd3c0034d053dcc4d2272886079ac3a45a55",
+      "type": "npz"
+    },
+    {
+      "bytes": 138334,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_5/speck/R10.pt",
+      "role": "model_checkpoint",
+      "rounds": 10,
+      "seed": 5,
+      "sha256": "410fa1aaa5b477de95446d2517136f2b2969699331c9849f1606a830117d89af",
+      "type": "pt"
+    },
+    {
+      "bytes": 2927,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_5/speck_R10/events.out.tfevents.1781135571.Vlado.28216.15",
+      "role": "tensorboard_event",
+      "rounds": 10,
+      "seed": 5,
+      "sha256": "cd4b6ad50f7f6c005fba9bd755a314d102493f80a725520701641ed8925e3f6c",
+      "type": "15"
+    },
+    {
+      "bytes": 1587803,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r3_7d5e1c867aa9.npz",
+      "role": "dataset_cache",
+      "rounds": 3,
+      "seed": 6,
+      "sha256": "fbd28ff4ade279210056c2f8f7ced6321b08180c150633cb8204ba690e4643d9",
+      "type": "npz"
+    },
+    {
+      "bytes": 140289,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_6/simon/R3.pt",
+      "role": "model_checkpoint",
+      "rounds": 3,
+      "seed": 6,
+      "sha256": "4025e879ab04145bac5695730fb07f70654a41c96763728467cdc1889128cbb9",
+      "type": "pt"
+    },
+    {
+      "bytes": 12344,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_6/simon_R3/events.out.tfevents.1781135611.Vlado.18348.0",
+      "role": "tensorboard_event",
+      "rounds": 3,
+      "seed": 6,
+      "sha256": "86527df29d72f8498aaa8bed1e175e8a2e62e5bc7001d8b64b1a60a6824f7ff5",
+      "type": "0"
+    },
+    {
+      "bytes": 1598201,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r4_84643d335ca8.npz",
+      "role": "dataset_cache",
+      "rounds": 4,
+      "seed": 6,
+      "sha256": "5f06d28f2e9c87d47208296e435c395e54d4725ffd38acb42398c700c364f0c5",
+      "type": "npz"
+    },
+    {
+      "bytes": 141185,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_6/simon/R4.pt",
+      "role": "model_checkpoint",
+      "rounds": 4,
+      "seed": 6,
+      "sha256": "557d63e05e1f75bc92026e8243aba784cd0f81c95f04398c47bf425e89ad80f7",
+      "type": "pt"
+    },
+    {
+      "bytes": 15410,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_6/simon_R4/events.out.tfevents.1781135742.Vlado.18348.1",
+      "role": "tensorboard_event",
+      "rounds": 4,
+      "seed": 6,
+      "sha256": "f03d8d806716a31197d34963358a70019f69d63a84c5f8f162e511d08bd9e4f4",
+      "type": "1"
+    },
+    {
+      "bytes": 1598746,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r5_581e4ed84da6.npz",
+      "role": "dataset_cache",
+      "rounds": 5,
+      "seed": 6,
+      "sha256": "9bb4f1367f0ae252847d2f13ec98e8848b98681fbf4b643ef029483e4bde8d04",
+      "type": "npz"
+    },
+    {
+      "bytes": 139521,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_6/simon/R5.pt",
+      "role": "model_checkpoint",
+      "rounds": 5,
+      "seed": 6,
+      "sha256": "929857c03e18912b3d3c5920fffd4d7e9af46a45b0b3990c6eb834c35f5d10b6",
+      "type": "pt"
+    },
+    {
+      "bytes": 9716,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_6/simon_R5/events.out.tfevents.1781135906.Vlado.18348.2",
+      "role": "tensorboard_event",
+      "rounds": 5,
+      "seed": 6,
+      "sha256": "41c9f7af5a780b197d14a23c6744045540af7c445f2725aedce1f3af45e8b9e2",
+      "type": "2"
+    },
+    {
+      "bytes": 1597803,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r6_464860416de3.npz",
+      "role": "dataset_cache",
+      "rounds": 6,
+      "seed": 6,
+      "sha256": "1e5ae0844966b1622d349d52676095ae058d04ba87328a4edbd01d31c11c0606",
+      "type": "npz"
+    },
+    {
+      "bytes": 138689,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_6/simon/R6.pt",
+      "role": "model_checkpoint",
+      "rounds": 6,
+      "seed": 6,
+      "sha256": "43524fbae6314843a467bb1cc4fbe39db24011ba4e4ea16fcda83ed250ad4356",
+      "type": "pt"
+    },
+    {
+      "bytes": 6650,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_6/simon_R6/events.out.tfevents.1781136010.Vlado.18348.3",
+      "role": "tensorboard_event",
+      "rounds": 6,
+      "seed": 6,
+      "sha256": "bf2bcb974e3bad7d6ae3c731a606a0edacbf1424ae56ca8f4a907297a3efd155",
+      "type": "3"
+    },
+    {
+      "bytes": 1598714,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r7_57d11b30e45b.npz",
+      "role": "dataset_cache",
+      "rounds": 7,
+      "seed": 6,
+      "sha256": "abbc186a0d3d05099c1236df0ef7774bf108d4f474b9b365be1989bf91dd04e1",
+      "type": "npz"
+    },
+    {
+      "bytes": 138177,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_6/simon/R7.pt",
+      "role": "model_checkpoint",
+      "rounds": 7,
+      "seed": 6,
+      "sha256": "7f599bc8853262498296bbf03547e6eee4ffc9cf76f6b40197b2b0910057ced6",
+      "type": "pt"
+    },
+    {
+      "bytes": 4898,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_6/simon_R7/events.out.tfevents.1781136082.Vlado.18348.4",
+      "role": "tensorboard_event",
+      "rounds": 7,
+      "seed": 6,
+      "sha256": "658e0207483db7cc8a8049d0071447627f37d09f2554b59e6c110879e81db446",
+      "type": "4"
+    },
+    {
+      "bytes": 1598239,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r8_6e74b427f339.npz",
+      "role": "dataset_cache",
+      "rounds": 8,
+      "seed": 6,
+      "sha256": "26d1050e386eac0873c2aeed2e789174d5a6eb275f450ad3770c774b2e7b1537",
+      "type": "npz"
+    },
+    {
+      "bytes": 137601,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_6/simon/R8.pt",
+      "role": "model_checkpoint",
+      "rounds": 8,
+      "seed": 6,
+      "sha256": "0406b1e1a9b34bbc720c063de2f464dc3e7786e8af48f1811ec8816b8ddec3c1",
+      "type": "pt"
+    },
+    {
+      "bytes": 2927,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_6/simon_R8/events.out.tfevents.1781136135.Vlado.18348.5",
+      "role": "tensorboard_event",
+      "rounds": 8,
+      "seed": 6,
+      "sha256": "25bfd3a1944bb9feea4fe00c558c77288fa6e7261789515893eef9364490fc6e",
+      "type": "5"
+    },
+    {
+      "bytes": 1598817,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r9_a193f6cc0714.npz",
+      "role": "dataset_cache",
+      "rounds": 9,
+      "seed": 6,
+      "sha256": "ab747858c6b63fe51d648df4cb949155e44a2c19677192ad03def808e33cba58",
+      "type": "npz"
+    },
+    {
+      "bytes": 139201,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_6/simon/R9.pt",
+      "role": "model_checkpoint",
+      "rounds": 9,
+      "seed": 6,
+      "sha256": "458ce09d5ff5832ca040e365c9f372eb52be7323d443d0c6bb7dc72d3fb51d70",
+      "type": "pt"
+    },
+    {
+      "bytes": 8621,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_6/simon_R9/events.out.tfevents.1781136168.Vlado.18348.6",
+      "role": "tensorboard_event",
+      "rounds": 9,
+      "seed": 6,
+      "sha256": "3d105dbff0ae8c66824231c36457865c664d2ebb98500ae2341e8cbb0d0902b9",
+      "type": "6"
+    },
+    {
+      "bytes": 1599150,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r10_9c45428f509e.npz",
+      "role": "dataset_cache",
+      "rounds": 10,
+      "seed": 6,
+      "sha256": "997df7833a22ed95ba0b8e0df303e895c34668d5f1c4e599a1b30e3e93965e60",
+      "type": "npz"
+    },
+    {
+      "bytes": 141598,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_6/simon/R10.pt",
+      "role": "model_checkpoint",
+      "rounds": 10,
+      "seed": 6,
+      "sha256": "26fb47f9d57d55744a3e15702627c495277375d63d4fc8477a753d782e0b59ba",
+      "type": "pt"
+    },
+    {
+      "bytes": 14315,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_6/simon_R10/events.out.tfevents.1781136284.Vlado.18348.7",
+      "role": "tensorboard_event",
+      "rounds": 10,
+      "seed": 6,
+      "sha256": "e1145810e13354f1fa795367a38783e02408461b73621457f633add37bec2a69",
+      "type": "7"
+    },
+    {
+      "bytes": 1596736,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r3_4f57ec4b7aa9.npz",
+      "role": "dataset_cache",
+      "rounds": 3,
+      "seed": 6,
+      "sha256": "cd18e3a398de4bbc1e4c45ff3f2e47c7949357f59177f203532abe36e91735b9",
+      "type": "npz"
+    },
+    {
+      "bytes": 139393,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_6/speck/R3.pt",
+      "role": "model_checkpoint",
+      "rounds": 3,
+      "seed": 6,
+      "sha256": "74603f3dcb2399931cbbe8056ae5841d45e8a6b13508306d30be26c1645284d5",
+      "type": "pt"
+    },
+    {
+      "bytes": 9278,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_6/speck_R3/events.out.tfevents.1781136555.Vlado.18348.8",
+      "role": "tensorboard_event",
+      "rounds": 3,
+      "seed": 6,
+      "sha256": "81a52bf90f0b8613aeceff0d122081ea164dbf77cba3838f5160aa40abc04be0",
+      "type": "8"
+    },
+    {
+      "bytes": 1598982,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r4_4578871b5901.npz",
+      "role": "dataset_cache",
+      "rounds": 4,
+      "seed": 6,
+      "sha256": "0fe743db82f52d9910e0289280a9725214070a111da516202c0ce470d41b1dfa",
+      "type": "npz"
+    },
+    {
+      "bytes": 138753,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_6/speck/R4.pt",
+      "role": "model_checkpoint",
+      "rounds": 4,
+      "seed": 6,
+      "sha256": "0126646bc3f67d632a35f8a63a65c1fe5c195f66c077f170e7ae18090f046f0a",
+      "type": "pt"
+    },
+    {
+      "bytes": 6869,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_6/speck_R4/events.out.tfevents.1781136653.Vlado.18348.9",
+      "role": "tensorboard_event",
+      "rounds": 4,
+      "seed": 6,
+      "sha256": "c4b9e52f58c3581840aebe98c12cc4871eea7718743102439865a035f2a1ddce",
+      "type": "9"
+    },
+    {
+      "bytes": 1598790,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r5_9056b6ce0dfa.npz",
+      "role": "dataset_cache",
+      "rounds": 5,
+      "seed": 6,
+      "sha256": "ca10a01b8bdb7b0dda16c96164c97126d18051a557d8d73201c53862f9d86ea5",
+      "type": "npz"
+    },
+    {
+      "bytes": 138497,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_6/speck/R5.pt",
+      "role": "model_checkpoint",
+      "rounds": 5,
+      "seed": 6,
+      "sha256": "b687b3c34e5083ef7a6a248ba0f50497220ed65f8ab57c78a1746c204fcbe032",
+      "type": "pt"
+    },
+    {
+      "bytes": 5993,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_6/speck_R5/events.out.tfevents.1781136727.Vlado.18348.10",
+      "role": "tensorboard_event",
+      "rounds": 5,
+      "seed": 6,
+      "sha256": "7bb78a4e590b1d9af7cc288db36e60054302f22ff1bb990ace0fdcc39836b9a2",
+      "type": "10"
+    },
+    {
+      "bytes": 1599371,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r6_628fc4d4893f.npz",
+      "role": "dataset_cache",
+      "rounds": 6,
+      "seed": 6,
+      "sha256": "5b981938a8deb43e0d99db85802a427020c0a2bb4f8bd32fda22fd8abea7a5b0",
+      "type": "npz"
+    },
+    {
+      "bytes": 140225,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_6/speck/R6.pt",
+      "role": "model_checkpoint",
+      "rounds": 6,
+      "seed": 6,
+      "sha256": "9d41a3be724284acf06b46c3a4da14753a5a63a7325afd107a676ffb56c038de",
+      "type": "pt"
+    },
+    {
+      "bytes": 12125,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_6/speck_R6/events.out.tfevents.1781136792.Vlado.18348.11",
+      "role": "tensorboard_event",
+      "rounds": 6,
+      "seed": 6,
+      "sha256": "19145d08c105d84230248ebbbd8f5c6cd32911e514a9d3dd6517228cd3f4a1c6",
+      "type": "11"
+    },
+    {
+      "bytes": 1598112,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r7_0b4a55dc8cad.npz",
+      "role": "dataset_cache",
+      "rounds": 7,
+      "seed": 6,
+      "sha256": "82a88183d41233c6ec918c78d2730225a9fe179434487bdef9b825f7e364834a",
+      "type": "npz"
+    },
+    {
+      "bytes": 139009,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_6/speck/R7.pt",
+      "role": "model_checkpoint",
+      "rounds": 7,
+      "seed": 6,
+      "sha256": "1c83d94d2a233a680121a89593111b16af09a666e9728de84ffa2f888b226fa2",
+      "type": "pt"
+    },
+    {
+      "bytes": 7964,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_6/speck_R7/events.out.tfevents.1781136983.Vlado.18348.12",
+      "role": "tensorboard_event",
+      "rounds": 7,
+      "seed": 6,
+      "sha256": "27d08998718ccbde88654988b726f134f27a0f2f17dc8b5cbf6523661d8c2c3d",
+      "type": "12"
+    },
+    {
+      "bytes": 1598351,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r8_ec62ada28c40.npz",
+      "role": "dataset_cache",
+      "rounds": 8,
+      "seed": 6,
+      "sha256": "438bc6bf80edef7f98365f9f83ebbb11c56b9a852d6c07473cf8ebcf65ae769e",
+      "type": "npz"
+    },
+    {
+      "bytes": 140929,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_6/speck/R8.pt",
+      "role": "model_checkpoint",
+      "rounds": 8,
+      "seed": 6,
+      "sha256": "0bca105cd642886ca9273a194869b28bab165806904b5a2e121e8a4325c7c2e8",
+      "type": "pt"
+    },
+    {
+      "bytes": 14534,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_6/speck_R8/events.out.tfevents.1781137084.Vlado.18348.13",
+      "role": "tensorboard_event",
+      "rounds": 8,
+      "seed": 6,
+      "sha256": "3e45d0bddc425c660d5022673da4817a5c58428a9696f8e976a03f3254fc7b82",
+      "type": "13"
+    },
+    {
+      "bytes": 1598451,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r9_eb569b60add7.npz",
+      "role": "dataset_cache",
+      "rounds": 9,
+      "seed": 6,
+      "sha256": "fd5271185db870a407489783adb0049b9feafaeca8b9061d8eaf3dee37af980b",
+      "type": "npz"
+    },
+    {
+      "bytes": 140481,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_6/speck/R9.pt",
+      "role": "model_checkpoint",
+      "rounds": 9,
+      "seed": 6,
+      "sha256": "e1ef209a01625dc291705027e2b324570614af58a5500f5b755e50c640aa480e",
+      "type": "pt"
+    },
+    {
+      "bytes": 13001,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_6/speck_R9/events.out.tfevents.1781137370.Vlado.18348.14",
+      "role": "tensorboard_event",
+      "rounds": 9,
+      "seed": 6,
+      "sha256": "e936449fc7ebd93e3cfe5c050bcdbfbde90339b6adc3dd2c2e4cda77c9a8bdd2",
+      "type": "14"
+    },
+    {
+      "bytes": 1598945,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r10_68ac12705144.npz",
+      "role": "dataset_cache",
+      "rounds": 10,
+      "seed": 6,
+      "sha256": "b8a61901ba6b0edfb14fa730249971dad2138e2e3619ec2bc0c9b083454b4109",
+      "type": "npz"
+    },
+    {
+      "bytes": 139742,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_6/speck/R10.pt",
+      "role": "model_checkpoint",
+      "rounds": 10,
+      "seed": 6,
+      "sha256": "a6ab00e6d65bb7d985777bf88aaf9fdcadd39c6580cefdc0130e54f9ad013faf",
+      "type": "pt"
+    },
+    {
+      "bytes": 7964,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_6/speck_R10/events.out.tfevents.1781137589.Vlado.18348.15",
+      "role": "tensorboard_event",
+      "rounds": 10,
+      "seed": 6,
+      "sha256": "9c94647d2f7ea0f2eafb94e940423b1d98ad619858ea97d769fb551821b58724",
+      "type": "15"
+    },
+    {
+      "bytes": 1588226,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r3_70836de8a3b4.npz",
+      "role": "dataset_cache",
+      "rounds": 3,
+      "seed": 7,
+      "sha256": "f6531146d9e50699a9c8bca18556b73405da6ef73c2850c8b11c2afcf686db87",
+      "type": "npz"
+    },
+    {
+      "bytes": 138625,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_7/simon/R3.pt",
+      "role": "model_checkpoint",
+      "rounds": 3,
+      "seed": 7,
+      "sha256": "da7190a904ea5da9a946a7106f54e6286ebe23c5f3f668e29b4af0b18387ec4f",
+      "type": "pt"
+    },
+    {
+      "bytes": 6431,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_7/simon_R3/events.out.tfevents.1781137697.Vlado.3692.0",
+      "role": "tensorboard_event",
+      "rounds": 3,
+      "seed": 7,
+      "sha256": "6a7f8e4bcf838be10a14ce10ce0587d339c9f4cfffe3bc46b4e9acc4a6422916",
+      "type": "0"
+    },
+    {
+      "bytes": 1598190,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r4_3f9cd84ae51a.npz",
+      "role": "dataset_cache",
+      "rounds": 4,
+      "seed": 7,
+      "sha256": "49fb6188e8a3055c05d186c4cbea9a59390878333a532cb6d2a4124a97ce0d75",
+      "type": "npz"
+    },
+    {
+      "bytes": 139521,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_7/simon/R4.pt",
+      "role": "model_checkpoint",
+      "rounds": 4,
+      "seed": 7,
+      "sha256": "a6decc455efb633ad6c69a97839ccfed97f592bb9ebed5ba1a5899a2e653f4b7",
+      "type": "pt"
+    },
+    {
+      "bytes": 9716,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_7/simon_R4/events.out.tfevents.1781137766.Vlado.3692.1",
+      "role": "tensorboard_event",
+      "rounds": 4,
+      "seed": 7,
+      "sha256": "5e19eacef28bf2c21aa32a43ce71c754190029a488dda497e838d9772962bd7b",
+      "type": "1"
+    },
+    {
+      "bytes": 1598575,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r5_381d62aa8e0d.npz",
+      "role": "dataset_cache",
+      "rounds": 5,
+      "seed": 7,
+      "sha256": "f543f028d684a29b4416b26f58b74cb5b292c97150c7a3b4cbb63616618e4a38",
+      "type": "npz"
+    },
+    {
+      "bytes": 138817,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_7/simon/R5.pt",
+      "role": "model_checkpoint",
+      "rounds": 5,
+      "seed": 7,
+      "sha256": "dbdcb8acbab16e8c92fad46f6e6e4a9c7daabae1583d8746f967919d2075eec1",
+      "type": "pt"
+    },
+    {
+      "bytes": 7307,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_7/simon_R5/events.out.tfevents.1781137870.Vlado.3692.2",
+      "role": "tensorboard_event",
+      "rounds": 5,
+      "seed": 7,
+      "sha256": "dfa2aca761e3831dec60cad94d4aa9e159e236733938028cdf385f0af4ddc95d",
+      "type": "2"
+    },
+    {
+      "bytes": 1598720,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r6_465a26b19e9d.npz",
+      "role": "dataset_cache",
+      "rounds": 6,
+      "seed": 7,
+      "sha256": "b631be121ed2824941732549172fe03dffd95ce2858a9e35d5c9ea23c3e796fa",
+      "type": "npz"
+    },
+    {
+      "bytes": 138369,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_7/simon/R6.pt",
+      "role": "model_checkpoint",
+      "rounds": 6,
+      "seed": 7,
+      "sha256": "f0ae46247d7ce88e09b9ec47f4f6725a0d25fe0ae72b1baaf271b92dc68c1890",
+      "type": "pt"
+    },
+    {
+      "bytes": 5555,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_7/simon_R6/events.out.tfevents.1781137949.Vlado.3692.3",
+      "role": "tensorboard_event",
+      "rounds": 6,
+      "seed": 7,
+      "sha256": "a84b2826ee580d8ace3dcb6f4a18952375c28c334df28142ef4d6ab8949511c5",
+      "type": "3"
+    },
+    {
+      "bytes": 1599463,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r7_5a07b480b9af.npz",
+      "role": "dataset_cache",
+      "rounds": 7,
+      "seed": 7,
+      "sha256": "3707481a94d1428736b94ac460e47fabcf0ddb52547fb7e8759cd9569a0cb012",
+      "type": "npz"
+    },
+    {
+      "bytes": 138561,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_7/simon/R7.pt",
+      "role": "model_checkpoint",
+      "rounds": 7,
+      "seed": 7,
+      "sha256": "402875dc8efa9ddcef806c77c2fa64a47998a39fb07e8bcd94578f22e6ebbd7e",
+      "type": "pt"
+    },
+    {
+      "bytes": 6212,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_7/simon_R7/events.out.tfevents.1781138009.Vlado.3692.4",
+      "role": "tensorboard_event",
+      "rounds": 7,
+      "seed": 7,
+      "sha256": "dd16b9347a1e7535d3bbd2d46e0280eff9e0f3fd9c9429aeecb201431ce4816e",
+      "type": "4"
+    },
+    {
+      "bytes": 1598473,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r8_f90e298cddb9.npz",
+      "role": "dataset_cache",
+      "rounds": 8,
+      "seed": 7,
+      "sha256": "3eedddfa23cf2af35c70ddff12472045e377a7906e2c74fd69a7e8cf521e4c2e",
+      "type": "npz"
+    },
+    {
+      "bytes": 138433,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_7/simon/R8.pt",
+      "role": "model_checkpoint",
+      "rounds": 8,
+      "seed": 7,
+      "sha256": "1c7868162594d8ca58ccc85336fc910de1282ee1994a8979896beac94fbcec3f",
+      "type": "pt"
+    },
+    {
+      "bytes": 5774,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_7/simon_R8/events.out.tfevents.1781138076.Vlado.3692.5",
+      "role": "tensorboard_event",
+      "rounds": 8,
+      "seed": 7,
+      "sha256": "ca841701ffc723fd8d62d346fe8c87e0b2f0d57017f28ce0f274117790769a68",
+      "type": "5"
+    },
+    {
+      "bytes": 1599285,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r9_587a0b63edfd.npz",
+      "role": "dataset_cache",
+      "rounds": 9,
+      "seed": 7,
+      "sha256": "58b75d66b81f7b620a924a92077c5ceb6c2afe470e750094738f86e8e87b6e6c",
+      "type": "npz"
+    },
+    {
+      "bytes": 137601,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_7/simon/R9.pt",
+      "role": "model_checkpoint",
+      "rounds": 9,
+      "seed": 7,
+      "sha256": "7c7249c94ad7bffafc2f89bb3255b068b9457ba3a5d258998b01ad5d505a5dc0",
+      "type": "pt"
+    },
+    {
+      "bytes": 2927,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_7/simon_R9/events.out.tfevents.1781138139.Vlado.3692.6",
+      "role": "tensorboard_event",
+      "rounds": 9,
+      "seed": 7,
+      "sha256": "092743859c5de2881fc31edcb3238f66eeca3da79e45d141fcda5986730b81a2",
+      "type": "6"
+    },
+    {
+      "bytes": 1599313,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r10_db9d0784b9ed.npz",
+      "role": "dataset_cache",
+      "rounds": 10,
+      "seed": 7,
+      "sha256": "1a065ba958943bc676c2bf16a520372a0aa4d8e1b297ecd3152a80ddd35dc545",
+      "type": "npz"
+    },
+    {
+      "bytes": 138334,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_7/simon/R10.pt",
+      "role": "model_checkpoint",
+      "rounds": 10,
+      "seed": 7,
+      "sha256": "359285ca16f46c091659cec893406671dbd2593f53f3f67f81db87a422c03136",
+      "type": "pt"
+    },
+    {
+      "bytes": 2927,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_7/simon_R10/events.out.tfevents.1781138171.Vlado.3692.7",
+      "role": "tensorboard_event",
+      "rounds": 10,
+      "seed": 7,
+      "sha256": "5dc0f6b38149f13c1d80637e6150db3c09ea5c30371fcdbce7163a9b65738727",
+      "type": "7"
+    },
+    {
+      "bytes": 1596545,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r3_32b5651d900b.npz",
+      "role": "dataset_cache",
+      "rounds": 3,
+      "seed": 7,
+      "sha256": "200ca226ba06e557dcf578c3017b09f79193cf4462ad49fb46c6c4c4c3dccacf",
+      "type": "npz"
+    },
+    {
+      "bytes": 139201,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_7/speck/R3.pt",
+      "role": "model_checkpoint",
+      "rounds": 3,
+      "seed": 7,
+      "sha256": "c390dfaf70e9cef911d508e594f1d65746e69121be9017e7bfafb3ed538191fa",
+      "type": "pt"
+    },
+    {
+      "bytes": 8621,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_7/speck_R3/events.out.tfevents.1781138203.Vlado.3692.8",
+      "role": "tensorboard_event",
+      "rounds": 3,
+      "seed": 7,
+      "sha256": "d32b7543c26667c9326fd2af2f6e9879ba7221232dc318c62d7be69e1e47f5a6",
+      "type": "8"
+    },
+    {
+      "bytes": 1599109,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r4_5b5f0f295bc6.npz",
+      "role": "dataset_cache",
+      "rounds": 4,
+      "seed": 7,
+      "sha256": "8f9b1940fc95741e94439534682eb5a61b0f166b20cc799d7b16430ea546780a",
+      "type": "npz"
+    },
+    {
+      "bytes": 138433,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_7/speck/R4.pt",
+      "role": "model_checkpoint",
+      "rounds": 4,
+      "seed": 7,
+      "sha256": "49a9253f8ac5a5f35369bdff2e8c6bd39e964d3641130a8d3861caa9736409be",
+      "type": "pt"
+    },
+    {
+      "bytes": 5774,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_7/speck_R4/events.out.tfevents.1781138296.Vlado.3692.9",
+      "role": "tensorboard_event",
+      "rounds": 4,
+      "seed": 7,
+      "sha256": "754ff4b794e474741ebe85305a430e64f9c718dea6deee5a7e0dab276a611e1b",
+      "type": "9"
+    },
+    {
+      "bytes": 1598352,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r5_0499a5e8a5d7.npz",
+      "role": "dataset_cache",
+      "rounds": 5,
+      "seed": 7,
+      "sha256": "0e5aca16af253b95247b0ade67bc7c6d18292ff02d236a832cd1084ae8602e60",
+      "type": "npz"
+    },
+    {
+      "bytes": 138561,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_7/speck/R5.pt",
+      "role": "model_checkpoint",
+      "rounds": 5,
+      "seed": 7,
+      "sha256": "52ccd086967987526cca8b1d049765e797a8e5db16a968a0f1294e3d1d3a10b4",
+      "type": "pt"
+    },
+    {
+      "bytes": 6212,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_7/speck_R5/events.out.tfevents.1781138359.Vlado.3692.10",
+      "role": "tensorboard_event",
+      "rounds": 5,
+      "seed": 7,
+      "sha256": "c8af60c7a1634619878036032e838c18549f522291e6663e933e1f00c81433ab",
+      "type": "10"
+    },
+    {
+      "bytes": 1598695,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r6_c1ee4d57311e.npz",
+      "role": "dataset_cache",
+      "rounds": 6,
+      "seed": 7,
+      "sha256": "c518b0d1bcf3216e9ae63efccbe0218c78d4ff9205ab6ff007bb6920d770782b",
+      "type": "npz"
+    },
+    {
+      "bytes": 137601,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_7/speck/R6.pt",
+      "role": "model_checkpoint",
+      "rounds": 6,
+      "seed": 7,
+      "sha256": "22b678ea516cf729a4c182b7c9d2842681696e11cb4762d9f3760244b127ec54",
+      "type": "pt"
+    },
+    {
+      "bytes": 2927,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_7/speck_R6/events.out.tfevents.1781138426.Vlado.3692.11",
+      "role": "tensorboard_event",
+      "rounds": 6,
+      "seed": 7,
+      "sha256": "c70372a28602b3458d371a696be18473fa22df18b9a2cec96c803496e2cac992",
+      "type": "11"
+    },
+    {
+      "bytes": 1599277,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r7_b7fe8093fd62.npz",
+      "role": "dataset_cache",
+      "rounds": 7,
+      "seed": 7,
+      "sha256": "501b89a1a9455b6c87b01656e61c2b70bd2438d084a6f67cce9aa0aafa245d9f",
+      "type": "npz"
+    },
+    {
+      "bytes": 138241,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_7/speck/R7.pt",
+      "role": "model_checkpoint",
+      "rounds": 7,
+      "seed": 7,
+      "sha256": "1b1862222ddacc1db3778f710a94a2c98cf5745ec307c5c1cd67c83a5dfd5f26",
+      "type": "pt"
+    },
+    {
+      "bytes": 5117,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_7/speck_R7/events.out.tfevents.1781138459.Vlado.3692.12",
+      "role": "tensorboard_event",
+      "rounds": 7,
+      "seed": 7,
+      "sha256": "cbb4c696badddddda3ba30a16a3a8e01f9afbce97e270176bcaeefbb9735935a",
+      "type": "12"
+    },
+    {
+      "bytes": 1599050,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r8_f70bd55bf263.npz",
+      "role": "dataset_cache",
+      "rounds": 8,
+      "seed": 7,
+      "sha256": "49bd81e8596536da9f4c8db34c565c15a7a95fd8ca34e9b6f7c8ad4abd6fd271",
+      "type": "npz"
+    },
+    {
+      "bytes": 138049,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_7/speck/R8.pt",
+      "role": "model_checkpoint",
+      "rounds": 8,
+      "seed": 7,
+      "sha256": "43e056eaddd369e54f1a69e073384754047364c3b2b8263faf45014ff887ce97",
+      "type": "pt"
+    },
+    {
+      "bytes": 4460,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_7/speck_R8/events.out.tfevents.1781138514.Vlado.3692.13",
+      "role": "tensorboard_event",
+      "rounds": 8,
+      "seed": 7,
+      "sha256": "1c5de905bab089d67b697acd77dfa2fcadd69b19c0080ee4d577c1c007f02dac",
+      "type": "13"
+    },
+    {
+      "bytes": 1599346,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r9_167cc3303aca.npz",
+      "role": "dataset_cache",
+      "rounds": 9,
+      "seed": 7,
+      "sha256": "5fbf65b78672d305888db7b502b5ec0e5c802680ce48fe4454740503d8be74c3",
+      "type": "npz"
+    },
+    {
+      "bytes": 138369,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_7/speck/R9.pt",
+      "role": "model_checkpoint",
+      "rounds": 9,
+      "seed": 7,
+      "sha256": "36d10ae33d97e26a2c1cfae9bd8f9fddfba3cafb0e9afd93dc14a284aa587ac9",
+      "type": "pt"
+    },
+    {
+      "bytes": 5555,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_7/speck_R9/events.out.tfevents.1781138563.Vlado.3692.14",
+      "role": "tensorboard_event",
+      "rounds": 9,
+      "seed": 7,
+      "sha256": "004fcf22afead40f6c8610c601f07f36eae3189050eee4436ab7d3ea06a85b16",
+      "type": "14"
+    },
+    {
+      "bytes": 1599111,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r10_33b7cb548e53.npz",
+      "role": "dataset_cache",
+      "rounds": 10,
+      "seed": 7,
+      "sha256": "c8cfa58ad2ff1c593cd9292c5556b6a63ee1a0db601730c31d3d60c78e34ec54",
+      "type": "npz"
+    },
+    {
+      "bytes": 138590,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_7/speck/R10.pt",
+      "role": "model_checkpoint",
+      "rounds": 10,
+      "seed": 7,
+      "sha256": "9690fac6e47d3a10068d807f57e9172a3a12c60799918138fa2a0f3bebd51d2c",
+      "type": "pt"
+    },
+    {
+      "bytes": 3803,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_7/speck_R10/events.out.tfevents.1781138623.Vlado.3692.15",
+      "role": "tensorboard_event",
+      "rounds": 10,
+      "seed": 7,
+      "sha256": "b802a88147915c7e3d82b659266c48642b352103f3c5b8e0428edad6e1219066",
+      "type": "15"
+    },
+    {
+      "bytes": 1588150,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r3_69a6bd034d8f.npz",
+      "role": "dataset_cache",
+      "rounds": 3,
+      "seed": 8,
+      "sha256": "ff5c8f2dc34102c89b6affd2e8185279077f3ef8ceb6629e09a7f5bfe0f6b446",
+      "type": "npz"
+    },
+    {
+      "bytes": 141377,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_8/simon/R3.pt",
+      "role": "model_checkpoint",
+      "rounds": 3,
+      "seed": 8,
+      "sha256": "b5911307b58bccaca8edb4987eaef48b21e2737499b990f3fd704f692e273214",
+      "type": "pt"
+    },
+    {
+      "bytes": 16067,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_8/simon_R3/events.out.tfevents.1781138678.Vlado.29016.0",
+      "role": "tensorboard_event",
+      "rounds": 3,
+      "seed": 8,
+      "sha256": "2fc3f3b47e82cf8716760c2ebfbe1c487cf3e0114be2c8df33b50ea73d28085e",
+      "type": "0"
+    },
+    {
+      "bytes": 1597809,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r4_2284b62c07eb.npz",
+      "role": "dataset_cache",
+      "rounds": 4,
+      "seed": 8,
+      "sha256": "29ffe0393e065f6234159f063330dc81c6dc5e1439a037f72644cba196f85379",
+      "type": "npz"
+    },
+    {
+      "bytes": 139329,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_8/simon/R4.pt",
+      "role": "model_checkpoint",
+      "rounds": 4,
+      "seed": 8,
+      "sha256": "30a597e1908aefa519580dc6df4117e9d83802edf646ee3afea08ac59d988296",
+      "type": "pt"
+    },
+    {
+      "bytes": 9059,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_8/simon_R4/events.out.tfevents.1781138903.Vlado.29016.1",
+      "role": "tensorboard_event",
+      "rounds": 4,
+      "seed": 8,
+      "sha256": "bcbe20ee725ab34cc0568273bb3514d57ed5688c29aec69cc1d062886c4179f9",
+      "type": "1"
+    },
+    {
+      "bytes": 1598923,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r5_67bdc2e049a2.npz",
+      "role": "dataset_cache",
+      "rounds": 5,
+      "seed": 8,
+      "sha256": "65f20321fabd241efccef3c97baabb90327a191e09d3badfcfc3554ae6ccb516",
+      "type": "npz"
+    },
+    {
+      "bytes": 139649,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_8/simon/R5.pt",
+      "role": "model_checkpoint",
+      "rounds": 5,
+      "seed": 8,
+      "sha256": "b0afc20d1bda573c26519ea9f2cbaffd1be9b975202d3056b6ebeeadbba354aa",
+      "type": "pt"
+    },
+    {
+      "bytes": 10154,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_8/simon_R5/events.out.tfevents.1781139000.Vlado.29016.2",
+      "role": "tensorboard_event",
+      "rounds": 5,
+      "seed": 8,
+      "sha256": "717e3826b9ac4909e03b9c985c3e1de47c46d839bedb913f125df394d7faaef2",
+      "type": "2"
+    },
+    {
+      "bytes": 1598567,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r6_f8d7db2c9cde.npz",
+      "role": "dataset_cache",
+      "rounds": 6,
+      "seed": 8,
+      "sha256": "23649042dfde02ea62c709fe527920c79345cff0fd8a9c29b9db28bc15d0a9e4",
+      "type": "npz"
+    },
+    {
+      "bytes": 138625,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_8/simon/R6.pt",
+      "role": "model_checkpoint",
+      "rounds": 6,
+      "seed": 8,
+      "sha256": "c572643cdc3b0bd4e0bf73726ec074b4beff6d9d1522d72175a300c3221710ea",
+      "type": "pt"
+    },
+    {
+      "bytes": 6431,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_8/simon_R6/events.out.tfevents.1781139109.Vlado.29016.3",
+      "role": "tensorboard_event",
+      "rounds": 6,
+      "seed": 8,
+      "sha256": "99eb2155c53bf7e4e3005681cd7efc2c2813d2f73a4d0dee973e50b260a0a999",
+      "type": "3"
+    },
+    {
+      "bytes": 1598130,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r7_080684e62da6.npz",
+      "role": "dataset_cache",
+      "rounds": 7,
+      "seed": 8,
+      "sha256": "5e413f87d248374b37ffd5310c328ee1581f5aa59ea981fb2aa48d5e3c980d91",
+      "type": "npz"
+    },
+    {
+      "bytes": 137921,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_8/simon/R7.pt",
+      "role": "model_checkpoint",
+      "rounds": 7,
+      "seed": 8,
+      "sha256": "a5ad157b9fede56281165d6b400173c867e96a52997f2190d3285dae97089b69",
+      "type": "pt"
+    },
+    {
+      "bytes": 4022,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_8/simon_R7/events.out.tfevents.1781139178.Vlado.29016.4",
+      "role": "tensorboard_event",
+      "rounds": 7,
+      "seed": 8,
+      "sha256": "4520dd5cbfcc31daaf7ad5b4dab50b11377b17bae492603206b49448666a991f",
+      "type": "4"
+    },
+    {
+      "bytes": 1598629,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r8_34ece8f685ef.npz",
+      "role": "dataset_cache",
+      "rounds": 8,
+      "seed": 8,
+      "sha256": "58c5eb0dca297d9c669510de0125118fc5801de69941b9e2abc797d4ed6e0da7",
+      "type": "npz"
+    },
+    {
+      "bytes": 139265,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_8/simon/R8.pt",
+      "role": "model_checkpoint",
+      "rounds": 8,
+      "seed": 8,
+      "sha256": "5b1e13534560429f8bad54fe631b95d020c7eaf2b6d3272bcb0d231f7db2fa08",
+      "type": "pt"
+    },
+    {
+      "bytes": 8840,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_8/simon_R8/events.out.tfevents.1781139222.Vlado.29016.5",
+      "role": "tensorboard_event",
+      "rounds": 8,
+      "seed": 8,
+      "sha256": "8a817f31237d9db7b84aca1f47b18858c7be6ea291e0de8e79df73c581449fe0",
+      "type": "5"
+    },
+    {
+      "bytes": 1598337,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r9_fdd54394dc3d.npz",
+      "role": "dataset_cache",
+      "rounds": 9,
+      "seed": 8,
+      "sha256": "f9170b3de217490b1e06258e920c92b2b75e3cb91c5df870df607a4285f8ff3d",
+      "type": "npz"
+    },
+    {
+      "bytes": 137921,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_8/simon/R9.pt",
+      "role": "model_checkpoint",
+      "rounds": 9,
+      "seed": 8,
+      "sha256": "6cfc6d5068a70868ba29c5803d1f3121306ebae9d52b9115fc1b54c23c40b796",
+      "type": "pt"
+    },
+    {
+      "bytes": 4022,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_8/simon_R9/events.out.tfevents.1781139344.Vlado.29016.6",
+      "role": "tensorboard_event",
+      "rounds": 9,
+      "seed": 8,
+      "sha256": "5960ded358bc8cd7164262955c78867d8a434dbdc293d01c23c28ac1750cc20a",
+      "type": "6"
+    },
+    {
+      "bytes": 1598771,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r10_8a1f35165509.npz",
+      "role": "dataset_cache",
+      "rounds": 10,
+      "seed": 8,
+      "sha256": "33df6d6f034ca23b1283473f66708b951875e2ef8feebbca05bc3e18acc4d429",
+      "type": "npz"
+    },
+    {
+      "bytes": 139230,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_8/simon/R10.pt",
+      "role": "model_checkpoint",
+      "rounds": 10,
+      "seed": 8,
+      "sha256": "c4373bb933190bcea6a8260d10477f169d20dee1a5ded93f63168ce9f6b45ccd",
+      "type": "pt"
+    },
+    {
+      "bytes": 5993,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_8/simon_R10/events.out.tfevents.1781139388.Vlado.29016.7",
+      "role": "tensorboard_event",
+      "rounds": 10,
+      "seed": 8,
+      "sha256": "be3ccd31a3c6423a64c76134fd48c1c8103d782b314562570e3079630c002627",
+      "type": "7"
+    },
+    {
+      "bytes": 1597167,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r3_d2d31d733c87.npz",
+      "role": "dataset_cache",
+      "rounds": 3,
+      "seed": 8,
+      "sha256": "35b7c94f22194158d1d536c16ad59a00b2b2ab107b445e3ad14f2142504a10cb",
+      "type": "npz"
+    },
+    {
+      "bytes": 139585,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_8/speck/R3.pt",
+      "role": "model_checkpoint",
+      "rounds": 3,
+      "seed": 8,
+      "sha256": "764a3a5f8a0cb4132c63cdb1fb6e86e60061c4d8a8992ff519a0ca3b5754313d",
+      "type": "pt"
+    },
+    {
+      "bytes": 9935,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_8/speck_R3/events.out.tfevents.1781139453.Vlado.29016.8",
+      "role": "tensorboard_event",
+      "rounds": 3,
+      "seed": 8,
+      "sha256": "fca6a7da872b5ba1f4e520ecaf6ce4e99565fdc66ec133bb9f67c1018fb82045",
+      "type": "8"
+    },
+    {
+      "bytes": 1598896,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r4_3fbc17af799c.npz",
+      "role": "dataset_cache",
+      "rounds": 4,
+      "seed": 8,
+      "sha256": "0b29260131e32fdce9789de6e278995250a975653982c70694246d5fff4675f0",
+      "type": "npz"
+    },
+    {
+      "bytes": 138625,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_8/speck/R4.pt",
+      "role": "model_checkpoint",
+      "rounds": 4,
+      "seed": 8,
+      "sha256": "0e7b4a6dfc721cfbea553aea435dcd0ab3eeccc09ea689150a2c0822ab47ec86",
+      "type": "pt"
+    },
+    {
+      "bytes": 6431,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_8/speck_R4/events.out.tfevents.1781139560.Vlado.29016.9",
+      "role": "tensorboard_event",
+      "rounds": 4,
+      "seed": 8,
+      "sha256": "c0331121d29d8a530b244fbe22f96e979965bb6d5ba86f79d981db655b9ecca1",
+      "type": "9"
+    },
+    {
+      "bytes": 1599164,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r5_a7ff3a567c9d.npz",
+      "role": "dataset_cache",
+      "rounds": 5,
+      "seed": 8,
+      "sha256": "cc578e9d1ec944bacc97b8a30d7f17da2c2b2377ae894b99b0712b0cc4af2ee0",
+      "type": "npz"
+    },
+    {
+      "bytes": 138369,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_8/speck/R5.pt",
+      "role": "model_checkpoint",
+      "rounds": 5,
+      "seed": 8,
+      "sha256": "7def11ed9a5bdfebef9d3f7744b4728fa84a6161bca22bb00b8980005e19b509",
+      "type": "pt"
+    },
+    {
+      "bytes": 5555,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_8/speck_R5/events.out.tfevents.1781139630.Vlado.29016.10",
+      "role": "tensorboard_event",
+      "rounds": 5,
+      "seed": 8,
+      "sha256": "9bb5a4749ded476f0d78d9d090e35ada2f1b9af0fae24d2be6239861c72b8623",
+      "type": "10"
+    },
+    {
+      "bytes": 1599422,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r6_2a1b8f77f092.npz",
+      "role": "dataset_cache",
+      "rounds": 6,
+      "seed": 8,
+      "sha256": "09a84854ade697f71263f245e569a77491c9e0a59748e4ce1c64869aee7fea68",
+      "type": "npz"
+    },
+    {
+      "bytes": 138241,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_8/speck/R6.pt",
+      "role": "model_checkpoint",
+      "rounds": 6,
+      "seed": 8,
+      "sha256": "9dd4618ab38d892cf1da861c702d9da6e7bb68a957e712bdbe360c353ebb4b73",
+      "type": "pt"
+    },
+    {
+      "bytes": 5117,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_8/speck_R6/events.out.tfevents.1781139690.Vlado.29016.11",
+      "role": "tensorboard_event",
+      "rounds": 6,
+      "seed": 8,
+      "sha256": "815a42e26b11f154f89a7cbe77a138e29ee0fbceb148803155610b730c89a746",
+      "type": "11"
+    },
+    {
+      "bytes": 1599189,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r7_9560f7f3f901.npz",
+      "role": "dataset_cache",
+      "rounds": 7,
+      "seed": 8,
+      "sha256": "2c4bcce28ce89951742110c67ea067666f43a172b242f053663bf4e65caae05f",
+      "type": "npz"
+    },
+    {
+      "bytes": 137921,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_8/speck/R7.pt",
+      "role": "model_checkpoint",
+      "rounds": 7,
+      "seed": 8,
+      "sha256": "dfc1d4495706ef27775146ba7ab902b2690bbd326a1570f1450e03dafbdff1cc",
+      "type": "pt"
+    },
+    {
+      "bytes": 4022,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_8/speck_R7/events.out.tfevents.1781139746.Vlado.29016.12",
+      "role": "tensorboard_event",
+      "rounds": 7,
+      "seed": 8,
+      "sha256": "c1869a12d248b10e63ef5d59177469c134f2ca1b1a94cf20065913521324a348",
+      "type": "12"
+    },
+    {
+      "bytes": 1598910,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r8_37686b304c49.npz",
+      "role": "dataset_cache",
+      "rounds": 8,
+      "seed": 8,
+      "sha256": "231bab6f2c6deab92368514a8b80b640a85b0748148863256858b813f54d1a7d",
+      "type": "npz"
+    },
+    {
+      "bytes": 138241,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_8/speck/R8.pt",
+      "role": "model_checkpoint",
+      "rounds": 8,
+      "seed": 8,
+      "sha256": "e2cc1491f8b0a529e1467a7e18def42c701e1cb7abeacfd86f94da3580a7c770",
+      "type": "pt"
+    },
+    {
+      "bytes": 5117,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_8/speck_R8/events.out.tfevents.1781139790.Vlado.29016.13",
+      "role": "tensorboard_event",
+      "rounds": 8,
+      "seed": 8,
+      "sha256": "1d722ad6fdf5edfda0d24bacc9ca1a67573e62995ea711b611c972efd01c464f",
+      "type": "13"
+    },
+    {
+      "bytes": 1598373,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r9_231c54119680.npz",
+      "role": "dataset_cache",
+      "rounds": 9,
+      "seed": 8,
+      "sha256": "0b16a04106963e9f419fc54fe078062a7908e12a4044acaf44eec96e5116180c",
+      "type": "npz"
+    },
+    {
+      "bytes": 138561,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_8/speck/R9.pt",
+      "role": "model_checkpoint",
+      "rounds": 9,
+      "seed": 8,
+      "sha256": "1db9e579c5fc6de3e0c215b47cf9a55e62b0c836c09cf1f9d3ae4afc8c0171d3",
+      "type": "pt"
+    },
+    {
+      "bytes": 6212,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_8/speck_R9/events.out.tfevents.1781139846.Vlado.29016.14",
+      "role": "tensorboard_event",
+      "rounds": 9,
+      "seed": 8,
+      "sha256": "d6b84299387a0e738eff34e894b827be90803c7c2f6f4971b96f68306c66ca70",
+      "type": "14"
+    },
+    {
+      "bytes": 1598618,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r10_4a132d35a01f.npz",
+      "role": "dataset_cache",
+      "rounds": 10,
+      "seed": 8,
+      "sha256": "0e151b6645e6d92f1a46c0837e02d339498291ac289c87b5a900e00bf0e914e3",
+      "type": "npz"
+    },
+    {
+      "bytes": 138846,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_8/speck/R10.pt",
+      "role": "model_checkpoint",
+      "rounds": 10,
+      "seed": 8,
+      "sha256": "3de006fc6fe74c5bc8ee7f823a7c46c6da5b09774e6105dc8298ceac6f21f8b3",
+      "type": "pt"
+    },
+    {
+      "bytes": 4679,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_8/speck_R10/events.out.tfevents.1781139914.Vlado.29016.15",
+      "role": "tensorboard_event",
+      "rounds": 10,
+      "seed": 8,
+      "sha256": "730d01879fafbcd538dd5b6aac9fe2f02e17e90edc23a8c03e75ad43d30cd663",
+      "type": "15"
+    },
+    {
+      "bytes": 1588444,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r3_c75945317d2c.npz",
+      "role": "dataset_cache",
+      "rounds": 3,
+      "seed": 9,
+      "sha256": "f37224524d4578519b7266bc5ac4fb732699d1f6eb33da904ce2fd03ce841818",
+      "type": "npz"
+    },
+    {
+      "bytes": 139905,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_9/simon/R3.pt",
+      "role": "model_checkpoint",
+      "rounds": 3,
+      "seed": 9,
+      "sha256": "fe66448119048a253163f47b0a26015b75069e9f5f4c8d0b4d6c8a42e220b2f1",
+      "type": "pt"
+    },
+    {
+      "bytes": 11030,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_9/simon_R3/events.out.tfevents.1781139972.Vlado.5096.0",
+      "role": "tensorboard_event",
+      "rounds": 3,
+      "seed": 9,
+      "sha256": "0188849e3f6e10d67a37592705216895ce3cc8fc40e244e7f40e698142a7c23d",
+      "type": "0"
+    },
+    {
+      "bytes": 1598665,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r4_f2cf3c1271aa.npz",
+      "role": "dataset_cache",
+      "rounds": 4,
+      "seed": 9,
+      "sha256": "aeb9e361dfd5b96b30c2367d19292df0fcee6ac6c6155b3cf4e1c3055543b649",
+      "type": "npz"
+    },
+    {
+      "bytes": 139009,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_9/simon/R4.pt",
+      "role": "model_checkpoint",
+      "rounds": 4,
+      "seed": 9,
+      "sha256": "824a6cb6451fd9eb059cab595bbd58e8165637afd36f4fae0d69d4c44b8661f8",
+      "type": "pt"
+    },
+    {
+      "bytes": 7964,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_9/simon_R4/events.out.tfevents.1781140090.Vlado.5096.1",
+      "role": "tensorboard_event",
+      "rounds": 4,
+      "seed": 9,
+      "sha256": "abb35fd2090d6d963187e3153b9ea30e58a153f465aa358d9700aa9687ba8483",
+      "type": "1"
+    },
+    {
+      "bytes": 1599502,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r5_905fafa6225f.npz",
+      "role": "dataset_cache",
+      "rounds": 5,
+      "seed": 9,
+      "sha256": "e739f776b1b43324dc0cad5e14cfa341c2fa575a0909b3c5fe5a3282915a515f",
+      "type": "npz"
+    },
+    {
+      "bytes": 139713,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_9/simon/R5.pt",
+      "role": "model_checkpoint",
+      "rounds": 5,
+      "seed": 9,
+      "sha256": "dbbece69270a318c90a9698f0df09cd612e5498ad7aa133abb2ae472b5329606",
+      "type": "pt"
+    },
+    {
+      "bytes": 10373,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_9/simon_R5/events.out.tfevents.1781140175.Vlado.5096.2",
+      "role": "tensorboard_event",
+      "rounds": 5,
+      "seed": 9,
+      "sha256": "799b87a0a2184365cff7af716e4acfcf88a549a6cc36b6d9ddc6c7740cb84bf0",
+      "type": "2"
+    },
+    {
+      "bytes": 1599007,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r6_fca42c5b1c7a.npz",
+      "role": "dataset_cache",
+      "rounds": 6,
+      "seed": 9,
+      "sha256": "a8450df8507462c9b3a9ff87d0d6c2f2d96154072ef6c8f7a16d5788a6a43ab5",
+      "type": "npz"
+    },
+    {
+      "bytes": 138433,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_9/simon/R6.pt",
+      "role": "model_checkpoint",
+      "rounds": 6,
+      "seed": 9,
+      "sha256": "ffce24e5daf1f20051bea6f6650b17281ed15caa5287843a9caf1870e719ac42",
+      "type": "pt"
+    },
+    {
+      "bytes": 5774,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_9/simon_R6/events.out.tfevents.1781140286.Vlado.5096.3",
+      "role": "tensorboard_event",
+      "rounds": 6,
+      "seed": 9,
+      "sha256": "506b67a59fdbd53b27f87f2129f688634f9118fbeea66eadc6672d6ca9602b5d",
+      "type": "3"
+    },
+    {
+      "bytes": 1599253,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r7_a237ed3bdfc5.npz",
+      "role": "dataset_cache",
+      "rounds": 7,
+      "seed": 9,
+      "sha256": "0dd02266081428609825bda1ac267a0dc9e658998bf51dd930237019f0adbba1",
+      "type": "npz"
+    },
+    {
+      "bytes": 138113,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_9/simon/R7.pt",
+      "role": "model_checkpoint",
+      "rounds": 7,
+      "seed": 9,
+      "sha256": "fc688aee2bdbf5ed4c5eee6ac73893c299f1bc37e043ca2f50daf32dce0045a9",
+      "type": "pt"
+    },
+    {
+      "bytes": 4679,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_9/simon_R7/events.out.tfevents.1781140349.Vlado.5096.4",
+      "role": "tensorboard_event",
+      "rounds": 7,
+      "seed": 9,
+      "sha256": "a4eb5ac23f301481ce1df788fd479c1e813b4ed574df93945e50ee9711843af7",
+      "type": "4"
+    },
+    {
+      "bytes": 1599216,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r8_3df20aa3d997.npz",
+      "role": "dataset_cache",
+      "rounds": 8,
+      "seed": 9,
+      "sha256": "fafe709f7589458b49e9506636481c4896571ed2045ff99bf8f32c8afa13406f",
+      "type": "npz"
+    },
+    {
+      "bytes": 137793,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_9/simon/R8.pt",
+      "role": "model_checkpoint",
+      "rounds": 8,
+      "seed": 9,
+      "sha256": "054198231312d4360a3c76b60069048fbe8e68e95f5344ca08881ab1b2206b43",
+      "type": "pt"
+    },
+    {
+      "bytes": 3584,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_9/simon_R8/events.out.tfevents.1781140400.Vlado.5096.5",
+      "role": "tensorboard_event",
+      "rounds": 8,
+      "seed": 9,
+      "sha256": "fe81cf71429b92501f1b188dda498948a55e64e8c9f4c8cdf11a08d839cb4483",
+      "type": "5"
+    },
+    {
+      "bytes": 1598540,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r9_13256edcb2b7.npz",
+      "role": "dataset_cache",
+      "rounds": 9,
+      "seed": 9,
+      "sha256": "805ac5766d255a818012a2a5bc43b657615bf14a64b61a75d0db23513163bb98",
+      "type": "npz"
+    },
+    {
+      "bytes": 138177,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_9/simon/R9.pt",
+      "role": "model_checkpoint",
+      "rounds": 9,
+      "seed": 9,
+      "sha256": "524fa3fde28ebf23e03977832fe6ab40998db494ae476cd5b356399c7f6af3d9",
+      "type": "pt"
+    },
+    {
+      "bytes": 4898,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_9/simon_R9/events.out.tfevents.1781140439.Vlado.5096.6",
+      "role": "tensorboard_event",
+      "rounds": 9,
+      "seed": 9,
+      "sha256": "940bcd95a28d0f181728fd23f74af38e7309c6065e46811027dd5d49f1f3ad96",
+      "type": "6"
+    },
+    {
+      "bytes": 1598567,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r10_8e99fd4384b1.npz",
+      "role": "dataset_cache",
+      "rounds": 10,
+      "seed": 9,
+      "sha256": "5f1cc039e377819ab44a80d6d3a0e5de8dac9c91119c837f54d2af42d144cdd9",
+      "type": "npz"
+    },
+    {
+      "bytes": 138398,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_9/simon/R10.pt",
+      "role": "model_checkpoint",
+      "rounds": 10,
+      "seed": 9,
+      "sha256": "96e097826016ae4a3be1870d4053c0f946581b402b849ce01e1d60786bf3ea35",
+      "type": "pt"
+    },
+    {
+      "bytes": 3146,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_9/simon_R10/events.out.tfevents.1781140493.Vlado.5096.7",
+      "role": "tensorboard_event",
+      "rounds": 10,
+      "seed": 9,
+      "sha256": "af47270b7adb91fe2d3e2969241036e140fddcfa08bf39d89ffd9b7d74bd5c60",
+      "type": "7"
+    },
+    {
+      "bytes": 1597418,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r3_19eee9b244fc.npz",
+      "role": "dataset_cache",
+      "rounds": 3,
+      "seed": 9,
+      "sha256": "ecf7d78e8c6fa27accec76975c7efc013bc4a50b8fc04871e83d035a065f92eb",
+      "type": "npz"
+    },
+    {
+      "bytes": 139457,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_9/speck/R3.pt",
+      "role": "model_checkpoint",
+      "rounds": 3,
+      "seed": 9,
+      "sha256": "f98e0cad51971265d6f8d6edae2809d8f940c308466bec9a979403d368650f51",
+      "type": "pt"
+    },
+    {
+      "bytes": 9497,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_9/speck_R3/events.out.tfevents.1781140527.Vlado.5096.8",
+      "role": "tensorboard_event",
+      "rounds": 3,
+      "seed": 9,
+      "sha256": "0c6da41975b2b9639fe4dfff953f4ffd6ed5222e53b396b0589614ad7e655fe4",
+      "type": "8"
+    },
+    {
+      "bytes": 1598783,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r4_bc279cf7d1ec.npz",
+      "role": "dataset_cache",
+      "rounds": 4,
+      "seed": 9,
+      "sha256": "b26dadcbe9bda12e8df092be13f2d694fa1d2ab0fffaffb10d6fca5f9dc15b0d",
+      "type": "npz"
+    },
+    {
+      "bytes": 139009,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_9/speck/R4.pt",
+      "role": "model_checkpoint",
+      "rounds": 4,
+      "seed": 9,
+      "sha256": "62e01eeea589aec6952ec5a6894c5f2a0501af92571c182efa859667a55e3381",
+      "type": "pt"
+    },
+    {
+      "bytes": 7964,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_9/speck_R4/events.out.tfevents.1781140629.Vlado.5096.9",
+      "role": "tensorboard_event",
+      "rounds": 4,
+      "seed": 9,
+      "sha256": "8278d7c650c6c66709b8e20d5160a3b8959539073d8864b813951cd2a5290b75",
+      "type": "9"
+    },
+    {
+      "bytes": 1599271,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r5_a63a7c226d4a.npz",
+      "role": "dataset_cache",
+      "rounds": 5,
+      "seed": 9,
+      "sha256": "6bcffe8573ae643b0dd0f79d9529efd3a785d356455f37da6b036a004748a163",
+      "type": "npz"
+    },
+    {
+      "bytes": 138433,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_9/speck/R5.pt",
+      "role": "model_checkpoint",
+      "rounds": 5,
+      "seed": 9,
+      "sha256": "c7453b473a9d6c5860f36ec3aeb5a152d214fd23ddfe34edd629fc6bd19ea842",
+      "type": "pt"
+    },
+    {
+      "bytes": 5774,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_9/speck_R5/events.out.tfevents.1781140715.Vlado.5096.10",
+      "role": "tensorboard_event",
+      "rounds": 5,
+      "seed": 9,
+      "sha256": "ad70fe9e8903a8afb3b82cdc638f53e635bedeb6c0bd7ff90a105d39e6206600",
+      "type": "10"
+    },
+    {
+      "bytes": 1599322,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r6_0e0dc4520b20.npz",
+      "role": "dataset_cache",
+      "rounds": 6,
+      "seed": 9,
+      "sha256": "752b1645b859882fece5bd5ceba7a621a79db7c9e077f383b8925b77414294a1",
+      "type": "npz"
+    },
+    {
+      "bytes": 138433,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_9/speck/R6.pt",
+      "role": "model_checkpoint",
+      "rounds": 6,
+      "seed": 9,
+      "sha256": "26ef0bb31aa7c2fd41d76fc0c5cb93500370125f37f53a35d5bcac0cab69fd8d",
+      "type": "pt"
+    },
+    {
+      "bytes": 5774,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_9/speck_R6/events.out.tfevents.1781140778.Vlado.5096.11",
+      "role": "tensorboard_event",
+      "rounds": 6,
+      "seed": 9,
+      "sha256": "16462f59c594feebe93791d7a013c38dcdef9213dd8f1300585ea921c9e0fdb3",
+      "type": "11"
+    },
+    {
+      "bytes": 1598983,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r7_9b4e9e79dbde.npz",
+      "role": "dataset_cache",
+      "rounds": 7,
+      "seed": 9,
+      "sha256": "8f07aceb586ae0e98a90508b919a68087e5b76d06786249fe57fbafb9f24af87",
+      "type": "npz"
+    },
+    {
+      "bytes": 138945,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_9/speck/R7.pt",
+      "role": "model_checkpoint",
+      "rounds": 7,
+      "seed": 9,
+      "sha256": "e0a7d75e4d3a8eb602688e0c730950065c168023162940572b2222f5d800200e",
+      "type": "pt"
+    },
+    {
+      "bytes": 7745,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_9/speck_R7/events.out.tfevents.1781140841.Vlado.5096.12",
+      "role": "tensorboard_event",
+      "rounds": 7,
+      "seed": 9,
+      "sha256": "185a68aed3f92281a454f4a7a8884897ba48e81f709501e8ef58d36f067285fe",
+      "type": "12"
+    },
+    {
+      "bytes": 1598434,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r8_9df0e7451092.npz",
+      "role": "dataset_cache",
+      "rounds": 8,
+      "seed": 9,
+      "sha256": "b945ef408dca0d0edbea9b8281ad4c84a3399fdae2d7573cfbe0a41427aa6ba6",
+      "type": "npz"
+    },
+    {
+      "bytes": 138497,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_9/speck/R8.pt",
+      "role": "model_checkpoint",
+      "rounds": 8,
+      "seed": 9,
+      "sha256": "75cbc2d1dd5fd2ab3357449bca6ee8513f3f1e6eccb7de6d1bdedc32f27bc850",
+      "type": "pt"
+    },
+    {
+      "bytes": 5993,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_9/speck_R8/events.out.tfevents.1781140942.Vlado.5096.13",
+      "role": "tensorboard_event",
+      "rounds": 8,
+      "seed": 9,
+      "sha256": "eef295f56e824a661566ad0ba2284f91817fae6d54ddd106f95046c26bc8ed29",
+      "type": "13"
+    },
+    {
+      "bytes": 1599481,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r9_f9d2790af339.npz",
+      "role": "dataset_cache",
+      "rounds": 9,
+      "seed": 9,
+      "sha256": "a6eac77dcb17d76c031d056b7586482703dda8eca18162fef55ce920c6519a58",
+      "type": "npz"
+    },
+    {
+      "bytes": 138817,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_9/speck/R9.pt",
+      "role": "model_checkpoint",
+      "rounds": 9,
+      "seed": 9,
+      "sha256": "f5b7b0de7844805b4ac719936b8c9eccd117d4a45a6ffd008f2336b74efbe0be",
+      "type": "pt"
+    },
+    {
+      "bytes": 7307,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_9/speck_R9/events.out.tfevents.1781141006.Vlado.5096.14",
+      "role": "tensorboard_event",
+      "rounds": 9,
+      "seed": 9,
+      "sha256": "ee30aeb14318b1eec9fd7b228deafec7fba667b13091b43a81c92762e400d8ee",
+      "type": "14"
+    },
+    {
+      "bytes": 1598938,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r10_3ee0714101a8.npz",
+      "role": "dataset_cache",
+      "rounds": 10,
+      "seed": 9,
+      "sha256": "e23e6dc87fdd26b3ccb058fddc343c6a104fe1f01b3e023bde73c14b56e48c2b",
+      "type": "npz"
+    },
+    {
+      "bytes": 138398,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_9/speck/R10.pt",
+      "role": "model_checkpoint",
+      "rounds": 10,
+      "seed": 9,
+      "sha256": "89b59517a23a5309bc94d871725c85030c336d24411e933fbf7fc51026dcf58b",
+      "type": "pt"
+    },
+    {
+      "bytes": 3146,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_9/speck_R10/events.out.tfevents.1781141096.Vlado.5096.15",
+      "role": "tensorboard_event",
+      "rounds": 10,
+      "seed": 9,
+      "sha256": "dcf6e62615194b6a87814ad41f123b666aae599e6c58be8f1b4e763f6609778e",
+      "type": "15"
+    },
+    {
+      "bytes": 1587750,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r3_b5a5006fdd2f.npz",
+      "role": "dataset_cache",
+      "rounds": 3,
+      "seed": 10,
+      "sha256": "bc88ebd463e31ea6d5c8d49937f54aa609e016b9bfe5d58551b095c8f3d81ae7",
+      "type": "npz"
+    },
+    {
+      "bytes": 139137,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_10/simon/R3.pt",
+      "role": "model_checkpoint",
+      "rounds": 3,
+      "seed": 10,
+      "sha256": "175fd7b62a5e2369a4cf97422a7843962ed1ee07346e2080cef8b7f5499559f8",
+      "type": "pt"
+    },
+    {
+      "bytes": 8402,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_10/simon_R3/events.out.tfevents.1781141138.Vlado.252.0",
+      "role": "tensorboard_event",
+      "rounds": 3,
+      "seed": 10,
+      "sha256": "14e4d4a900dada784b0a7dfe191659fb86dfc919d7e70e264ddd3e698e5b437d",
+      "type": "0"
+    },
+    {
+      "bytes": 1598590,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r4_a7db890893ed.npz",
+      "role": "dataset_cache",
+      "rounds": 4,
+      "seed": 10,
+      "sha256": "439b535d9a7d34a3098bc15826d46551d0c62b5ae4df79e33fb8c880470813c7",
+      "type": "npz"
+    },
+    {
+      "bytes": 138881,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_10/simon/R4.pt",
+      "role": "model_checkpoint",
+      "rounds": 4,
+      "seed": 10,
+      "sha256": "9adaf75dcaa6671cc34d3a7b8a55fff219e3a5bf8d98ab2d6fc63bd8040f6417",
+      "type": "pt"
+    },
+    {
+      "bytes": 7526,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_10/simon_R4/events.out.tfevents.1781141229.Vlado.252.1",
+      "role": "tensorboard_event",
+      "rounds": 4,
+      "seed": 10,
+      "sha256": "29c8c2680b84bad6742fb5ecb903cf4558bf8741c7da3ec216cf5b6ebce3d6c3",
+      "type": "1"
+    },
+    {
+      "bytes": 1598986,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r5_47a86d9291a5.npz",
+      "role": "dataset_cache",
+      "rounds": 5,
+      "seed": 10,
+      "sha256": "74b00ca71d15deebf71f0afe54a7b170f39ac917522855d20f155f23bde4cfcc",
+      "type": "npz"
+    },
+    {
+      "bytes": 140033,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_10/simon/R5.pt",
+      "role": "model_checkpoint",
+      "rounds": 5,
+      "seed": 10,
+      "sha256": "33810cb9d9739f00ea35171ce15f1cb17e8b5b742a90fe21dc4ae59499f016cf",
+      "type": "pt"
+    },
+    {
+      "bytes": 11468,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_10/simon_R5/events.out.tfevents.1781141311.Vlado.252.2",
+      "role": "tensorboard_event",
+      "rounds": 5,
+      "seed": 10,
+      "sha256": "7d3c5f973407c3086edd20688de6b7c8a386b67754de1e3a6ec706422502aba7",
+      "type": "2"
+    },
+    {
+      "bytes": 1599362,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r6_1dcfb3f73ac1.npz",
+      "role": "dataset_cache",
+      "rounds": 6,
+      "seed": 10,
+      "sha256": "5d3d99e738481113fba66e80b52442e888aa32e61e09191c8a6497e98b842f8e",
+      "type": "npz"
+    },
+    {
+      "bytes": 138497,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_10/simon/R6.pt",
+      "role": "model_checkpoint",
+      "rounds": 6,
+      "seed": 10,
+      "sha256": "6c47a5edbf84cd6d1f5122e74858783b0c7588a5cc62064a8f1ed8a9ef2f8d55",
+      "type": "pt"
+    },
+    {
+      "bytes": 5993,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_10/simon_R6/events.out.tfevents.1781141435.Vlado.252.3",
+      "role": "tensorboard_event",
+      "rounds": 6,
+      "seed": 10,
+      "sha256": "672cdbc26d9127c10584a7ae2b87b2d732b6ddfa92fe01ba39a6ba28b064d934",
+      "type": "3"
+    },
+    {
+      "bytes": 1599240,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r7_cc2f7d325127.npz",
+      "role": "dataset_cache",
+      "rounds": 7,
+      "seed": 10,
+      "sha256": "b0c04892bff1ebc80f3e08c882b75cbbd18afd8a7398c432fcf1fcaf332d01d8",
+      "type": "npz"
+    },
+    {
+      "bytes": 138177,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_10/simon/R7.pt",
+      "role": "model_checkpoint",
+      "rounds": 7,
+      "seed": 10,
+      "sha256": "b50d6658400d8511d95c0885bda72f7e768da33c6166acfc06cefe4ed48808de",
+      "type": "pt"
+    },
+    {
+      "bytes": 4898,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_10/simon_R7/events.out.tfevents.1781141501.Vlado.252.4",
+      "role": "tensorboard_event",
+      "rounds": 7,
+      "seed": 10,
+      "sha256": "6c7202763556d89eed0fb1efda888125ac8058ca329008e3f9d0a217c7255549",
+      "type": "4"
+    },
+    {
+      "bytes": 1599024,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r8_ddbfc72fd737.npz",
+      "role": "dataset_cache",
+      "rounds": 8,
+      "seed": 10,
+      "sha256": "b9d19d2c7f6820c0e8770d5044b90b5092c0cbe00766f732b731f8b4b592c584",
+      "type": "npz"
+    },
+    {
+      "bytes": 138113,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_10/simon/R8.pt",
+      "role": "model_checkpoint",
+      "rounds": 8,
+      "seed": 10,
+      "sha256": "123a48c779f7d805688fcd77519b05c009e0a0e9ec419038f7a3a75ec4fb490b",
+      "type": "pt"
+    },
+    {
+      "bytes": 4679,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_10/simon_R8/events.out.tfevents.1781141554.Vlado.252.5",
+      "role": "tensorboard_event",
+      "rounds": 8,
+      "seed": 10,
+      "sha256": "5f4acabd4b795afb40bd1d7fd6f2c3d2adc9532ce795a9539333b8789ceebbd2",
+      "type": "5"
+    },
+    {
+      "bytes": 1599002,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r9_31cd97b42d73.npz",
+      "role": "dataset_cache",
+      "rounds": 9,
+      "seed": 10,
+      "sha256": "49ade876fa8a921fe6ec4df2200ae7ae8208278189ed9e49eb438ed81f7a29bc",
+      "type": "npz"
+    },
+    {
+      "bytes": 138625,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_10/simon/R9.pt",
+      "role": "model_checkpoint",
+      "rounds": 9,
+      "seed": 10,
+      "sha256": "9be30615b7824ad9f6ddb99c17b19df7d6c6090aafdf25569a5e6a756620a28b",
+      "type": "pt"
+    },
+    {
+      "bytes": 6431,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_10/simon_R9/events.out.tfevents.1781141605.Vlado.252.6",
+      "role": "tensorboard_event",
+      "rounds": 9,
+      "seed": 10,
+      "sha256": "77664cadf669f913ad70766bcdf48bd8bbf27527d032106cd64d9ea059d0ace0",
+      "type": "6"
+    },
+    {
+      "bytes": 1599150,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r10_a3c3f2b7f2f6.npz",
+      "role": "dataset_cache",
+      "rounds": 10,
+      "seed": 10,
+      "sha256": "033fe2dc2ce055b417e736a2b977f8678626bd282d8d23350365458beb275b4e",
+      "type": "npz"
+    },
+    {
+      "bytes": 138526,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260611_011837_228202/seed_10/simon/R10.pt",
+      "role": "model_checkpoint",
+      "rounds": 10,
+      "seed": 10,
+      "sha256": "d10b60b2c86d5c046935d499b808c42f70c3ef68f6d22a14edc28f6c25db10e7",
+      "type": "pt"
+    },
+    {
+      "bytes": 3584,
+      "cipher": "simon",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_10/simon_R10/events.out.tfevents.1781141675.Vlado.252.7",
+      "role": "tensorboard_event",
+      "rounds": 10,
+      "seed": 10,
+      "sha256": "9d98f90a91d36cceeb9ffeac366f8487986d2c7bdbcdc066337bf2c325c4fac7",
+      "type": "7"
+    },
+    {
+      "bytes": 1596687,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r3_59bdc5fa173c.npz",
+      "role": "dataset_cache",
+      "rounds": 3,
+      "seed": 10,
+      "sha256": "6656efceaaf980a4e774358caab1ff5f9d2465f173a7c2bab81c515522a36a02",
+      "type": "npz"
+    },
+    {
+      "bytes": 139585,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_10/speck/R3.pt",
+      "role": "model_checkpoint",
+      "rounds": 3,
+      "seed": 10,
+      "sha256": "362660aa0bfcb0b1dfe9e5efff8ecbe4b81865663e3e9f8823707526267a3ab1",
+      "type": "pt"
+    },
+    {
+      "bytes": 9935,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_10/speck_R3/events.out.tfevents.1781141715.Vlado.252.8",
+      "role": "tensorboard_event",
+      "rounds": 3,
+      "seed": 10,
+      "sha256": "fb28f7457c2900ce4ee7ff9f81e2d238026cd3fce5a867bc20c0c98bbb8c034c",
+      "type": "8"
+    },
+    {
+      "bytes": 1599224,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r4_4851e4be210a.npz",
+      "role": "dataset_cache",
+      "rounds": 4,
+      "seed": 10,
+      "sha256": "bd3194a490aa128aa07325ff113516fc5e95cdd9713e6361f955e3e384ff164f",
+      "type": "npz"
+    },
+    {
+      "bytes": 138817,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_10/speck/R4.pt",
+      "role": "model_checkpoint",
+      "rounds": 4,
+      "seed": 10,
+      "sha256": "b62518ee873a78f2bf7a492e30947abfa57ba6fa540bb4ff3a0b049c6caf265e",
+      "type": "pt"
+    },
+    {
+      "bytes": 7307,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_10/speck_R4/events.out.tfevents.1781141823.Vlado.252.9",
+      "role": "tensorboard_event",
+      "rounds": 4,
+      "seed": 10,
+      "sha256": "bdb33acbea3003380442391ff5a270f3f8581782c5164ccabef9863d1dc8ae66",
+      "type": "9"
+    },
+    {
+      "bytes": 1599003,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r5_8250ffd220c6.npz",
+      "role": "dataset_cache",
+      "rounds": 5,
+      "seed": 10,
+      "sha256": "39419a0d2597206c6ef341e82deb529de231d9adb5a1f284e9e97c74ae567ec8",
+      "type": "npz"
+    },
+    {
+      "bytes": 138433,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_10/speck/R5.pt",
+      "role": "model_checkpoint",
+      "rounds": 5,
+      "seed": 10,
+      "sha256": "f62defcfde8ee2ca7e64128e4d6b82f1aebb0c3ef903617b1c682b7cc021a946",
+      "type": "pt"
+    },
+    {
+      "bytes": 5774,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_10/speck_R5/events.out.tfevents.1781141903.Vlado.252.10",
+      "role": "tensorboard_event",
+      "rounds": 5,
+      "seed": 10,
+      "sha256": "69c75e31a18cf0136919f04af02ddffd321ca80d211b297e8fe977eb680f8da6",
+      "type": "10"
+    },
+    {
+      "bytes": 1599053,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r6_71676b4be151.npz",
+      "role": "dataset_cache",
+      "rounds": 6,
+      "seed": 10,
+      "sha256": "df06b108f8dfbdcddd96fd53cdea296fc295e15ce3c55264b6befb68675f8441",
+      "type": "npz"
+    },
+    {
+      "bytes": 137793,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_10/speck/R6.pt",
+      "role": "model_checkpoint",
+      "rounds": 6,
+      "seed": 10,
+      "sha256": "1210dc9ad57fea6699330a7425ca0f00f8c9462ec19e13573385b5b3d74959b6",
+      "type": "pt"
+    },
+    {
+      "bytes": 3584,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_10/speck_R6/events.out.tfevents.1781141966.Vlado.252.11",
+      "role": "tensorboard_event",
+      "rounds": 6,
+      "seed": 10,
+      "sha256": "115eb6fc433450e88895b3dc7aa97a212b566492871994fe755740679b0517f6",
+      "type": "11"
+    },
+    {
+      "bytes": 1599012,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r7_aa64a0f43c42.npz",
+      "role": "dataset_cache",
+      "rounds": 7,
+      "seed": 10,
+      "sha256": "a6dc4f0345a444ab80e8bad1acea091c123b165326b71186deaafa1331cd0681",
+      "type": "npz"
+    },
+    {
+      "bytes": 137601,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_10/speck/R7.pt",
+      "role": "model_checkpoint",
+      "rounds": 7,
+      "seed": 10,
+      "sha256": "20fbe6b481d68f524926d2675a484767c389c170f9e57e856af242e49b2b93e0",
+      "type": "pt"
+    },
+    {
+      "bytes": 2927,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_10/speck_R7/events.out.tfevents.1781142006.Vlado.252.12",
+      "role": "tensorboard_event",
+      "rounds": 7,
+      "seed": 10,
+      "sha256": "52a9e17ee1a8b3fdd5669cdff1144da6c9d40c0b0c781c97eca3fb506db54c75",
+      "type": "12"
+    },
+    {
+      "bytes": 1598612,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r8_85e6a484a7df.npz",
+      "role": "dataset_cache",
+      "rounds": 8,
+      "seed": 10,
+      "sha256": "9b4f5ff22905a34bb07dfc46d13b6d272daa6b10e8eee9a6bfd76a2c307a4541",
+      "type": "npz"
+    },
+    {
+      "bytes": 139073,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_10/speck/R8.pt",
+      "role": "model_checkpoint",
+      "rounds": 8,
+      "seed": 10,
+      "sha256": "1eb8c88f8db38acc2b78367976e32ce49d2cf05dea0cbc1bae00719ae775e61a",
+      "type": "pt"
+    },
+    {
+      "bytes": 8183,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_10/speck_R8/events.out.tfevents.1781142039.Vlado.252.13",
+      "role": "tensorboard_event",
+      "rounds": 8,
+      "seed": 10,
+      "sha256": "68a9a387f81bce327a98e655b2ac01ed0a61cb162561ef6e8cd509286fb0de4a",
+      "type": "13"
+    },
+    {
+      "bytes": 1599402,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r9_3ae97aba1c21.npz",
+      "role": "dataset_cache",
+      "rounds": 9,
+      "seed": 10,
+      "sha256": "1ff7f40b02494a49f7281904bbdc154f4645f4ab6c42f5f057bc31b3fcfe5f12",
+      "type": "npz"
+    },
+    {
+      "bytes": 137665,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_10/speck/R9.pt",
+      "role": "model_checkpoint",
+      "rounds": 9,
+      "seed": 10,
+      "sha256": "7e22800e93580d0167c1526a1ca5e21d54893dda9d9d1399827d6d436fbf2e45",
+      "type": "pt"
+    },
+    {
+      "bytes": 3146,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_10/speck_R9/events.out.tfevents.1781142133.Vlado.252.14",
+      "role": "tensorboard_event",
+      "rounds": 9,
+      "seed": 10,
+      "sha256": "3130010b211da1d7033a9971dd55e0cd3f76daceda511fcccdbbc2a4768a3d54",
+      "type": "14"
+    },
+    {
+      "bytes": 1598806,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r10_ffcb9a45f7a5.npz",
+      "role": "dataset_cache",
+      "rounds": 10,
+      "seed": 10,
+      "sha256": "ace876bb1ed0e621879615f0b1b93252696593ac749632e61d45f0eb0ce962b9",
+      "type": "npz"
+    },
+    {
+      "bytes": 138654,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260611_011837_228202/seed_10/speck/R10.pt",
+      "role": "model_checkpoint",
+      "rounds": 10,
+      "seed": 10,
+      "sha256": "a0cde7b26875d583b6a1c22aed3f7135992ef0910aa211fae42bc07f0f7b1115",
+      "type": "pt"
+    },
+    {
+      "bytes": 4022,
+      "cipher": "speck",
+      "path": "runs/thesis/run_20260611_011837_228202/seed_10/speck_R10/events.out.tfevents.1781142168.Vlado.252.15",
+      "role": "tensorboard_event",
+      "rounds": 10,
+      "seed": 10,
+      "sha256": "7c73d49a237b3f48216e473eb88c7e6da4a686be9acd9b1a4ca3360813626f2d",
+      "type": "15"
+    }
+  ],
+  "git": {
+    "branch": "main",
+    "commit": "173b6db5e4949e9cff100a5afce881c91af6d7de",
+    "dirty": false
+  },
+  "parameters": {
+    "ciphers": [
+      "simon",
+      "speck"
+    ],
+    "force_classical": true,
+    "force_regen": true,
+    "fresh_csv_first_seed": true,
+    "input_delta": [
+      1,
+      0
+    ],
+    "n_samples_per_round": 100000,
+    "profile": "full",
+    "rounds": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "seeds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "test_gate": true,
+    "train_ratio": 0.7,
+    "training": {
+      "batch_size": 512,
+      "device": "auto",
+      "epochs": 80,
+      "lr": 0.001,
+      "patience": 12,
+      "weight_decay": 0.0001
+    },
+    "val_ratio": 0.15
+  },
+  "paths": {
+    "data_dir": "thesis/data/cache",
+    "log_dir": "runs\\thesis",
+    "model_dir": "models/thesis",
+    "results_dir": "D:\\BOTH\\results\\thesis\\run_20260611_011837_228202"
+  },
+  "postprocessing": [
+    {
+      "completed_at": "2026-06-11T01:45:50.354606+00:00",
+      "stage": "neural_vs_classical_plots"
+    },
+    {
+      "command": [
+        "D:\\BOTH\\.venv\\Scripts\\python.exe",
+        "-"
+      ],
+      "completed_at": "2026-06-11T02:16:51.239412+00:00",
+      "git": {
+        "branch": "main",
+        "commit": "173b6db5e4949e9cff100a5afce881c91af6d7de",
+        "dirty": true
+      },
+      "source_sha256": "8aad4ae16a4f6873723425a0c9b8f111ca1d60b114bb63a95aa24283b277b8fa",
+      "stage": "neural_vs_classical_plots"
+    }
+  ],
+  "progress": {
+    "completed_seeds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "failed_seeds": []
+  },
+  "run_type": "multi_seed_sweep",
+  "schema_version": 5,
+  "source": {
+    "scope": "maintained source, tests, configs, root reviews, CI workflow, README, requirements, and pyproject",
+    "sha256": "d8501a7537c566001a408adf6297b4c3769824c39cef7f7a1d83fb66ea8b4afc"
+  },
+  "statistics": {
+    "dispersion": "sample standard deviation (ddof=1; zero for one seed)",
+    "error_bars": "95% Student-t confidence interval across seeds; clipped to the mathematical range of bounded metrics",
+    "grouping": [
+      "cipher",
+      "rounds",
+      "split"
+    ],
+    "null_significance": "exact per-seed binomial p-values retained in log10 form and combined with Fisher's method in log space"
+  },
+  "status": "completed",
+  "training_completed_at": "2026-06-11T01:43:28.630832+00:00",
+  "updated_at": "2026-06-11T02:16:51.376532+00:00",
+  "working_directory": "D:\\BOTH"
+}

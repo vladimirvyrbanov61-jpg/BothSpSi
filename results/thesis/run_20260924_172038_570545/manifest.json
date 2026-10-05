@@ -1,0 +1,682 @@
+{
+  "artifacts": [
+    {
+      "bytes": 10154,
+      "path": "external_artifacts.json",
+      "sha256": "0e164a66dac2af412ee0b9e32a00c1753c434cfd1715f6a463e593149563fa49",
+      "type": "json"
+    },
+    {
+      "bytes": 74069,
+      "path": "simon_accuracy.png",
+      "sha256": "0522794ef1d302dd28e096c185bd457e89ede3398dc06602e13b1d338369bd3c",
+      "type": "png"
+    },
+    {
+      "bytes": 81624,
+      "path": "simon_accuracy_advantage.png",
+      "sha256": "dc0f2eb699e62e3f7b01f120e6dcac6a631eaa19c66609def9462d58d97f57df",
+      "type": "png"
+    },
+    {
+      "bytes": 79466,
+      "path": "simon_advantage_edge.png",
+      "sha256": "4eba1c6c75520ca59bbd019c7d01619cbf2e1809bd11a08e5d8232fdabb9a44d",
+      "type": "png"
+    },
+    {
+      "bytes": 8347,
+      "path": "simon_aggregate.csv",
+      "sha256": "1a7d87ef83cc22f3e492867e5d8cd9d4b34e37d75499a023b4874db4ecc2b607",
+      "type": "csv"
+    },
+    {
+      "bytes": 79839,
+      "path": "simon_auc_advantage.png",
+      "sha256": "7a1369c94f36dd35c67b0cdb4eedc74d05c35869110ad61c91abbd30c7ae60d6",
+      "type": "png"
+    },
+    {
+      "bytes": 74068,
+      "path": "simon_auc_roc.png",
+      "sha256": "42a7005e08796e6593b1b17c9bc4f7af2af9b01933558ffdd0d31f39d00d0a8d",
+      "type": "png"
+    },
+    {
+      "bytes": 1149,
+      "path": "simon_classical_bounds.csv",
+      "sha256": "d54484a1723da07f118c8225c5287ad19a7b17993bd2ad2209a2435242f6e80f",
+      "type": "csv"
+    },
+    {
+      "bytes": 138638,
+      "path": "simon_classical_ddt.png",
+      "sha256": "aba70178be0e741e88ea1a181d270bdf6bbc6e92f41615d5021f6987be80c2d9",
+      "type": "png"
+    },
+    {
+      "bytes": 2270,
+      "path": "simon_multi_seed_raw.csv",
+      "sha256": "c3082b4091551e5e3978b3edb5fc2f0f8616573453041a26e56fa2cf70d5ec59",
+      "type": "csv"
+    },
+    {
+      "bytes": 2270,
+      "path": "simon_round_sweep.csv",
+      "sha256": "c3082b4091551e5e3978b3edb5fc2f0f8616573453041a26e56fa2cf70d5ec59",
+      "type": "csv"
+    },
+    {
+      "bytes": 80120,
+      "path": "simon_tnr.png",
+      "sha256": "0325a705939a538f773e8e9f6d95e989a578730f3e35d024bb3427e168ebae71",
+      "type": "png"
+    },
+    {
+      "bytes": 85358,
+      "path": "simon_tpr.png",
+      "sha256": "2289a4f19b81fb301248bcecb3830ebaf200607b0f4782fc5cc502a42b95eeef",
+      "type": "png"
+    },
+    {
+      "bytes": 149529,
+      "path": "simon_vs_classical.png",
+      "sha256": "691831ef075d16cf1e23dcd6b2fcccc89a9e09907b094c4f813cd243717c33e1",
+      "type": "png"
+    },
+    {
+      "bytes": 72889,
+      "path": "simon_youden_j.png",
+      "sha256": "53c1e71edb392e49ccae496688126ee560f9eb5901c3e59d0809b5911cce0465",
+      "type": "png"
+    },
+    {
+      "bytes": 76526,
+      "path": "speck_accuracy.png",
+      "sha256": "5671d63fd1d13f8fcba147ad1c8f69d95c8bfcf78aaa0a3f0c5df15104cbea0b",
+      "type": "png"
+    },
+    {
+      "bytes": 83790,
+      "path": "speck_accuracy_advantage.png",
+      "sha256": "0e7b0777d90eb8836271aa8dd65f0b6da4f4dc60f10b0086271769992bf19a99",
+      "type": "png"
+    },
+    {
+      "bytes": 77535,
+      "path": "speck_advantage_edge.png",
+      "sha256": "ee2735298e13bae4300ce8daaf4af4cc98399db5a340f9b266d86b3a42d2f640",
+      "type": "png"
+    },
+    {
+      "bytes": 8227,
+      "path": "speck_aggregate.csv",
+      "sha256": "7b644a0f689982292bc0f8443d82f726ea3e4d7e1646603a77e7e4d6b661b372",
+      "type": "csv"
+    },
+    {
+      "bytes": 80055,
+      "path": "speck_auc_advantage.png",
+      "sha256": "d14b9f1aab1415d7a868fef1814796762f22f7dac37c5afd40def04cacb0d19e",
+      "type": "png"
+    },
+    {
+      "bytes": 77905,
+      "path": "speck_auc_roc.png",
+      "sha256": "290e0688e42f68ba37905f91b1c206eeee27762a18ce092c8aabe85732ce48d5",
+      "type": "png"
+    },
+    {
+      "bytes": 1334,
+      "path": "speck_classical_bounds.csv",
+      "sha256": "a741239868d915840e68ca8e44016b32550c647fdf00a649bc30623d6ab71680",
+      "type": "csv"
+    },
+    {
+      "bytes": 136074,
+      "path": "speck_classical_ddt.png",
+      "sha256": "eebba80b93b8702d3633a7cb47c76670eaacb8e267e1bfa2accc8b4f724967ed",
+      "type": "png"
+    },
+    {
+      "bytes": 2218,
+      "path": "speck_multi_seed_raw.csv",
+      "sha256": "ff729acae81928525121e5627e3e2137c0058a80d7d9c45bc1e8a023f6994869",
+      "type": "csv"
+    },
+    {
+      "bytes": 2218,
+      "path": "speck_round_sweep.csv",
+      "sha256": "ff729acae81928525121e5627e3e2137c0058a80d7d9c45bc1e8a023f6994869",
+      "type": "csv"
+    },
+    {
+      "bytes": 91823,
+      "path": "speck_tnr.png",
+      "sha256": "3cb017cd32fed900abc8d08c94bc36da1aba0d1d5ab58a21de8f86ea84b8c521",
+      "type": "png"
+    },
+    {
+      "bytes": 94914,
+      "path": "speck_tpr.png",
+      "sha256": "002c382df3e70d2815bdb152d2424ce85979152ea09be1230c18fca987b64567",
+      "type": "png"
+    },
+    {
+      "bytes": 135869,
+      "path": "speck_vs_classical.png",
+      "sha256": "960388bd535dd985ae2cbd34bc2a219787fed6ead58ebb1dfaabacc01509d687",
+      "type": "png"
+    },
+    {
+      "bytes": 71403,
+      "path": "speck_youden_j.png",
+      "sha256": "3f93736ab75672211af63f20c189a32d7431e4a00ba8d89e308c5145d54e916d",
+      "type": "png"
+    }
+  ],
+  "command": [
+    "C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+    "D:\\BOTH\\thesis\\run_thesis.py",
+    "--profile",
+    "quick",
+    "--fresh-csv"
+  ],
+  "completed_at": "2026-09-24T14:20:52.706930+00:00",
+  "config": {
+    "path": "D:\\BOTH\\thesis\\config\\thesis_quick.yaml",
+    "resolved": {
+      "cipher": "simon",
+      "ciphers": [
+        "simon",
+        "speck"
+      ],
+      "classical": {
+        "monte_carlo_repetitions": 2,
+        "n_samples_simon": 20000,
+        "n_samples_speck": 50000,
+        "top_k_dp": 16
+      },
+      "data_dir": "thesis/data/cache",
+      "input_delta": [
+        1,
+        0
+      ],
+      "model_dir": "models/thesis",
+      "n_samples_per_round": 5000,
+      "results_dir": "results/thesis",
+      "rounds": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "seed": 1,
+      "train_ratio": 0.7,
+      "training": {
+        "batch_size": 256,
+        "device": "auto",
+        "epochs": 3,
+        "lr": 0.001,
+        "patience": 2,
+        "weight_decay": 0.0001
+      },
+      "val_ratio": 0.15
+    },
+    "sha256": "1a36e140aedd0e1d9718d018cc302cd74dda5425d9a12c1c300da86c95b0cbbb"
+  },
+  "created_at": "2026-09-24T14:20:38.570789+00:00",
+  "environment": {
+    "dependencies": {
+      "PyYAML": "6.0.3",
+      "matplotlib": "3.10.9",
+      "numpy": "2.4.4",
+      "scikit-learn": "1.9.0",
+      "scipy": "1.17.1",
+      "seaborn": "0.13.2",
+      "tensorboard": "2.20.0",
+      "torch": "2.12.0+cpu"
+    },
+    "machine": "AMD64",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 151 Stepping 5, GenuineIntel",
+    "python": "3.13.9 (tags/v3.13.9:8183fa5, Oct 14 2025, 14:09:13) [MSC v.1944 64 bit (AMD64)]",
+    "python_executable": "C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+    "torch": {
+      "available": true,
+      "cuda_available": false,
+      "cuda_version": null,
+      "cudnn_version": null,
+      "deterministic_algorithms_after_training": true,
+      "deterministic_algorithms_at_manifest_creation": false,
+      "requested_determinism_policy": "strict"
+    }
+  },
+  "external_artifacts": [
+    {
+      "bytes": 80043,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r3_58146f365dae3eca85cf.npz",
+      "role": "dataset_cache",
+      "rounds": 3,
+      "seed": 1,
+      "sha256": "6a316414c4e09f437314f13866762c39b4893e8b611dde676b1e0cba57661130",
+      "type": "npz"
+    },
+    {
+      "bytes": 136961,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260924_172038_570545/seed_1/simon/R3.pt",
+      "role": "model_checkpoint",
+      "rounds": 3,
+      "seed": 1,
+      "sha256": "0d5debe4eba6f99dde04c3b09b8f7934c341e35e2971b559503740354adcf3c8",
+      "type": "pt"
+    },
+    {
+      "bytes": 80523,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r4_974026be3dd103face21.npz",
+      "role": "dataset_cache",
+      "rounds": 4,
+      "seed": 1,
+      "sha256": "0201abeaa51f0b042a57cc88171ad53f741c784265fa5564be19623b2a05ee8e",
+      "type": "npz"
+    },
+    {
+      "bytes": 136961,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260924_172038_570545/seed_1/simon/R4.pt",
+      "role": "model_checkpoint",
+      "rounds": 4,
+      "seed": 1,
+      "sha256": "31630b9cea96c3e43ff745182a234004b0874147ebcf2b41c93549d362592ecd",
+      "type": "pt"
+    },
+    {
+      "bytes": 80780,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r5_2eb5733e9afeb35e5272.npz",
+      "role": "dataset_cache",
+      "rounds": 5,
+      "seed": 1,
+      "sha256": "faf816c0e1d01685a8db619b922a41d7f415d064f272a37cde682e52f16e125e",
+      "type": "npz"
+    },
+    {
+      "bytes": 136961,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260924_172038_570545/seed_1/simon/R5.pt",
+      "role": "model_checkpoint",
+      "rounds": 5,
+      "seed": 1,
+      "sha256": "832a034dec876d88eeea5131c7156321dbd84a8996aaf24f2e1bd3f014a08d50",
+      "type": "pt"
+    },
+    {
+      "bytes": 80734,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r6_999d1d281353f5e26db8.npz",
+      "role": "dataset_cache",
+      "rounds": 6,
+      "seed": 1,
+      "sha256": "aea167e4b30c5ff91e1eb4e53ec3738822a0a9de0e65ecff66e7a746a06be089",
+      "type": "npz"
+    },
+    {
+      "bytes": 136961,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260924_172038_570545/seed_1/simon/R6.pt",
+      "role": "model_checkpoint",
+      "rounds": 6,
+      "seed": 1,
+      "sha256": "5b041b41d72c2cd43ff3459c6a004251ba4cf59b74fd09f946d810c1f5a1ba6d",
+      "type": "pt"
+    },
+    {
+      "bytes": 80811,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r7_0e5126e6e2604f6e41dc.npz",
+      "role": "dataset_cache",
+      "rounds": 7,
+      "seed": 1,
+      "sha256": "fa30b98402acc56ead4dc12be49076d943b4ad3cfa6e94c6b58212048e56441d",
+      "type": "npz"
+    },
+    {
+      "bytes": 136961,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260924_172038_570545/seed_1/simon/R7.pt",
+      "role": "model_checkpoint",
+      "rounds": 7,
+      "seed": 1,
+      "sha256": "e15e99372c2708b4652fcdc893abf5533503b033d6d84382c235464b99267620",
+      "type": "pt"
+    },
+    {
+      "bytes": 80747,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r8_0e3ca6b75db74f92484e.npz",
+      "role": "dataset_cache",
+      "rounds": 8,
+      "seed": 1,
+      "sha256": "dbefc753e366d8e9c0a39b3ce1965cea4cf42e216790394ade1bd3eee08b6d7d",
+      "type": "npz"
+    },
+    {
+      "bytes": 136961,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260924_172038_570545/seed_1/simon/R8.pt",
+      "role": "model_checkpoint",
+      "rounds": 8,
+      "seed": 1,
+      "sha256": "1a7101c5060a9647e99c1d3654fe82487f7a4037799d23cebcab61561cfa770b",
+      "type": "pt"
+    },
+    {
+      "bytes": 80638,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r9_6b53255a14481f98dd17.npz",
+      "role": "dataset_cache",
+      "rounds": 9,
+      "seed": 1,
+      "sha256": "6cac1b0fa7c357c253f8c906fd71ecac60d25960d51ce93993b98bcca2f1fee1",
+      "type": "npz"
+    },
+    {
+      "bytes": 136961,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260924_172038_570545/seed_1/simon/R9.pt",
+      "role": "model_checkpoint",
+      "rounds": 9,
+      "seed": 1,
+      "sha256": "43070dbf21093f4003c7c89eb4d7a46426735af7f2f872b0598ab28f0be92c4c",
+      "type": "pt"
+    },
+    {
+      "bytes": 80788,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r10_6d51378e958fb930fc35.npz",
+      "role": "dataset_cache",
+      "rounds": 10,
+      "seed": 1,
+      "sha256": "a914a6c0e6e8eb84f5a2ba68726889479127b617e7a8a6435268ba3b552dc03b",
+      "type": "npz"
+    },
+    {
+      "bytes": 137694,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260924_172038_570545/seed_1/simon/R10.pt",
+      "role": "model_checkpoint",
+      "rounds": 10,
+      "seed": 1,
+      "sha256": "7b9a6214104119003b594a16c74fdf3feef83c3eaf00c1fbb87aeec290828501",
+      "type": "pt"
+    },
+    {
+      "bytes": 80647,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r3_b44e2bf9712d41c54c71.npz",
+      "role": "dataset_cache",
+      "rounds": 3,
+      "seed": 1,
+      "sha256": "0e2cf9a7e8c512264a74c01a793395bd9a3ea37bff27f1bee59e0b641067dc4d",
+      "type": "npz"
+    },
+    {
+      "bytes": 136961,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260924_172038_570545/seed_1/speck/R3.pt",
+      "role": "model_checkpoint",
+      "rounds": 3,
+      "seed": 1,
+      "sha256": "a14162b400a8d8a23b137af7da6fe6940c434b76bc568b2c18fccb40e4eb001a",
+      "type": "pt"
+    },
+    {
+      "bytes": 80720,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r4_a1ef5464bd6fbb8843bf.npz",
+      "role": "dataset_cache",
+      "rounds": 4,
+      "seed": 1,
+      "sha256": "6fa48da41dd0f4274acf81f07d876d4198c4d63cd8e2a541b848779443ab86e8",
+      "type": "npz"
+    },
+    {
+      "bytes": 136961,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260924_172038_570545/seed_1/speck/R4.pt",
+      "role": "model_checkpoint",
+      "rounds": 4,
+      "seed": 1,
+      "sha256": "a99685d583faf9b425e65e29a4bfb0760b972d52242f40cb12e2651dce2de1ac",
+      "type": "pt"
+    },
+    {
+      "bytes": 80560,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r5_dde22a7e3474bf238da5.npz",
+      "role": "dataset_cache",
+      "rounds": 5,
+      "seed": 1,
+      "sha256": "fdc387e5064abaead7a7b7ccbe52e859dc04f49bef52e52c9440963f925e81b9",
+      "type": "npz"
+    },
+    {
+      "bytes": 136961,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260924_172038_570545/seed_1/speck/R5.pt",
+      "role": "model_checkpoint",
+      "rounds": 5,
+      "seed": 1,
+      "sha256": "552788361fc376576dccd65d75afd5bf49bce4de480fd0289781f7bf6854adf8",
+      "type": "pt"
+    },
+    {
+      "bytes": 80728,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r6_93e7e9b9d95370cd6c27.npz",
+      "role": "dataset_cache",
+      "rounds": 6,
+      "seed": 1,
+      "sha256": "58f47d139b5f1237ddf63c58e9747cfec3d0812a25e0c48f9b40f5fe48951d07",
+      "type": "npz"
+    },
+    {
+      "bytes": 136961,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260924_172038_570545/seed_1/speck/R6.pt",
+      "role": "model_checkpoint",
+      "rounds": 6,
+      "seed": 1,
+      "sha256": "9b54e2d379ed656100ab0ed495ba396c4d53335e1c90c00a4b5a7a85fa3dcb5a",
+      "type": "pt"
+    },
+    {
+      "bytes": 80703,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r7_e452493155843b953b37.npz",
+      "role": "dataset_cache",
+      "rounds": 7,
+      "seed": 1,
+      "sha256": "a869224cf939e17779eb7408e5d03155fff10c970deac995e2b88664a0ecd0c0",
+      "type": "npz"
+    },
+    {
+      "bytes": 136961,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260924_172038_570545/seed_1/speck/R7.pt",
+      "role": "model_checkpoint",
+      "rounds": 7,
+      "seed": 1,
+      "sha256": "b66fbfd3903a6aaa7b26fd7395ec3808d41a8d7acfa7cf7d34ce4360897445c1",
+      "type": "pt"
+    },
+    {
+      "bytes": 80654,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r8_0f1346fc12bf8f58798b.npz",
+      "role": "dataset_cache",
+      "rounds": 8,
+      "seed": 1,
+      "sha256": "a5b2336241cb1467533828de6699a8fb314780e2fd59ad00aa4deb5f1132eeba",
+      "type": "npz"
+    },
+    {
+      "bytes": 136961,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260924_172038_570545/seed_1/speck/R8.pt",
+      "role": "model_checkpoint",
+      "rounds": 8,
+      "seed": 1,
+      "sha256": "019f386511a45b647afd29026209827de4e7a1a063009cea3b9f83af9c924a88",
+      "type": "pt"
+    },
+    {
+      "bytes": 80693,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r9_fc6039943da35fec1148.npz",
+      "role": "dataset_cache",
+      "rounds": 9,
+      "seed": 1,
+      "sha256": "ac4c4809c11a96c2b5556b1b4e288e24823910741200b6bc83f69b261459b890",
+      "type": "npz"
+    },
+    {
+      "bytes": 136961,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260924_172038_570545/seed_1/speck/R9.pt",
+      "role": "model_checkpoint",
+      "rounds": 9,
+      "seed": 1,
+      "sha256": "d9d8999161c0bb51411dceeafb61a623b272bcc3f24da739dd0579a27f10d11c",
+      "type": "pt"
+    },
+    {
+      "bytes": 80665,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r10_7f6eb4460819bcaad533.npz",
+      "role": "dataset_cache",
+      "rounds": 10,
+      "seed": 1,
+      "sha256": "936766197621b82d13198e4499cdbae480d616a2d3fb6598bdb65d9900acda3e",
+      "type": "npz"
+    },
+    {
+      "bytes": 137694,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260924_172038_570545/seed_1/speck/R10.pt",
+      "role": "model_checkpoint",
+      "rounds": 10,
+      "seed": 1,
+      "sha256": "3e00be714605735ce9f0d3fd2f952dc2d9023cf9a82ddc3c833bfec90692e80c",
+      "type": "pt"
+    }
+  ],
+  "git": {
+    "branch": "main",
+    "commit": "2d9fa6d02732f4b1e8faba679f5b27d5a303ee27",
+    "dirty": true
+  },
+  "parameters": {
+    "ciphers": [
+      "simon",
+      "speck"
+    ],
+    "force_regen": false,
+    "fresh_csv": true,
+    "input_delta": [
+      1,
+      0
+    ],
+    "n_samples_per_round": 5000,
+    "rounds": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "seeds": [
+      1
+    ],
+    "train_ratio": 0.7,
+    "training": {
+      "batch_size": 256,
+      "channels": [
+        32,
+        64,
+        128
+      ],
+      "device": "auto",
+      "epochs": 3,
+      "lr": 0.001,
+      "patience": 2,
+      "seed": 1,
+      "weight_decay": 0.0001
+    },
+    "val_ratio": 0.15
+  },
+  "paths": {
+    "data_dir": "D:\\BOTH\\thesis\\data\\cache",
+    "log_dir": null,
+    "model_dir": "D:\\BOTH\\models\\thesis",
+    "results_dir": "D:\\BOTH\\results\\thesis\\run_20260924_172038_570545"
+  },
+  "postprocessing": [
+    {
+      "command": [
+        "C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+        "D:\\BOTH\\thesis\\run_thesis.py",
+        "--profile",
+        "quick",
+        "--fresh-csv"
+      ],
+      "completed_at": "2026-09-24T14:22:58.632271+00:00",
+      "execution_source_sha256": "0ea3d6527cde2e2e8d715476fcf9412e3d146949fd966676fad05750aaddf4dc",
+      "git": {
+        "branch": "main",
+        "commit": "2d9fa6d02732f4b1e8faba679f5b27d5a303ee27",
+        "dirty": true
+      },
+      "source_sha256": "6d87a013578a082d6f1bd8727edc1c2c8fdda5416e5c1dccc5593aa185d4a0ff",
+      "stage": "neural_vs_classical_plots"
+    }
+  ],
+  "progress": {
+    "completed_seeds": [
+      1
+    ],
+    "failed_seeds": []
+  },
+  "run_type": "round_sweep",
+  "schema_version": 6,
+  "source": {
+    "execution_scope": "runtime Python modules and experiment YAML configs",
+    "execution_sha256": "0ea3d6527cde2e2e8d715476fcf9412e3d146949fd966676fad05750aaddf4dc",
+    "scope": "maintained source, tests, configs, root reviews, CI workflow, README, requirements, and pyproject",
+    "sha256": "6d87a013578a082d6f1bd8727edc1c2c8fdda5416e5c1dccc5593aa185d4a0ff"
+  },
+  "statistics": {
+    "dispersion": "sample standard deviation (ddof=1; zero for one seed)",
+    "error_bars": "95% Student-t confidence interval across seeds; clipped to the mathematical range of bounded metrics",
+    "grouping": [
+      "cipher",
+      "rounds",
+      "split"
+    ],
+    "null_significance": "exact per-seed conditional random-label p-values retained in log10 form and combined with Fisher's method in log space"
+  },
+  "status": "completed",
+  "training_completed_at": "2026-09-24T14:20:49.440144+00:00",
+  "updated_at": "2026-09-24T14:22:58.805019+00:00",
+  "working_directory": "D:\\BOTH"
+}

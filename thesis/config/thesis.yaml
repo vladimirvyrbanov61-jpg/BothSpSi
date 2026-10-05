@@ -1,0 +1,38 @@
+# Thesis differential neural distinguisher (Simon32/64 + Speck32/64)
+
+cipher: simon  # simon | speck
+
+# Word-level input difference Δ_P = (0x0001, 0x0000) on 16-bit words
+input_delta: [0x0001, 0x0000]
+
+n_samples_per_round: 100000
+train_ratio: 0.7
+val_ratio: 0.15
+
+# Assignment round sweep (extended runs may go higher)
+rounds: [3, 4, 5, 6, 7, 8, 9, 10]
+
+seed: 1
+data_dir: thesis/data/cache
+
+# Phase 2 — CNN training and sweep
+model_dir: models/thesis
+results_dir: results/thesis
+
+training:
+  epochs: 80
+  batch_size: 512
+  lr: 0.001
+  weight_decay: 0.0001
+  patience: 12
+  device: auto  # auto | cpu | cuda
+
+# Round sweep runs both ciphers unless narrowed via CLI
+ciphers: [simon, speck]
+
+# Phase 3 — classical DDT / characteristic beam-search estimates
+classical:
+  n_samples_speck: 1000000
+  n_samples_simon: 250000
+  top_k_dp: 32
+  monte_carlo_repetitions: 3

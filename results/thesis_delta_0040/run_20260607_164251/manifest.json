@@ -1,0 +1,358 @@
+{
+  "artifacts": [
+    {
+      "bytes": 7819,
+      "path": "baseline_comparison/input_delta_comparison.csv",
+      "sha256": "3219294fbb0e47aa2b55fbcfcbd58ff743d31ac9a93c27c1c1fa3da3f9e1addf",
+      "type": "csv"
+    },
+    {
+      "bytes": 94391,
+      "path": "baseline_comparison/simon_advantage_abs_input_delta_comparison.png",
+      "sha256": "28ceaddd78e6e4b67d65a55a9dc5864ecb285653b9e7e0efd6d6c930bf573c02",
+      "type": "png"
+    },
+    {
+      "bytes": 88770,
+      "path": "baseline_comparison/simon_auc_roc_input_delta_comparison.png",
+      "sha256": "356786e21412e68049d4430ddd96608ac269ddcfd85366e28635f4e4b4b031ea",
+      "type": "png"
+    },
+    {
+      "bytes": 91612,
+      "path": "baseline_comparison/speck_advantage_abs_input_delta_comparison.png",
+      "sha256": "0b67961879a20b9176e5f06fe5e482bf3dd1d4bc57d5978d29d958c9ff00dcf1",
+      "type": "png"
+    },
+    {
+      "bytes": 86443,
+      "path": "baseline_comparison/speck_auc_roc_input_delta_comparison.png",
+      "sha256": "e0125b9dcd5c45ad0a45971d0116f445d18ee56b8d5444a5e42eb0723f1dbc26",
+      "type": "png"
+    },
+    {
+      "bytes": 66552,
+      "path": "simon_accuracy.png",
+      "sha256": "edcbe72bd7d7e00e0f72f88ecf9ef283a785f87796f76c99e2462f44b3f4aece",
+      "type": "png"
+    },
+    {
+      "bytes": 73481,
+      "path": "simon_advantage_abs.png",
+      "sha256": "55c7b59de22687206ed99be7227210bd036e1111487bc8bef459bcfd26f7f432",
+      "type": "png"
+    },
+    {
+      "bytes": 74471,
+      "path": "simon_advantage_edge.png",
+      "sha256": "912f5ee7185e51c00b43e3d127301a8c691c99297c8075a1289d6c82879342c2",
+      "type": "png"
+    },
+    {
+      "bytes": 8449,
+      "path": "simon_aggregate.csv",
+      "sha256": "8f710e63851347ac73a9b66b6e7bef424627949892c50ee063f017c7dbc25292",
+      "type": "csv"
+    },
+    {
+      "bytes": 67806,
+      "path": "simon_auc_roc.png",
+      "sha256": "44e2ba6caea5eaa42221a4fc887b26a38c068bc192884c39f984408ec877eef7",
+      "type": "png"
+    },
+    {
+      "bytes": 327,
+      "path": "simon_classical_bounds.csv",
+      "sha256": "38309aefa3da9e69c2d20db71c55f50f274e3630503eeecbd61e56ddd8fada3e",
+      "type": "csv"
+    },
+    {
+      "bytes": 123400,
+      "path": "simon_classical_ddt.png",
+      "sha256": "7fe4bf2fa3f7413f4875db4ce9f046376811b133a58180189edcc701c7fcc5f4",
+      "type": "png"
+    },
+    {
+      "bytes": 11362,
+      "path": "simon_multi_seed_raw.csv",
+      "sha256": "523c339b2694026fd28c4b1c65c59e61ea59c49c18e958b487b57e10f96a21c5",
+      "type": "csv"
+    },
+    {
+      "bytes": 11362,
+      "path": "simon_round_sweep.csv",
+      "sha256": "523c339b2694026fd28c4b1c65c59e61ea59c49c18e958b487b57e10f96a21c5",
+      "type": "csv"
+    },
+    {
+      "bytes": 66551,
+      "path": "simon_tnr.png",
+      "sha256": "1b0a865edeed940bc045a1a01632a2a53df70b89281628e0832c24169527478e",
+      "type": "png"
+    },
+    {
+      "bytes": 67648,
+      "path": "simon_tpr.png",
+      "sha256": "e8e30c7b3f61c8029894fc0b4acf4519d410aa2ace4ef490c79e187906421b2e",
+      "type": "png"
+    },
+    {
+      "bytes": 120069,
+      "path": "simon_vs_classical.png",
+      "sha256": "ee18e04efe6e38d40cbd2fda658d1655e0814e3081d698e8cf76246e23b66a09",
+      "type": "png"
+    },
+    {
+      "bytes": 65381,
+      "path": "simon_youden_j.png",
+      "sha256": "c6caa77648f31d37ea77aea068169112277c35e025027cb0c83581eb700e0a3b",
+      "type": "png"
+    },
+    {
+      "bytes": 70011,
+      "path": "speck_accuracy.png",
+      "sha256": "94fec07c076a675396745d6a55767454abe82e136965857c19167c8c4d309931",
+      "type": "png"
+    },
+    {
+      "bytes": 71305,
+      "path": "speck_advantage_abs.png",
+      "sha256": "727fc0e92c44194eb9b23348d78fb145ae7f61ae5ad3cb1059de768eaae57938",
+      "type": "png"
+    },
+    {
+      "bytes": 72880,
+      "path": "speck_advantage_edge.png",
+      "sha256": "bf01f065c24a48379fd9d340cccfec4cc37b803e0a833d710d54042062eea0a8",
+      "type": "png"
+    },
+    {
+      "bytes": 8712,
+      "path": "speck_aggregate.csv",
+      "sha256": "440304dfc460c696cc021a593e92b1f2ccf3b81ba7d8b7573d19ba45239d2d94",
+      "type": "csv"
+    },
+    {
+      "bytes": 66623,
+      "path": "speck_auc_roc.png",
+      "sha256": "bb0ab4a406cfb5e7a1242eb44f466bc9969b9fccc3bb15aa3911fb1436ddbd39",
+      "type": "png"
+    },
+    {
+      "bytes": 351,
+      "path": "speck_classical_bounds.csv",
+      "sha256": "0ff5c3d1d5fd7c57d55cac559d45f0389cb3006da93236c606c74f70717de782",
+      "type": "csv"
+    },
+    {
+      "bytes": 124285,
+      "path": "speck_classical_ddt.png",
+      "sha256": "42fd1d09565b35e4afef6da46ef8529c0284711c66714b85513653819f2c0dad",
+      "type": "png"
+    },
+    {
+      "bytes": 11528,
+      "path": "speck_multi_seed_raw.csv",
+      "sha256": "1e0d5333afe2e3f2f15264579f0123ead65f642133d4fb78af7b6f91a3636cd1",
+      "type": "csv"
+    },
+    {
+      "bytes": 11528,
+      "path": "speck_round_sweep.csv",
+      "sha256": "1e0d5333afe2e3f2f15264579f0123ead65f642133d4fb78af7b6f91a3636cd1",
+      "type": "csv"
+    },
+    {
+      "bytes": 76074,
+      "path": "speck_tnr.png",
+      "sha256": "016efc7b984ea6cccd390ece470f3209f19b3beb3977acbc724e42e7c134d021",
+      "type": "png"
+    },
+    {
+      "bytes": 76097,
+      "path": "speck_tpr.png",
+      "sha256": "03bbca89b1d2126665e9b759e0fa340e5ef8d3bad9f703f2d29e1dececd44aa2",
+      "type": "png"
+    },
+    {
+      "bytes": 116936,
+      "path": "speck_vs_classical.png",
+      "sha256": "a599f8d33314eafb4aac3e68853da30213ac99df91b2f55e8dabfc43d66469c9",
+      "type": "png"
+    },
+    {
+      "bytes": 68219,
+      "path": "speck_youden_j.png",
+      "sha256": "da20db6440b55b6c2df426909e98773239739f53904a0a4c83291c8fab378fe1",
+      "type": "png"
+    }
+  ],
+  "command": [
+    "C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+    "D:\\BOTH\\scripts\\multi_seed_sweep.py",
+    "--seeds",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "--config",
+    "thesis\\config\\thesis_delta_0040.yaml",
+    "--log-dir",
+    "runs\\thesis_delta_0040",
+    "--fresh-csv",
+    "--force-regen"
+  ],
+  "completed_at": "2026-06-10T13:46:27.390524+00:00",
+  "config": {
+    "path": "D:\\BOTH\\thesis\\config\\thesis_delta_0040.yaml",
+    "resolved": {
+      "cipher": "simon",
+      "ciphers": [
+        "simon",
+        "speck"
+      ],
+      "classical": {
+        "n_samples_simon": 250000,
+        "n_samples_speck": 1000000,
+        "top_k_dp": 32
+      },
+      "data_dir": "thesis/data/cache",
+      "input_delta": [
+        64,
+        0
+      ],
+      "model_dir": "models/thesis_delta_0040",
+      "n_samples_per_round": 100000,
+      "results_dir": "results/thesis_delta_0040",
+      "rounds": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "seed": 1,
+      "train_ratio": 0.7,
+      "training": {
+        "batch_size": 512,
+        "device": "auto",
+        "epochs": 80,
+        "lr": 0.001,
+        "patience": 12,
+        "weight_decay": 0.0001
+      },
+      "val_ratio": 0.15
+    },
+    "sha256": "3ffdf5235ea8fc6b9e9fb8394db77d646b9f87ad6fe3a05263a4dd2e4aa3cb7f"
+  },
+  "created_at": "2026-06-07T13:42:51.707237+00:00",
+  "environment": {
+    "dependencies": {
+      "PyYAML": "6.0.3",
+      "matplotlib": "3.10.9",
+      "numpy": "2.4.4",
+      "scikit-learn": "1.9.0",
+      "seaborn": "0.13.2",
+      "torch": "2.12.0+cpu"
+    },
+    "machine": "AMD64",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 151 Stepping 5, GenuineIntel",
+    "python": "3.13.9 (tags/v3.13.9:8183fa5, Oct 14 2025, 14:09:13) [MSC v.1944 64 bit (AMD64)]",
+    "python_executable": "C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python313\\python.exe"
+  },
+  "git": {
+    "branch": "main",
+    "commit": "f271ec881c06dc6633f426437c7480b89312a726",
+    "dirty": true
+  },
+  "parameters": {
+    "ciphers": [
+      "simon",
+      "speck"
+    ],
+    "force_regen": true,
+    "fresh_csv_first_seed": true,
+    "input_delta": [
+      64,
+      0
+    ],
+    "n_samples_per_round": 100000,
+    "profile": "full",
+    "rounds": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "seeds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "test_gate": true,
+    "training": {
+      "batch_size": 512,
+      "device": "auto",
+      "epochs": 80,
+      "lr": 0.001,
+      "patience": 12,
+      "weight_decay": 0.0001
+    }
+  },
+  "paths": {
+    "data_dir": "thesis/data/cache",
+    "log_dir": "runs\\thesis_delta_0040",
+    "model_dir": "models/thesis_delta_0040",
+    "results_dir": "D:\\BOTH\\results\\thesis_delta_0040\\run_20260607_164251"
+  },
+  "progress": {
+    "completed_seeds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "failed_seeds": []
+  },
+  "run_type": "multi_seed_sweep",
+  "schema_version": 3,
+  "statistics": {
+    "dispersion": "sample standard deviation (ddof=1; zero for one seed)",
+    "error_bars": "95% Student-t confidence interval across seeds; clipped to the mathematical range of bounded metrics",
+    "grouping": [
+      "cipher",
+      "rounds",
+      "split"
+    ]
+  },
+  "status": "completed",
+  "updated_at": "2026-06-10T13:46:27.390541+00:00",
+  "working_directory": "D:\\BOTH"
+}

@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+.venv/
+venv/
+
+# Experiment outputs (regenerate via experiments/run_all.py)
+results/
+data/
+models/*.pt
+models/*.pkl
+models/thresholds.json
+
+# Keep directory placeholders if needed
+!models/.gitkeep
+!results/.gitkeep

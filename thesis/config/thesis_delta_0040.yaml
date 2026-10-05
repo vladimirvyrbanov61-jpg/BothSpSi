@@ -1,0 +1,35 @@
+# Full input-difference sensitivity experiment for Simon32/64 + Speck32/64.
+# This profile intentionally differs from thesis.yaml only in input_delta
+# and isolated output directories.
+
+cipher: simon
+
+input_delta: [0x0040, 0x0000]
+
+n_samples_per_round: 100000
+train_ratio: 0.7
+val_ratio: 0.15
+
+rounds: [3, 4, 5, 6, 7, 8, 9, 10]
+
+seed: 1
+data_dir: thesis/data/cache
+
+model_dir: models/thesis_delta_0040
+results_dir: results/thesis_delta_0040
+
+training:
+  epochs: 80
+  batch_size: 512
+  lr: 0.001
+  weight_decay: 0.0001
+  patience: 12
+  device: auto
+
+ciphers: [simon, speck]
+
+classical:
+  n_samples_speck: 1000000
+  n_samples_simon: 250000
+  top_k_dp: 32
+  monte_carlo_repetitions: 3

@@ -1,0 +1,325 @@
+{
+  "artifacts": [
+    {
+      "bytes": 80043,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r3_58146f365dae3eca85cf.npz",
+      "role": "dataset_cache",
+      "rounds": 3,
+      "seed": 1,
+      "sha256": "6a316414c4e09f437314f13866762c39b4893e8b611dde676b1e0cba57661130",
+      "type": "npz"
+    },
+    {
+      "bytes": 136961,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260924_172038_570545/seed_1/simon/R3.pt",
+      "role": "model_checkpoint",
+      "rounds": 3,
+      "seed": 1,
+      "sha256": "0d5debe4eba6f99dde04c3b09b8f7934c341e35e2971b559503740354adcf3c8",
+      "type": "pt"
+    },
+    {
+      "bytes": 80523,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r4_974026be3dd103face21.npz",
+      "role": "dataset_cache",
+      "rounds": 4,
+      "seed": 1,
+      "sha256": "0201abeaa51f0b042a57cc88171ad53f741c784265fa5564be19623b2a05ee8e",
+      "type": "npz"
+    },
+    {
+      "bytes": 136961,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260924_172038_570545/seed_1/simon/R4.pt",
+      "role": "model_checkpoint",
+      "rounds": 4,
+      "seed": 1,
+      "sha256": "31630b9cea96c3e43ff745182a234004b0874147ebcf2b41c93549d362592ecd",
+      "type": "pt"
+    },
+    {
+      "bytes": 80780,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r5_2eb5733e9afeb35e5272.npz",
+      "role": "dataset_cache",
+      "rounds": 5,
+      "seed": 1,
+      "sha256": "faf816c0e1d01685a8db619b922a41d7f415d064f272a37cde682e52f16e125e",
+      "type": "npz"
+    },
+    {
+      "bytes": 136961,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260924_172038_570545/seed_1/simon/R5.pt",
+      "role": "model_checkpoint",
+      "rounds": 5,
+      "seed": 1,
+      "sha256": "832a034dec876d88eeea5131c7156321dbd84a8996aaf24f2e1bd3f014a08d50",
+      "type": "pt"
+    },
+    {
+      "bytes": 80734,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r6_999d1d281353f5e26db8.npz",
+      "role": "dataset_cache",
+      "rounds": 6,
+      "seed": 1,
+      "sha256": "aea167e4b30c5ff91e1eb4e53ec3738822a0a9de0e65ecff66e7a746a06be089",
+      "type": "npz"
+    },
+    {
+      "bytes": 136961,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260924_172038_570545/seed_1/simon/R6.pt",
+      "role": "model_checkpoint",
+      "rounds": 6,
+      "seed": 1,
+      "sha256": "5b041b41d72c2cd43ff3459c6a004251ba4cf59b74fd09f946d810c1f5a1ba6d",
+      "type": "pt"
+    },
+    {
+      "bytes": 80811,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r7_0e5126e6e2604f6e41dc.npz",
+      "role": "dataset_cache",
+      "rounds": 7,
+      "seed": 1,
+      "sha256": "fa30b98402acc56ead4dc12be49076d943b4ad3cfa6e94c6b58212048e56441d",
+      "type": "npz"
+    },
+    {
+      "bytes": 136961,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260924_172038_570545/seed_1/simon/R7.pt",
+      "role": "model_checkpoint",
+      "rounds": 7,
+      "seed": 1,
+      "sha256": "e15e99372c2708b4652fcdc893abf5533503b033d6d84382c235464b99267620",
+      "type": "pt"
+    },
+    {
+      "bytes": 80747,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r8_0e3ca6b75db74f92484e.npz",
+      "role": "dataset_cache",
+      "rounds": 8,
+      "seed": 1,
+      "sha256": "dbefc753e366d8e9c0a39b3ce1965cea4cf42e216790394ade1bd3eee08b6d7d",
+      "type": "npz"
+    },
+    {
+      "bytes": 136961,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260924_172038_570545/seed_1/simon/R8.pt",
+      "role": "model_checkpoint",
+      "rounds": 8,
+      "seed": 1,
+      "sha256": "1a7101c5060a9647e99c1d3654fe82487f7a4037799d23cebcab61561cfa770b",
+      "type": "pt"
+    },
+    {
+      "bytes": 80638,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r9_6b53255a14481f98dd17.npz",
+      "role": "dataset_cache",
+      "rounds": 9,
+      "seed": 1,
+      "sha256": "6cac1b0fa7c357c253f8c906fd71ecac60d25960d51ce93993b98bcca2f1fee1",
+      "type": "npz"
+    },
+    {
+      "bytes": 136961,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260924_172038_570545/seed_1/simon/R9.pt",
+      "role": "model_checkpoint",
+      "rounds": 9,
+      "seed": 1,
+      "sha256": "43070dbf21093f4003c7c89eb4d7a46426735af7f2f872b0598ab28f0be92c4c",
+      "type": "pt"
+    },
+    {
+      "bytes": 80788,
+      "cipher": "simon",
+      "path": "thesis/data/cache/simon_r10_6d51378e958fb930fc35.npz",
+      "role": "dataset_cache",
+      "rounds": 10,
+      "seed": 1,
+      "sha256": "a914a6c0e6e8eb84f5a2ba68726889479127b617e7a8a6435268ba3b552dc03b",
+      "type": "npz"
+    },
+    {
+      "bytes": 137694,
+      "cipher": "simon",
+      "path": "models/thesis/run_20260924_172038_570545/seed_1/simon/R10.pt",
+      "role": "model_checkpoint",
+      "rounds": 10,
+      "seed": 1,
+      "sha256": "7b9a6214104119003b594a16c74fdf3feef83c3eaf00c1fbb87aeec290828501",
+      "type": "pt"
+    },
+    {
+      "bytes": 80647,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r3_b44e2bf9712d41c54c71.npz",
+      "role": "dataset_cache",
+      "rounds": 3,
+      "seed": 1,
+      "sha256": "0e2cf9a7e8c512264a74c01a793395bd9a3ea37bff27f1bee59e0b641067dc4d",
+      "type": "npz"
+    },
+    {
+      "bytes": 136961,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260924_172038_570545/seed_1/speck/R3.pt",
+      "role": "model_checkpoint",
+      "rounds": 3,
+      "seed": 1,
+      "sha256": "a14162b400a8d8a23b137af7da6fe6940c434b76bc568b2c18fccb40e4eb001a",
+      "type": "pt"
+    },
+    {
+      "bytes": 80720,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r4_a1ef5464bd6fbb8843bf.npz",
+      "role": "dataset_cache",
+      "rounds": 4,
+      "seed": 1,
+      "sha256": "6fa48da41dd0f4274acf81f07d876d4198c4d63cd8e2a541b848779443ab86e8",
+      "type": "npz"
+    },
+    {
+      "bytes": 136961,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260924_172038_570545/seed_1/speck/R4.pt",
+      "role": "model_checkpoint",
+      "rounds": 4,
+      "seed": 1,
+      "sha256": "a99685d583faf9b425e65e29a4bfb0760b972d52242f40cb12e2651dce2de1ac",
+      "type": "pt"
+    },
+    {
+      "bytes": 80560,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r5_dde22a7e3474bf238da5.npz",
+      "role": "dataset_cache",
+      "rounds": 5,
+      "seed": 1,
+      "sha256": "fdc387e5064abaead7a7b7ccbe52e859dc04f49bef52e52c9440963f925e81b9",
+      "type": "npz"
+    },
+    {
+      "bytes": 136961,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260924_172038_570545/seed_1/speck/R5.pt",
+      "role": "model_checkpoint",
+      "rounds": 5,
+      "seed": 1,
+      "sha256": "552788361fc376576dccd65d75afd5bf49bce4de480fd0289781f7bf6854adf8",
+      "type": "pt"
+    },
+    {
+      "bytes": 80728,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r6_93e7e9b9d95370cd6c27.npz",
+      "role": "dataset_cache",
+      "rounds": 6,
+      "seed": 1,
+      "sha256": "58f47d139b5f1237ddf63c58e9747cfec3d0812a25e0c48f9b40f5fe48951d07",
+      "type": "npz"
+    },
+    {
+      "bytes": 136961,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260924_172038_570545/seed_1/speck/R6.pt",
+      "role": "model_checkpoint",
+      "rounds": 6,
+      "seed": 1,
+      "sha256": "9b54e2d379ed656100ab0ed495ba396c4d53335e1c90c00a4b5a7a85fa3dcb5a",
+      "type": "pt"
+    },
+    {
+      "bytes": 80703,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r7_e452493155843b953b37.npz",
+      "role": "dataset_cache",
+      "rounds": 7,
+      "seed": 1,
+      "sha256": "a869224cf939e17779eb7408e5d03155fff10c970deac995e2b88664a0ecd0c0",
+      "type": "npz"
+    },
+    {
+      "bytes": 136961,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260924_172038_570545/seed_1/speck/R7.pt",
+      "role": "model_checkpoint",
+      "rounds": 7,
+      "seed": 1,
+      "sha256": "b66fbfd3903a6aaa7b26fd7395ec3808d41a8d7acfa7cf7d34ce4360897445c1",
+      "type": "pt"
+    },
+    {
+      "bytes": 80654,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r8_0f1346fc12bf8f58798b.npz",
+      "role": "dataset_cache",
+      "rounds": 8,
+      "seed": 1,
+      "sha256": "a5b2336241cb1467533828de6699a8fb314780e2fd59ad00aa4deb5f1132eeba",
+      "type": "npz"
+    },
+    {
+      "bytes": 136961,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260924_172038_570545/seed_1/speck/R8.pt",
+      "role": "model_checkpoint",
+      "rounds": 8,
+      "seed": 1,
+      "sha256": "019f386511a45b647afd29026209827de4e7a1a063009cea3b9f83af9c924a88",
+      "type": "pt"
+    },
+    {
+      "bytes": 80693,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r9_fc6039943da35fec1148.npz",
+      "role": "dataset_cache",
+      "rounds": 9,
+      "seed": 1,
+      "sha256": "ac4c4809c11a96c2b5556b1b4e288e24823910741200b6bc83f69b261459b890",
+      "type": "npz"
+    },
+    {
+      "bytes": 136961,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260924_172038_570545/seed_1/speck/R9.pt",
+      "role": "model_checkpoint",
+      "rounds": 9,
+      "seed": 1,
+      "sha256": "d9d8999161c0bb51411dceeafb61a623b272bcc3f24da739dd0579a27f10d11c",
+      "type": "pt"
+    },
+    {
+      "bytes": 80665,
+      "cipher": "speck",
+      "path": "thesis/data/cache/speck_r10_7f6eb4460819bcaad533.npz",
+      "role": "dataset_cache",
+      "rounds": 10,
+      "seed": 1,
+      "sha256": "936766197621b82d13198e4499cdbae480d616a2d3fb6598bdb65d9900acda3e",
+      "type": "npz"
+    },
+    {
+      "bytes": 137694,
+      "cipher": "speck",
+      "path": "models/thesis/run_20260924_172038_570545/seed_1/speck/R10.pt",
+      "role": "model_checkpoint",
+      "rounds": 10,
+      "seed": 1,
+      "sha256": "3e00be714605735ce9f0d3fd2f952dc2d9023cf9a82ddc3c833bfec90692e80c",
+      "type": "pt"
+    }
+  ],
+  "schema_version": 1
+}

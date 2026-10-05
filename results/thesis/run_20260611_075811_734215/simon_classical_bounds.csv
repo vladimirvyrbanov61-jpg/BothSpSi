@@ -1,0 +1,9 @@
+schema_version,cipher,rounds,max_characteristic_prob,delta_left,delta_right,method,is_formal_bound,n_samples_row,top_k,seed,repetitions,probability_std,probability_ci95_low,probability_ci95_high
+3,simon,3,0.00390625,1,0,exact_f_ddt_beam_search,false,250000,32,1,1,0.0,0.00390625,0.00390625
+3,simon,4,0.0009765625,1,0,exact_f_ddt_beam_search,false,250000,32,1,1,0.0,0.0009765625,0.0009765625
+3,simon,5,1.52587890625e-05,1,0,exact_f_ddt_beam_search,false,250000,32,1,1,0.0,1.52587890625e-05,1.52587890625e-05
+3,simon,6,9.5367431640625e-07,1,0,exact_f_ddt_beam_search,false,250000,32,1,1,0.0,9.5367431640625e-07,9.5367431640625e-07
+3,simon,7,2.9802322387695312e-08,1,0,exact_f_ddt_beam_search,false,250000,32,1,1,0.0,2.9802322387695312e-08,2.9802322387695312e-08
+3,simon,8,3.725290298461914e-09,1,0,exact_f_ddt_beam_search,false,250000,32,1,1,0.0,3.725290298461914e-09,3.725290298461914e-09
+3,simon,9,9.313225746154785e-10,1,0,exact_f_ddt_beam_search,false,250000,32,1,1,0.0,9.313225746154785e-10,9.313225746154785e-10
+3,simon,10,5.820766091346741e-11,1,0,exact_f_ddt_beam_search,false,250000,32,1,1,0.0,5.820766091346741e-11,5.820766091346741e-11

@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "both-neural-cryptanalysis"
+version = "1.0.0"
+description = "Neural differential cryptanalysis of SIMON32/64 and SPECK32/64"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "numpy>=1.24",
+  "PyYAML>=6.0",
+  "scikit-learn>=1.3",
+  "scipy>=1.11",
+  "torch>=2.1",
+  "matplotlib>=3.7",
+  "seaborn>=0.13",
+  "tensorboard>=2.14",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=7.0"]
+
+[project.scripts]
+both-thesis = "thesis.run_thesis:main"
+both-multi-seed = "scripts.multi_seed_sweep:main"
+
+[tool.setuptools.packages.find]
+include = ["ciphers*", "scripts*", "Simon*", "Speck*", "thesis*"]
+exclude = ["Archive*", "tests*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests", "Simon", "Speck"]
+addopts = "--strict-markers"

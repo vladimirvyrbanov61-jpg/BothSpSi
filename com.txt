@@ -1,0 +1,7 @@
+py -m scripts.multi_seed_sweep --seeds 1 2 3 4 5 6 7 8 9 10 --profile full --log-dir runs/thesis --fresh-csv --force-regen --force-classical
+
+py -m thesis.run_thesis --profile quick --fresh-csv
+
+py -m tensorboard.main --logdir runs/thesis
+
+py -m thesis.run_thesis --profile full --skip-sweep --results-dir results/thesis/run_YYYYMMDD_HHMMSS_microseconds
